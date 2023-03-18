@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.0">
+  <book code="OBA" style="id">Obadiah</book>
+  <para style="mt">Obadiah</para>
+  <chapter number="1" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />The vision of Obadiah. Thus saith the Lord <char style="nd">God</char> concerning Edom; We have heard a rumour from the <char style="nd">Lord</char>, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.</para>
+  <para style="p">
+    <verse number="2" style="v" />Behold, I have made thee small among the heathen: thou art greatly despised.</para>
+  <para style="p">
+    <verse number="3" style="v" />The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?</para>
+  <para style="p">
+    <verse number="4" style="v" />Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the <char style="nd">Lord</char>.</para>
+  <para style="p">
+    <verse number="5" style="v" />If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?<note caller="+" style="f"><char style="ft" closed="false">some…: or, gleanings?</char></note></para>
+  <para style="p">
+    <verse number="6" style="v" />How are the things of Esau searched out! how are his hidden things sought up!</para>
+  <para style="p">
+    <verse number="7" style="v" />All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him.<note caller="+" style="f"><char style="ft" closed="false">that were…: Heb. of thy peace</char></note><note caller="+" style="f"><char style="ft" closed="false">they…: Heb. the men of thy bread</char></note><note caller="+" style="f"><char style="ft" closed="false">in him: or, of it</char></note></para>
+  <para style="p">
+    <verse number="8" style="v" />Shall I not in that day, saith the <char style="nd">Lord</char>, even destroy the wise men out of Edom, and understanding out of the mount of Esau?</para>
+  <para style="p">
+    <verse number="9" style="v" />And thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter.</para>
+  <para style="p">
+    <verse number="10" style="v" />For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.</para>
+  <para style="p">
+    <verse number="11" style="v" />In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.<note caller="+" style="f"><char style="ft" closed="false">captive…: or, his substance</char></note></para>
+  <para style="p">
+    <verse number="12" style="v" />But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.<note caller="+" style="f"><char style="ft" closed="false">spoken…: Heb. magnified thy mouth</char></note></para>
+  <para style="p">
+    <verse number="13" style="v" />Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;<note caller="+" style="f"><char style="ft" closed="false">substance: or, forces</char></note></para>
+  <para style="p">
+    <verse number="14" style="v" />Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.<note caller="+" style="f"><char style="ft" closed="false">delivered up: or, shut up</char></note></para>
+  <para style="p">
+    <verse number="15" style="v" />For the day of the <char style="nd">Lord</char> is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.</para>
+  <para style="p">
+    <verse number="16" style="v" />For as ye have drunk upon my holy mountain, so shall all the heathen drink continually, yea, they shall drink, and they shall swallow down, and they shall be as though they had not been.<note caller="+" style="f"><char style="ft" closed="false">swallow…: or, sup up</char></note></para>
+  <para style="p">
+    <verse number="17" style="v" />But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.<note caller="+" style="f"><char style="ft" closed="false">deliverance: or, they that escape</char></note><note caller="+" style="f"><char style="ft" closed="false">there…: or, it shall be holy</char></note></para>
+  <para style="p">
+    <verse number="18" style="v" />And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the <char style="nd">Lord</char> hath spoken it.</para>
+  <para style="p">
+    <verse number="19" style="v" />And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.</para>
+  <para style="p">
+    <verse number="20" style="v" />And the captivity of this host of the children of Israel shall possess that of the Canaanites, even unto Zarephath; and the captivity of Jerusalem, which is in Sepharad, shall possess the cities of the south.<note caller="+" style="f"><char style="ft" closed="false">which…: or, shall possess that which is in</char></note></para>
+  <para style="p">
+    <verse number="21" style="v" />And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the <char style="nd">Lord's</char>.</para>
+</usx>

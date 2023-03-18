@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+    <book code="PRO" style="id">Proverbs</book>
+    <para style="mt1">Proverbs</para>
+	<chapter number="1" style="c" />
+	<para style="p"><verse number="1" style="v" />Proverbs of Solomon, son of David, king of Israel:</para>
+	<para style="p"><verse number="2" style="v" />For knowing wisdom and instruction, For understanding sayings of intelligence,</para>
+	<para style="p"><verse number="3" style="v" />For receiving the instruction of wisdom, Righteousness, judgment, and uprightness,</para>
+	<para style="p"><verse number="4" style="v" />For giving to simple ones--prudence, To a youth--knowledge and discretion.</para>
+	<para style="p"><verse number="5" style="v" />(The wise doth hear and increaseth learning, And the intelligent doth obtain counsels.)</para>
+	<para style="p"><verse number="6" style="v" />For understanding a proverb and its sweetness, Words of the wise and their acute sayings.</para>
+	<para style="p"><verse number="7" style="v" />Fear of Jehovah [is] a beginning of knowledge, Wisdom and instruction fools have despised!</para>
+	<para style="p"><verse number="8" style="v" />Hear, my son, the instruction of thy father, And leave not the law of thy mother,</para>
+	<para style="p"><verse number="9" style="v" />For a graceful wreath [are] they to thy head, And chains to thy neck.</para>
+	<para style="p"><verse number="10" style="v" />My son, if sinners entice thee be not willing.</para>
+	<para style="p"><verse number="11" style="v" />If they say, `Come with us, we lay wait for blood, We watch secretly for the innocent without cause,</para>
+	<para style="p"><verse number="12" style="v" />We swallow them as Sheol--alive, And whole--as those going down [to] the pit,</para>
+	<para style="p"><verse number="13" style="v" />Every precious substance we find, We fill our houses [with] spoil,</para>
+	<para style="p"><verse number="14" style="v" />Thy lot thou dost cast among us, One purse is--to all of us.'</para>
+	<para style="p"><verse number="15" style="v" />My son! go not in the way with them, Withhold thy foot from their path,</para>
+	<para style="p"><verse number="16" style="v" />For their feet to evil do run, And they haste to shed blood.</para>
+	<para style="p"><verse number="17" style="v" />Surely in vain is the net spread out before the eyes of any bird.</para>
+	<para style="p"><verse number="18" style="v" />And they for their own blood lay wait, They watch secretly for their own lives.</para>
+	<para style="p"><verse number="19" style="v" />So [are] the paths of every gainer of dishonest gain, The life of its owners it taketh.</para>
+	<para style="p"><verse number="20" style="v" />Wisdom in an out-place crieth aloud, In broad places she giveth forth her voice,</para>
+	<para style="p"><verse number="21" style="v" />At the head of the multitudes she calleth, In the openings of the gates, In the city her sayings she saith:</para>
+	<para style="p"><verse number="22" style="v" />`Till when, ye simple, do ye love simplicity? And have scorners their scorning desired? And do fools hate knowledge?</para>
+	<para style="p"><verse number="23" style="v" />Turn back at my reproof, lo, I pour forth to you my spirit, I make known my words with you.</para>
+	<para style="p"><verse number="24" style="v" />Because I have called, and ye refuse, I stretched out my hand, and none is attending,</para>
+	<para style="p"><verse number="25" style="v" />And ye slight all my counsel, And my reproof ye have not desired.</para>
+	<para style="p"><verse number="26" style="v" />I also in your calamity do laugh, I deride when your fear cometh,</para>
+	<para style="p"><verse number="27" style="v" />When your fear cometh as destruction, And your calamity as a hurricane doth come, When on you come adversity and distress.</para>
+	<para style="p"><verse number="28" style="v" />Then they call me, and I do not answer, They seek me earnestly, and find me not.</para>
+	<para style="p"><verse number="29" style="v" />Because that they have hated knowledge, And the fear of Jehovah have not chosen.</para>
+	<para style="p"><verse number="30" style="v" />They have not consented to my counsel, They have despised all my reproof,</para>
+	<para style="p"><verse number="31" style="v" />And they eat of the fruit of their way, And from their own counsels they are filled.</para>
+	<para style="p"><verse number="32" style="v" />For the turning of the simple slayeth them, And the security of the foolish destroyeth them.</para>
+	<para style="p"><verse number="33" style="v" />And whoso is hearkening to me dwelleth confidently, And [is] quiet from fear of evil!'</para>
+	<chapter number="2" style="c" />
+	<para style="p"><verse number="1" style="v" />My son, if thou dost accept my sayings, And my commands dost lay up with thee,</para>
+	<para style="p"><verse number="2" style="v" />To cause thine ear to attend to wisdom, Thou inclinest thy heart to understanding,</para>
+	<para style="p"><verse number="3" style="v" />For, if for intelligence thou callest, For understanding givest forth thy voice,</para>
+	<para style="p"><verse number="4" style="v" />If thou dost seek her as silver, And as hid treasures searchest for her,</para>
+	<para style="p"><verse number="5" style="v" />Then understandest thou fear of Jehovah, And knowledge of God thou findest.</para>
+	<para style="p"><verse number="6" style="v" />For Jehovah giveth wisdom, From His mouth knowledge and understanding.</para>
+	<para style="p"><verse number="7" style="v" />Even to lay up for the upright substance, A shield for those walking uprightly.</para>
+	<para style="p"><verse number="8" style="v" />To keep the paths of judgment, And the way of His saints He preserveth.</para>
+	<para style="p"><verse number="9" style="v" />Then understandest thou righteousness, And judgment, and uprightness--every good path.</para>
+	<para style="p"><verse number="10" style="v" />For wisdom cometh into thy heart, And knowledge to thy soul is pleasant,</para>
+	<para style="p"><verse number="11" style="v" />Thoughtfulness doth watch over thee, Understanding doth keep thee,</para>
+	<para style="p"><verse number="12" style="v" />To deliver thee from an evil way, From any speaking froward things,</para>
+	<para style="p"><verse number="13" style="v" />Who are forsaking paths of uprightness, To walk in ways of darkness,</para>
+	<para style="p"><verse number="14" style="v" />Who are rejoicing to do evil, They delight in frowardness of the wicked,</para>
+	<para style="p"><verse number="15" style="v" />Whose paths [are] crooked, Yea, they are perverted in their ways.</para>
+	<para style="p"><verse number="16" style="v" />To deliver thee from the strange woman, From the stranger who hath made smooth her sayings,</para>
+	<para style="p"><verse number="17" style="v" />Who is forsaking the guide of her youth, And the covenant of her God hath forgotten.</para>
+	<para style="p"><verse number="18" style="v" />For her house hath inclined unto death, And unto Rephaim her paths.</para>
+	<para style="p"><verse number="19" style="v" />None going in unto her turn back, Nor do they reach the paths of life.</para>
+	<para style="p"><verse number="20" style="v" />That thou dost go in the way of the good, And the paths of the righteous dost keep.</para>
+	<para style="p"><verse number="21" style="v" />For the upright do inhabit the earth, And the perfect are left in it,</para>
+	<para style="p"><verse number="22" style="v" />And the wicked from the earth are cut off, And treacherous dealers plucked out of it!</para>
+	<chapter number="3" style="c" />
+	<para style="p"><verse number="1" style="v" />My son! my law forget not, And my commands let thy heart keep,</para>
+	<para style="p"><verse number="2" style="v" />For length of days and years, Life and peace they do add to thee.</para>
+	<para style="p"><verse number="3" style="v" />Let not kindness and truth forsake thee, Bind them on thy neck, Write them on the tablet of thy heart,</para>
+	<para style="p"><verse number="4" style="v" />And find grace and good understanding In the eyes of God and man.</para>
+	<para style="p"><verse number="5" style="v" />Trust unto Jehovah with all thy heart, And unto thine own understanding lean not.</para>
+	<para style="p"><verse number="6" style="v" />In all thy ways know thou Him, And He doth make straight thy paths.</para>
+	<para style="p"><verse number="7" style="v" />Be not wise in thine own eyes, Fear Jehovah, and turn aside from evil.</para>
+	<para style="p"><verse number="8" style="v" />Healing it is to thy navel, And moistening to thy bones.</para>
+	<para style="p"><verse number="9" style="v" />Honour Jehovah from thy substance, And from the beginning of all thine increase;</para>
+	<para style="p"><verse number="10" style="v" />And filled are thy barns [with] plenty, And [with] new wine thy presses break forth.</para>
+	<para style="p"><verse number="11" style="v" />Chastisement of Jehovah, my son, despise not, And be not vexed with His reproof,</para>
+	<para style="p"><verse number="12" style="v" />For whom Jehovah loveth He reproveth, Even as a father the son He is pleased with.</para>
+	<para style="p"><verse number="13" style="v" />O the happiness of a man [who] hath found wisdom, And of a man [who] bringeth forth understanding.</para>
+	<para style="p"><verse number="14" style="v" />For better [is] her merchandise Than the merchandise of silver, And than gold--her increase.</para>
+	<para style="p"><verse number="15" style="v" />Precious she [is] above rubies, And all thy pleasures are not comparable to her.</para>
+	<para style="p"><verse number="16" style="v" />Length of days [is] in her right hand, In her left [are] wealth and honour.</para>
+	<para style="p"><verse number="17" style="v" />Her ways [are] ways of pleasantness, And all her paths [are] peace.</para>
+	<para style="p"><verse number="18" style="v" />A tree of life she [is] to those laying hold on her, And whoso is retaining her [is] happy.</para>
+	<para style="p"><verse number="19" style="v" />Jehovah by wisdom did found the earth, He prepared the heavens by understanding.</para>
+	<para style="p"><verse number="20" style="v" />By His knowledge depths have been rent, And clouds do drop dew.</para>
+	<para style="p"><verse number="21" style="v" />My son! let them not turn from thine eyes, Keep thou wisdom and thoughtfulness,</para>
+	<para style="p"><verse number="22" style="v" />And they are life to thy soul, and grace to thy neck.</para>
+	<para style="p"><verse number="23" style="v" />Then thou goest thy way confidently, And thy foot doth not stumble.</para>
+	<para style="p"><verse number="24" style="v" />If thou liest down, thou art not afraid, Yea, thou hast lain down, And sweet hath been thy sleep.</para>
+	<para style="p"><verse number="25" style="v" />Be not afraid of sudden fear, And of the desolation of the wicked when it cometh.</para>
+	<para style="p"><verse number="26" style="v" />For Jehovah is at thy side, And He hath kept thy foot from capture.</para>
+	<para style="p"><verse number="27" style="v" />Withhold not good from its owners, When thy hand [is] toward God to do [it].</para>
+	<para style="p"><verse number="28" style="v" />Say not thou to thy friend, `Go, and return, and to-morrow I give,' And substance with thee.</para>
+	<para style="p"><verse number="29" style="v" />Devise not against thy neighbour evil, And he sitting confidently with thee.</para>
+	<para style="p"><verse number="30" style="v" />Strive not with a man without cause, If he have not done thee evil.</para>
+	<para style="p"><verse number="31" style="v" />Be not envious of a man of violence, Nor fix thou on any of his ways.</para>
+	<para style="p"><verse number="32" style="v" />For an abomination to Jehovah [is] the perverted, And with the upright [is] His secret counsel.</para>
+	<para style="p"><verse number="33" style="v" />The curse of Jehovah [is] in the house of the wicked. And the habitation of the righteous He blesseth.</para>
+	<para style="p"><verse number="34" style="v" />If the scorners He doth scorn, Yet to the humble He doth give grace.</para>
+	<para style="p"><verse number="35" style="v" />Honour do the wise inherit, And fools are bearing away shame!</para>
+	<chapter number="4" style="c" />
+	<para style="p"><verse number="1" style="v" />Hear, ye sons, the instruction of a father, And give attention to know understanding.</para>
+	<para style="p"><verse number="2" style="v" />For good learning I have given to you, My law forsake not.</para>
+	<para style="p"><verse number="3" style="v" />For, a son I have been to my father--tender, And an only one before my mother.</para>
+	<para style="p"><verse number="4" style="v" />And he directeth me, and he saith to me: `Let thy heart retain my words, Keep my commands, and live.</para>
+	<para style="p"><verse number="5" style="v" />Get wisdom, get understanding, Do not forget, nor turn away From the sayings of my mouth.</para>
+	<para style="p"><verse number="6" style="v" />Forsake her not, and she doth preserve thee, Love her, and she doth keep thee.</para>
+	<para style="p"><verse number="7" style="v" />The first thing [is] wisdom--get wisdom, And with all thy getting get understanding.</para>
+	<para style="p"><verse number="8" style="v" />Exalt her, and she doth lift thee up, She honoureth thee, when thou dost embrace her.</para>
+	<para style="p"><verse number="9" style="v" />She giveth to thy head a wreath of grace, A crown of beauty she doth give thee freely.</para>
+	<para style="p"><verse number="10" style="v" />Hear, my son, and receive my sayings, And years of life [are] multiplied to thee.</para>
+	<para style="p"><verse number="11" style="v" />In a way of wisdom I have directed thee, I have caused thee to tread in paths of uprightness.</para>
+	<para style="p"><verse number="12" style="v" />In thy walking thy step is not straitened, And if thou runnest, thou stumblest not.</para>
+	<para style="p"><verse number="13" style="v" />Lay hold on instruction, do not desist, Keep her, for she [is] thy life.</para>
+	<para style="p"><verse number="14" style="v" />Into the path of the wicked enter not, And be not happy in a way of evil doers.</para>
+	<para style="p"><verse number="15" style="v" />Avoid it, pass not over into it, Turn aside from it, and pass on.</para>
+	<para style="p"><verse number="16" style="v" />For they sleep not if they do not evil, And their sleep hath been taken violently away, If they cause not [some] to stumble.</para>
+	<para style="p"><verse number="17" style="v" />For they have eaten bread of wickedness, And wine of violence they drink.</para>
+	<para style="p"><verse number="18" style="v" />And the path of the righteous [is] as a shining light, Going and brightening till the day is established,</para>
+	<para style="p"><verse number="19" style="v" />The way of the wicked [is] as darkness, They have not known at what they stumble.</para>
+	<para style="p"><verse number="20" style="v" />My son, to my words give attention, To my sayings incline thine ear,</para>
+	<para style="p"><verse number="21" style="v" />Let them not turn aside from thine eyes, Preserve them in the midst of thy heart.</para>
+	<para style="p"><verse number="22" style="v" />For life they [are] to those finding them, And to all their flesh healing.</para>
+	<para style="p"><verse number="23" style="v" />Above every charge keep thy heart, For out of it [are] the outgoings of life.</para>
+	<para style="p"><verse number="24" style="v" />Turn aside from thee a froward mouth, And perverse lips put far from thee,</para>
+	<para style="p"><verse number="25" style="v" />Thine eyes do look straightforward, And thine eyelids look straight before thee.</para>
+	<para style="p"><verse number="26" style="v" />Ponder thou the path of thy feet, And all thy ways [are] established.</para>
+	<para style="p"><verse number="27" style="v" />Incline not [to] the right or to the left, Turn aside thy foot from evil!</para>
+	<chapter number="5" style="c" />
+	<para style="p"><verse number="1" style="v" />My son! to my wisdom give attention, To mine understanding incline thine ear,</para>
+	<para style="p"><verse number="2" style="v" />To observe thoughtfulness, And knowledge do thy lips keep.</para>
+	<para style="p"><verse number="3" style="v" />For the lips of a strange woman drop honey, And smoother than oil [is] her mouth,</para>
+	<para style="p"><verse number="4" style="v" />And her latter end [is] bitter as wormwood, Sharp as a sword [with] mouths.</para>
+	<para style="p"><verse number="5" style="v" />Her feet are going down to death, Sheol do her steps take hold of.</para>
+	<para style="p"><verse number="6" style="v" />The path of life--lest thou ponder, Moved have her paths--thou knowest not.</para>
+	<para style="p"><verse number="7" style="v" />And now, ye sons, hearken to me, And turn not from sayings of my mouth.</para>
+	<para style="p"><verse number="8" style="v" />Keep far from off her thy way, And come not near unto the opening of her house,</para>
+	<para style="p"><verse number="9" style="v" />Lest thou give to others thy honour, And thy years to the fierce,</para>
+	<para style="p"><verse number="10" style="v" />Lest strangers be filled [with] thy power, And thy labours in the house of a stranger,</para>
+	<para style="p"><verse number="11" style="v" />And thou hast howled in thy latter end, In the consumption of thy flesh and thy food,</para>
+	<para style="p"><verse number="12" style="v" />And hast said, `How have I hated instruction, And reproof hath my heart despised,</para>
+	<para style="p"><verse number="13" style="v" />And I have not hearkened to the voice of my directors, And to my teachers have not inclined mine ear.</para>
+	<para style="p"><verse number="14" style="v" />As a little thing I have been all evil, In the midst of an assembly and a company.</para>
+	<para style="p"><verse number="15" style="v" />Drink waters out of thine own cistern, Even flowing ones out of thine own well.</para>
+	<para style="p"><verse number="16" style="v" />Let thy fountains be scattered abroad, In broad places rivulets of waters.</para>
+	<para style="p"><verse number="17" style="v" />Let them be to thee for thyself, And not to strangers with thee.</para>
+	<para style="p"><verse number="18" style="v" />Let thy fountain be blessed, And rejoice because of the wife of thy youth,</para>
+	<para style="p"><verse number="19" style="v" />A hind of loves, and a roe of grace! Let her loves satisfy thee at all times, In her love magnify thyself continually.</para>
+	<para style="p"><verse number="20" style="v" />And why dost thou magnify thyself, My son, with a stranger? And embrace the bosom of a strange woman?</para>
+	<para style="p"><verse number="21" style="v" />For over-against the eyes of Jehovah are the ways of each, And all his paths He is pondering.</para>
+	<para style="p"><verse number="22" style="v" />His own iniquities do capture the wicked, And with the ropes of his sin he is holden.</para>
+	<para style="p"><verse number="23" style="v" />He dieth without instruction, And in the abundance of his folly magnifieth himself!</para>
+	<chapter number="6" style="c" />
+	<para style="p"><verse number="1" style="v" />My son! if thou hast been surety for thy friend, Hast stricken for a stranger thy hand,</para>
+	<para style="p"><verse number="2" style="v" />Hast been snared with sayings of thy mouth, Hast been captured with sayings of thy mouth,</para>
+	<para style="p"><verse number="3" style="v" />Do this now, my son, and be delivered, For thou hast come into the hand of thy friend. Go, trample on thyself, and strengthen thy friend,</para>
+	<para style="p"><verse number="4" style="v" />Give not sleep to thine eyes, And slumber to thine eyelids,</para>
+	<para style="p"><verse number="5" style="v" />Be delivered as a roe from the hand, And as a bird from the hand of a fowler.</para>
+	<para style="p"><verse number="6" style="v" />Go unto the ant, O slothful one, See her ways and be wise;</para>
+	<para style="p"><verse number="7" style="v" />Which hath not captain, overseer, and ruler,</para>
+	<para style="p"><verse number="8" style="v" />She doth prepare in summer her bread, She hath gathered in harvest her food.</para>
+	<para style="p"><verse number="9" style="v" />Till when, O slothful one, dost thou lie? When dost thou arise from thy sleep?</para>
+	<para style="p"><verse number="10" style="v" />A little sleep, a little slumber, A little clasping of the hands to rest,</para>
+	<para style="p"><verse number="11" style="v" />And thy poverty hath come as a traveller, And thy want as an armed man.</para>
+	<para style="p"><verse number="12" style="v" />A man of worthlessness, a man of iniquity, Walking [with] perverseness of mouth,</para>
+	<para style="p"><verse number="13" style="v" />Winking with his eyes, speaking with his feet, Directing with his fingers,</para>
+	<para style="p"><verse number="14" style="v" />Frowardness [is] in his heart, devising evil at all times, Contentions he sendeth forth.</para>
+	<para style="p"><verse number="15" style="v" />Therefore suddenly cometh his calamity, Instantly he is broken--and no healing.</para>
+	<para style="p"><verse number="16" style="v" />These six hath Jehovah hated, Yea, seven [are] abominations to His soul.</para>
+	<para style="p"><verse number="17" style="v" />Eyes high--tongues false--And hands shedding innocent blood--</para>
+	<para style="p"><verse number="18" style="v" />A heart devising thoughts of vanity--Feet hasting to run to evil--</para>
+	<para style="p"><verse number="19" style="v" />A false witness [who] doth breathe out lies--And one sending forth contentions between brethren.</para>
+	<para style="p"><verse number="20" style="v" />Keep, my son, the command of thy father, And leave not the law of thy mother.</para>
+	<para style="p"><verse number="21" style="v" />Bind them on thy heart continually, Tie them on thy neck.</para>
+	<para style="p"><verse number="22" style="v" />In thy going up and down, it leadeth thee, In thy lying down, it watcheth over thee, And thou hast awaked--it talketh [with] thee.</para>
+	<para style="p"><verse number="23" style="v" />For a lamp [is] the command, And the law a light, And a way of life [are] reproofs of instruction,</para>
+	<para style="p"><verse number="24" style="v" />To preserve thee from an evil woman, From the flattery of the tongue of a strange woman.</para>
+	<para style="p"><verse number="25" style="v" />Desire not her beauty in thy heart, And let her not take thee with her eyelids.</para>
+	<para style="p"><verse number="26" style="v" />For a harlot consumeth unto a cake of bread, And an adulteress the precious soul hunteth.</para>
+	<para style="p"><verse number="27" style="v" />Doth a man take fire into his bosom, And are his garments not burnt?</para>
+	<para style="p"><verse number="28" style="v" />Doth a man walk on the hot coals, And are his feet not scorched?</para>
+	<para style="p"><verse number="29" style="v" />So [is] he who hath gone in unto the wife of his neighbour, None who doth touch her is innocent.</para>
+	<para style="p"><verse number="30" style="v" />They do not despise the thief, When he stealeth to fill his soul when he is hungry,</para>
+	<para style="p"><verse number="31" style="v" />And being found he repayeth sevenfold, All the substance of his house he giveth.</para>
+	<para style="p"><verse number="32" style="v" />He who committeth adultery [with] a woman lacketh heart, He is destroying his soul who doth it.</para>
+	<para style="p"><verse number="33" style="v" />A stroke and shame he doth find, And his reproach is not wiped away,</para>
+	<para style="p"><verse number="34" style="v" />For jealousy [is] the fury of a man, And he doth not spare in a day of vengeance.</para>
+	<para style="p"><verse number="35" style="v" />He accepteth not the appearance of any atonement, Yea, he doth not consent, Though thou dost multiply bribes!</para>
+	<chapter number="7" style="c" />
+	<para style="p"><verse number="1" style="v" />My son! keep my sayings, And my commands lay up with thee.</para>
+	<para style="p"><verse number="2" style="v" />Keep my commands, and live, And my law as the pupil of thine eye.</para>
+	<para style="p"><verse number="3" style="v" />Bind them on thy fingers, Write them on the tablet of thy heart.</para>
+	<para style="p"><verse number="4" style="v" />Say to wisdom, `My sister Thou [art].' And cry to understanding, `Kinswoman!'</para>
+	<para style="p"><verse number="5" style="v" />To preserve thee from a strange woman, From a stranger who hath made smooth her sayings.</para>
+	<para style="p"><verse number="6" style="v" />For, at a window of my house, Through my casement I have looked out,</para>
+	<para style="p"><verse number="7" style="v" />And I do see among the simple ones, I discern among the sons, A young man lacking understanding,</para>
+	<para style="p"><verse number="8" style="v" />Passing on in the street, near her corner, And the way [to] her house he doth step,</para>
+	<para style="p"><verse number="9" style="v" />In the twilight--in the evening of day, In the darkness of night and blackness.</para>
+	<para style="p"><verse number="10" style="v" />And, lo, a woman to meet him--(A harlot's dress, and watchful of heart,</para>
+	<para style="p"><verse number="11" style="v" />Noisy she [is], and stubborn, In her house her feet rest not.</para>
+	<para style="p"><verse number="12" style="v" />Now in an out-place, now in broad places, And near every corner she lieth in wait) - -</para>
+	<para style="p"><verse number="13" style="v" />And she laid hold on him, and kissed him, She hath hardened her face, and saith to him,</para>
+	<para style="p"><verse number="14" style="v" />`Sacrifices of peace-offerings [are] by me, To-day I have completed my vows.</para>
+	<para style="p"><verse number="15" style="v" />Therefore I have come forth to meet thee, To seek earnestly thy face, and I find thee.</para>
+	<para style="p"><verse number="16" style="v" />[With] ornamental coverings I decked my couch, Carved works--cotton of Egypt.</para>
+	<para style="p"><verse number="17" style="v" />I sprinkled my bed--myrrh, aloes, and cinnamon.</para>
+	<para style="p"><verse number="18" style="v" />Come, we are filled [with] loves till the morning, We delight ourselves in loves.</para>
+	<para style="p"><verse number="19" style="v" />For the man is not in his house, He hath gone on a long journey.</para>
+	<para style="p"><verse number="20" style="v" />A bag of money he hath taken in his hand, At the day of the new moon he cometh to his house.'</para>
+	<para style="p"><verse number="21" style="v" />She turneth him aside with the abundance of her speech, With the flattery of her lips she forceth him.</para>
+	<para style="p"><verse number="22" style="v" />He is going after her straightway, As an ox unto the slaughter he cometh, And as a fetter unto the chastisement of a fool,</para>
+	<para style="p"><verse number="23" style="v" />Till an arrow doth split his liver, As a bird hath hastened unto a snare, And hath not known that it [is] for its life.</para>
+	<para style="p"><verse number="24" style="v" />And now, ye sons, hearken to me, And give attention to sayings of my mouth.</para>
+	<para style="p"><verse number="25" style="v" />Let not thy heart turn unto her ways, Do not wander in her paths,</para>
+	<para style="p"><verse number="26" style="v" />For many [are] the wounded she caused to fall, And mighty [are] all her slain ones.</para>
+	<para style="p"><verse number="27" style="v" />The ways of Sheol--her house, Going down unto inner chambers of death!</para>
+	<chapter number="8" style="c" />
+	<para style="p"><verse number="1" style="v" />Doth not wisdom call? And understanding give forth her voice?</para>
+	<para style="p"><verse number="2" style="v" />At the head of high places by the way, Between the paths she hath stood,</para>
+	<para style="p"><verse number="3" style="v" />At the side of the gates, at the mouth of the city, The entrance of the openings, she crieth aloud,</para>
+	<para style="p"><verse number="4" style="v" />`Unto you, O men, I call, And my voice [is] unto the sons of men.</para>
+	<para style="p"><verse number="5" style="v" />Understand, ye simple ones, prudence, And ye fools, understand the heart,</para>
+	<para style="p"><verse number="6" style="v" />Hearken, for noble things I speak, And the opening of my lips [is] uprightness.</para>
+	<para style="p"><verse number="7" style="v" />For truth doth my mouth utter, And an abomination to my lips [is] wickedness.</para>
+	<para style="p"><verse number="8" style="v" />In righteousness [are] all the sayings of my mouth, Nothing in them is froward and perverse.</para>
+	<para style="p"><verse number="9" style="v" />All of them [are] plain to the intelligent, And upright to those finding knowledge.</para>
+	<para style="p"><verse number="10" style="v" />Receive my instruction, and not silver, And knowledge rather than choice gold.</para>
+	<para style="p"><verse number="11" style="v" />For better [is] wisdom than rubies, Yea, all delights are not comparable with it.</para>
+	<para style="p"><verse number="12" style="v" />I, wisdom, have dwelt with prudence, And a knowledge of devices I find out.</para>
+	<para style="p"><verse number="13" style="v" />The fear of Jehovah [is] to hate evil; Pride, and arrogance, and an evil way, And a froward mouth, I have hated.</para>
+	<para style="p"><verse number="14" style="v" />Mine [is] counsel and substance, I [am] understanding, I have might.</para>
+	<para style="p"><verse number="15" style="v" />By me kings reign, and princes decree righteousness,</para>
+	<para style="p"><verse number="16" style="v" />By me do chiefs rule, and nobles, All judges of the earth.</para>
+	<para style="p"><verse number="17" style="v" />I love those loving me, And those seeking me earnestly do find me.</para>
+	<para style="p"><verse number="18" style="v" />Wealth and honour [are] with me, Lasting substance and righteousness.</para>
+	<para style="p"><verse number="19" style="v" />Better [is] my fruit than gold, even fine gold, And mine increase than choice silver.</para>
+	<para style="p"><verse number="20" style="v" />In a path of righteousness I cause to walk, In midst of paths of judgment,</para>
+	<para style="p"><verse number="21" style="v" />To cause my lovers to inherit substance, Yea, their treasures I fill.</para>
+	<para style="p"><verse number="22" style="v" />Jehovah possessed me--the beginning of His way, Before His works since then.</para>
+	<para style="p"><verse number="23" style="v" />From the age I was anointed, from the first, From former states of the earth.</para>
+	<para style="p"><verse number="24" style="v" />In there being no depths, I was brought forth, In there being no fountains heavy [with] waters,</para>
+	<para style="p"><verse number="25" style="v" />Before mountains were sunk, Before heights, I was brought forth.</para>
+	<para style="p"><verse number="26" style="v" />While He had not made the earth, and out-places, And the top of the dusts of the world.</para>
+	<para style="p"><verse number="27" style="v" />In His preparing the heavens I [am] there, In His decreeing a circle on the face of the deep,</para>
+	<para style="p"><verse number="28" style="v" />In His strengthening clouds above, In His making strong fountains of the deep,</para>
+	<para style="p"><verse number="29" style="v" />In His setting for the sea its limit, And the waters transgress not His command, In His decreeing the foundations of earth,</para>
+	<para style="p"><verse number="30" style="v" />Then I am near Him, a workman, And I am a delight--day by day. Rejoicing before Him at all times,</para>
+	<para style="p"><verse number="31" style="v" />Rejoicing in the habitable part of His earth, And my delights [are] with the sons of men.</para>
+	<para style="p"><verse number="32" style="v" />And now, ye sons, hearken to me, Yea, happy are they who keep my ways.</para>
+	<para style="p"><verse number="33" style="v" />Hear instruction, and be wise, and slight not.</para>
+	<para style="p"><verse number="34" style="v" />O the happiness of the man hearkening to me, To watch at my doors day by day, To watch at the door-posts of my entrance.</para>
+	<para style="p"><verse number="35" style="v" />For whoso is finding me, hath found life, And bringeth out good-will from Jehovah.</para>
+	<para style="p"><verse number="36" style="v" />And whoso is missing me, is wronging his soul, All hating me have loved death!</para>
+	<chapter number="9" style="c" />
+	<para style="p"><verse number="1" style="v" />Wisdom hath builded her house, She hath hewn out her pillars--seven.</para>
+	<para style="p"><verse number="2" style="v" />She hath slaughtered her slaughter, She hath mingled her wine, Yea, she hath arranged her table.</para>
+	<para style="p"><verse number="3" style="v" />She hath sent forth her damsels, She crieth on the tops of the high places of the city:</para>
+	<para style="p"><verse number="4" style="v" />`Who [is] simple? let him turn aside hither.' Whoso lacketh heart: she hath said to him,</para>
+	<para style="p"><verse number="5" style="v" />`Come, eat of my bread, And drink of the wine I have mingled.</para>
+	<para style="p"><verse number="6" style="v" />Forsake ye, the simple, and live, And be happy in the way of understanding.</para>
+	<para style="p"><verse number="7" style="v" />The instructor of a scorner Is receiving for it--shame, And a reprover of the wicked-- his blemish.</para>
+	<para style="p"><verse number="8" style="v" />Reprove not a scorner, lest he hate thee, Give reproof to the wise, and he loveth thee.</para>
+	<para style="p"><verse number="9" style="v" />Give to the wise, and he is wiser still, Make known to the righteous, And he increaseth learning.</para>
+	<para style="p"><verse number="10" style="v" />The commencement of wisdom [is] the fear of Jehovah, And a knowledge of the Holy Ones [is] understanding.</para>
+	<para style="p"><verse number="11" style="v" />For by me do thy days multiply, And added to thee are years of life.</para>
+	<para style="p"><verse number="12" style="v" />If thou hast been wise, thou hast been wise for thyself, And thou hast scorned-- thyself bearest [it].</para>
+	<para style="p"><verse number="13" style="v" />A foolish woman [is] noisy, Simple, and hath not known what.</para>
+	<para style="p"><verse number="14" style="v" />And she hath sat at the opening of her house, On a throne--the high places of the city,</para>
+	<para style="p"><verse number="15" style="v" />To call to those passing by the way, Who are going straight [on] their paths.</para>
+	<para style="p"><verse number="16" style="v" />`Who [is] simple? let him turn aside hither.' And whoso lacketh heart--she said to him,</para>
+	<para style="p"><verse number="17" style="v" />`Stolen waters are sweet, And hidden bread is pleasant.'</para>
+	<para style="p"><verse number="18" style="v" />And he hath not known that Rephaim [are] there, In deep places of Sheol her invited ones!</para>
+	<chapter number="10" style="c" />
+	<para style="p"><verse number="1" style="v" />Proverbs of Solomon. A wise son causeth a father to rejoice, And a foolish son [is] an affliction to his mother.</para>
+	<para style="p"><verse number="2" style="v" />Treasures of wickedness profit not, And righteousness delivereth from death.</para>
+	<para style="p"><verse number="3" style="v" />Jehovah causeth not the soul of the righteous to hunger, And the desire of the wicked He thrusteth away.</para>
+	<para style="p"><verse number="4" style="v" />Poor [is] he who is working--a slothful hand, And the hand of the diligent maketh rich.</para>
+	<para style="p"><verse number="5" style="v" />Whoso is gathering in summer [is] a wise son, Whoso is sleeping in harvest [is] a son causing shame.</para>
+	<para style="p"><verse number="6" style="v" />Blessings [are] for the head of the righteous, And the mouth of the wicked cover doth violence.</para>
+	<para style="p"><verse number="7" style="v" />The remembrance of the righteous [is] for a blessing, And the name of the wicked doth rot.</para>
+	<para style="p"><verse number="8" style="v" />The wise in heart accepteth commands, And a talkative fool kicketh.</para>
+	<para style="p"><verse number="9" style="v" />Whoso is walking in integrity walketh confidently, And whoso is perverting his ways is known.</para>
+	<para style="p"><verse number="10" style="v" />Whoso is winking the eye giveth grief, And a talkative fool kicketh.</para>
+	<para style="p"><verse number="11" style="v" />A fountain of life [is] the mouth of the righteous, And the mouth of the wicked cover doth violence.</para>
+	<para style="p"><verse number="12" style="v" />Hatred awaketh contentions, And over all transgressions love covereth.</para>
+	<para style="p"><verse number="13" style="v" />In the lips of the intelligent is wisdom found, And a rod [is] for the back of him who is lacking understanding.</para>
+	<para style="p"><verse number="14" style="v" />The wise lay up knowledge, and the mouth of a fool [is] near ruin.</para>
+	<para style="p"><verse number="15" style="v" />The wealth of the rich [is] his strong city, The ruin of the poor [is] their poverty.</para>
+	<para style="p"><verse number="16" style="v" />The wage of the righteous [is] for life, The increase of the wicked for sin.</para>
+	<para style="p"><verse number="17" style="v" />A traveller to life [is] he who is keeping instruction, And whoso is forsaking rebuke is erring.</para>
+	<para style="p"><verse number="18" style="v" />Whoso is covering hatred with lying lips, And whoso is bringing out an evil report is a fool.</para>
+	<para style="p"><verse number="19" style="v" />In the abundance of words transgression ceaseth not, And whoso is restraining his lips [is] wise.</para>
+	<para style="p"><verse number="20" style="v" />The tongue of the righteous [is] chosen silver, The heart of the wicked--as a little thing.</para>
+	<para style="p"><verse number="21" style="v" />The lips of the righteous delight many, And fools for lack of heart die.</para>
+	<para style="p"><verse number="22" style="v" />The blessing of Jehovah--it maketh rich, And He addeth no grief with it.</para>
+	<para style="p"><verse number="23" style="v" />To execute inventions [is] as play to a fool, And wisdom to a man of understanding.</para>
+	<para style="p"><verse number="24" style="v" />The feared thing of the wicked it meeteth him, And the desire of the righteous is given.</para>
+	<para style="p"><verse number="25" style="v" />As the passing by of a hurricane, So the wicked is not, And the righteous is a foundation age-during.</para>
+	<para style="p"><verse number="26" style="v" />As vinegar to the teeth, And as smoke to the eyes, So [is] the slothful to those sending him.</para>
+	<para style="p"><verse number="27" style="v" />The fear of Jehovah addeth days, And the years of the wicked are shortened.</para>
+	<para style="p"><verse number="28" style="v" />The hope of the righteous [is] joyful, And the expectation of the wicked perisheth.</para>
+	<para style="p"><verse number="29" style="v" />The way of Jehovah [is] strength to the perfect, And ruin to workers of iniquity.</para>
+	<para style="p"><verse number="30" style="v" />The righteous to the age is not moved, And the wicked inhabit not the earth.</para>
+	<para style="p"><verse number="31" style="v" />The mouth of the righteous uttereth wisdom, And the tongue of frowardness is cut out.</para>
+	<para style="p"><verse number="32" style="v" />The lips of the righteous know a pleasing thing, And the mouth of the wicked perverseness!</para>
+	<chapter number="11" style="c" />
+	<para style="p"><verse number="1" style="v" />Balances of deceit [are] an abomination to Jehovah, And a perfect weight [is] His delight.</para>
+	<para style="p"><verse number="2" style="v" />Pride hath come, and shame cometh, And with the lowly [is] wisdom.</para>
+	<para style="p"><verse number="3" style="v" />The integrity of the upright leadeth them, And the perverseness of the treacherous destroyeth them.</para>
+	<para style="p"><verse number="4" style="v" />Wealth profiteth not in a day of wrath, And righteousness delivereth from death.</para>
+	<para style="p"><verse number="5" style="v" />The righteousness of the perfect maketh right his way, And by his wickedness doth the wicked fall.</para>
+	<para style="p"><verse number="6" style="v" />The righteousness of the upright delivereth them, And in mischief the treacherous are captured.</para>
+	<para style="p"><verse number="7" style="v" />In the death of a wicked man, hope perisheth, And the expectation of the iniquitous hath been lost.</para>
+	<para style="p"><verse number="8" style="v" />The righteous from distress is drawn out, And the wicked goeth in instead of him.</para>
+	<para style="p"><verse number="9" style="v" />With the mouth a hypocrite corrupteth his friend, And by knowledge the righteous are drawn out.</para>
+	<para style="p"><verse number="10" style="v" />In the good of the righteous a city exulteth, And in the destruction of the wicked [is] singing.</para>
+	<para style="p"><verse number="11" style="v" />By the blessing of the upright is a city exalted, And by the mouth of the wicked thrown down.</para>
+	<para style="p"><verse number="12" style="v" />Whoso is despising his neighbour lacketh heart, And a man of understanding keepeth silence.</para>
+	<para style="p"><verse number="13" style="v" />A busybody is revealing secret counsel, And the faithful of spirit is covering the matter.</para>
+	<para style="p"><verse number="14" style="v" />Without counsels do a people fall, And deliverance [is] in a multitude of counsellors.</para>
+	<para style="p"><verse number="15" style="v" />Evil [one] suffereth when he hath been surety [for] a stranger, And whoso is hating suretyship is confident.</para>
+	<para style="p"><verse number="16" style="v" />A gracious woman retaineth honour, And terrible [men] retain riches.</para>
+	<para style="p"><verse number="17" style="v" />A kind man is rewarding his own soul, And the fierce is troubling his own flesh.</para>
+	<para style="p"><verse number="18" style="v" />The wicked is getting a lying wage, And whoso is sowing righteousness--a true reward.</para>
+	<para style="p"><verse number="19" style="v" />Rightly [is] righteousness for life, And whoso is pursuing evil--for his own death.</para>
+	<para style="p"><verse number="20" style="v" />An abomination to Jehovah [are] the perverse of heart, And the perfect of the way [are] His delight.</para>
+	<para style="p"><verse number="21" style="v" />Hand to hand, the wicked is not acquitted, And the seed of the righteous hath escaped.</para>
+	<para style="p"><verse number="22" style="v" />A ring of gold in the nose of a sow--A fair woman and stubborn of behaviour.</para>
+	<para style="p"><verse number="23" style="v" />The desire of the righteous [is] only good, The hope of the wicked [is] transgression.</para>
+	<para style="p"><verse number="24" style="v" />There is who is scattering, and yet is increased, And who is keeping back from uprightness, only to want.</para>
+	<para style="p"><verse number="25" style="v" />A liberal soul is made fat, And whoso is watering, he also is watered.</para>
+	<para style="p"><verse number="26" style="v" />Whoso is withholding corn, the people execrate him, And a blessing [is] for the head of him who is selling.</para>
+	<para style="p"><verse number="27" style="v" />Whoso is earnestly seeking good Seeketh a pleasing thing, And whoso is seeking evil--it meeteth him.</para>
+	<para style="p"><verse number="28" style="v" />Whoso is confident in his wealth he falleth, And as a leaf, the righteous flourish.</para>
+	<para style="p"><verse number="29" style="v" />Whoso is troubling his own house inheriteth wind, And a servant [is] the fool to the wise of heart.</para>
+	<para style="p"><verse number="30" style="v" />The fruit of the righteous [is] a tree of life, And whoso is taking souls [is] wise.</para>
+	<para style="p"><verse number="31" style="v" />Lo, the righteous in the earth is recompensed, Surely also the wicked and the sinner!</para>
+	<chapter number="12" style="c" />
+	<para style="p"><verse number="1" style="v" />Whoso is loving instruction, is loving knowledge, And whoso is hating reproof [is] brutish.</para>
+	<para style="p"><verse number="2" style="v" />The good bringeth forth favour from Jehovah, And the man of wicked devices He condemneth.</para>
+	<para style="p"><verse number="3" style="v" />A man is not established by wickedness, And the root of the righteous is not moved.</para>
+	<para style="p"><verse number="4" style="v" />A virtuous woman [is] a crown to her husband, And as rottenness in his bones [is] one causing shame.</para>
+	<para style="p"><verse number="5" style="v" />The thoughts of the righteous [are] justice, The counsels of the wicked--deceit.</para>
+	<para style="p"><verse number="6" style="v" />The words of the wicked [are]: `Lay wait for blood,' And the mouth of the upright delivereth them.</para>
+	<para style="p"><verse number="7" style="v" />Overthrow the wicked, and they are not, And the house of the righteous standeth.</para>
+	<para style="p"><verse number="8" style="v" />According to his wisdom is a man praised, And the perverted of heart becometh despised.</para>
+	<para style="p"><verse number="9" style="v" />Better [is] the lightly esteemed who hath a servant, Than the self-honoured who lacketh bread.</para>
+	<para style="p"><verse number="10" style="v" />The righteous knoweth the life of his beast, And the mercies of the wicked [are] cruel.</para>
+	<para style="p"><verse number="11" style="v" />Whoso is tilling the ground is satisfied [with] bread, And whoso is pursuing vanities is lacking heart,</para>
+	<para style="p"><verse number="12" style="v" />The wicked hath desired the net of evil doers, And the root of the righteous giveth.</para>
+	<para style="p"><verse number="13" style="v" />In transgression of the lips [is] the snare of the wicked, And the righteous goeth out from distress.</para>
+	<para style="p"><verse number="14" style="v" />From the fruit of the mouth [is] one satisfied [with] good, And the deed of man's hands returneth to him.</para>
+	<para style="p"><verse number="15" style="v" />The way of a fool [is] right in his own eyes, And whoso is hearkening to counsel [is] wise.</para>
+	<para style="p"><verse number="16" style="v" />The fool--in a day is his anger known, And the prudent is covering shame.</para>
+	<para style="p"><verse number="17" style="v" />Whoso uttereth faithfulness declareth righteousness, And a false witness--deceit.</para>
+	<para style="p"><verse number="18" style="v" />A rash speaker is like piercings of a sword, And the tongue of the wise is healing.</para>
+	<para style="p"><verse number="19" style="v" />The lip of truth is established for ever, And for a moment--a tongue of falsehood.</para>
+	<para style="p"><verse number="20" style="v" />Deceit [is] in the heart of those devising evil, And to those counselling peace [is] joy.</para>
+	<para style="p"><verse number="21" style="v" />No iniquity is desired by the righteous, And the wicked have been full of evil.</para>
+	<para style="p"><verse number="22" style="v" />An abomination to Jehovah [are] lying lips, And stedfast doers [are] his delight.</para>
+	<para style="p"><verse number="23" style="v" />A prudent man is concealing knowledge, And the heart of fools proclaimeth folly.</para>
+	<para style="p"><verse number="24" style="v" />The hand of the diligent ruleth, And slothfulness becometh tributary.</para>
+	<para style="p"><verse number="25" style="v" />Sorrow in the heart of a man boweth down, And a good word maketh him glad.</para>
+	<para style="p"><verse number="26" style="v" />The righteous searcheth his companion, And the way of the wicked causeth them to err.</para>
+	<para style="p"><verse number="27" style="v" />The slothful roasteth not his hunting, And the wealth of a diligent man is precious.</para>
+	<para style="p"><verse number="28" style="v" />In the path of righteousness [is] life, And in the way of [that] path [is] no death!</para>
+	<chapter number="13" style="c" />
+	<para style="p"><verse number="1" style="v" />A wise son--the instruction of a father, And a scorner--he hath not heard rebuke.</para>
+	<para style="p"><verse number="2" style="v" />From the fruit of the mouth a man eateth good, And the soul of the treacherous-- violence.</para>
+	<para style="p"><verse number="3" style="v" />Whoso is keeping his mouth, is keeping his soul, Whoso is opening wide his lips-- ruin to him!</para>
+	<para style="p"><verse number="4" style="v" />The soul of the slothful is desiring, and hath not. And the soul of the diligent is made fat.</para>
+	<para style="p"><verse number="5" style="v" />A false word the righteous hateth, And the wicked causeth abhorrence, and is confounded.</para>
+	<para style="p"><verse number="6" style="v" />Righteousness keepeth him who is perfect in the way, And wickedness overthroweth a sin offering.</para>
+	<para style="p"><verse number="7" style="v" />There is who is making himself rich, and hath nothing, Who is making himself poor, and wealth [is] abundant.</para>
+	<para style="p"><verse number="8" style="v" />The ransom of a man's life [are] his riches, And the poor hath not heard rebuke.</para>
+	<para style="p"><verse number="9" style="v" />The light of the righteous rejoiceth, And the lamp of the wicked is extinguished.</para>
+	<para style="p"><verse number="10" style="v" />A vain man through pride causeth debate, And with the counselled [is] wisdom.</para>
+	<para style="p"><verse number="11" style="v" />Wealth from vanity becometh little, And whoso is gathering by the hand becometh great.</para>
+	<para style="p"><verse number="12" style="v" />Hope prolonged is making the heart sick, And a tree of life [is] the coming desire.</para>
+	<para style="p"><verse number="13" style="v" />Whoso is despising the Word is destroyed for it, And whoso is fearing the Command is repayed.</para>
+	<para style="p"><verse number="14" style="v" />The law of the wise [is] a fountain of life, To turn aside from snares of death.</para>
+	<para style="p"><verse number="15" style="v" />Good understanding giveth grace, And the way of the treacherous [is] hard.</para>
+	<para style="p"><verse number="16" style="v" />Every prudent one dealeth with knowledge, And a fool spreadeth out folly.</para>
+	<para style="p"><verse number="17" style="v" />A wicked messenger falleth into evil, And a faithful ambassador is healing.</para>
+	<para style="p"><verse number="18" style="v" />Whoso is refusing instruction--poverty and shame, And whoso is observing reproof is honoured.</para>
+	<para style="p"><verse number="19" style="v" />A desire accomplished is sweet to the soul, And an abomination to fools [is]: Turn from evil.</para>
+	<para style="p"><verse number="20" style="v" />Whoso is walking with wise men is wise, And a companion of fools suffereth evil.</para>
+	<para style="p"><verse number="21" style="v" />Evil pursueth sinners, And good recompenseth the righteous.</para>
+	<para style="p"><verse number="22" style="v" />A good man causeth sons' sons to inherit, And laid up for the righteous [is] the sinner's wealth.</para>
+	<para style="p"><verse number="23" style="v" />Abundance of food--the tillage of the poor, And substance is consumed without judgment.</para>
+	<para style="p"><verse number="24" style="v" />Whoso is sparing his rod is hating his son, And whoso is loving him hath hastened him chastisement.</para>
+	<para style="p"><verse number="25" style="v" />The righteous is eating to the satiety of his soul, And the belly of the wicked lacketh!</para>
+	<chapter number="14" style="c" />
+	<para style="p"><verse number="1" style="v" />Every wise woman hath builded her house, And the foolish with her hands breaketh it down.</para>
+	<para style="p"><verse number="2" style="v" />Whoso is walking in his uprightness is fearing Jehovah, And the perverted [in] his ways is despising Him.</para>
+	<para style="p"><verse number="3" style="v" />In the mouth of a fool [is] a rod of pride, And the lips of the wise preserve them.</para>
+	<para style="p"><verse number="4" style="v" />Without oxen a stall [is] clean, And great [is] the increase by the power of the ox.</para>
+	<para style="p"><verse number="5" style="v" />A faithful witness lieth not, And a false witness breatheth out lies.</para>
+	<para style="p"><verse number="6" style="v" />A scorner hath sought wisdom, and it is not, And knowledge to the intelligent [is] easy.</para>
+	<para style="p"><verse number="7" style="v" />Go from before a foolish man, Or thou hast not known the lips of knowledge.</para>
+	<para style="p"><verse number="8" style="v" />The wisdom of the prudent [is] to understand his way, And the folly of fools [is] deceit.</para>
+	<para style="p"><verse number="9" style="v" />Fools mock at a guilt-offering, And among the upright--a pleasing thing.</para>
+	<para style="p"><verse number="10" style="v" />The heart knoweth its own bitterness, And with its joy a stranger doth not intermeddle.</para>
+	<para style="p"><verse number="11" style="v" />The house of the wicked is destroyed, And the tent of the upright flourisheth.</para>
+	<para style="p"><verse number="12" style="v" />There is a way--right before a man, And its latter end [are] ways of death.</para>
+	<para style="p"><verse number="13" style="v" />Even in laughter is the heart pained, And the latter end of joy [is] affliction.</para>
+	<para style="p"><verse number="14" style="v" />From his ways is the backslider in heart filled, And a good man--from his fruits.</para>
+	<para style="p"><verse number="15" style="v" />The simple giveth credence to everything, And the prudent attendeth to his step.</para>
+	<para style="p"><verse number="16" style="v" />The wise is fearing and turning from evil, And a fool is transgressing and is confident.</para>
+	<para style="p"><verse number="17" style="v" />Whoso is short of temper doth folly, And a man of wicked devices is hated.</para>
+	<para style="p"><verse number="18" style="v" />The simple have inherited folly, And the prudent are crowned [with] knowledge.</para>
+	<para style="p"><verse number="19" style="v" />The evil have bowed down before the good, And the wicked at the gates of the righteous.</para>
+	<para style="p"><verse number="20" style="v" />Even of his neighbour is the poor hated, And those loving the rich [are] many.</para>
+	<para style="p"><verse number="21" style="v" />Whoso is despising his neighbour sinneth, Whoso is favouring the humble, O his happiness.</para>
+	<para style="p"><verse number="22" style="v" />Do not they err who are devising evil? And kindness and truth [are] to those devising good,</para>
+	<para style="p"><verse number="23" style="v" />In all labour there is advantage, And a thing of the lips [is] only to want.</para>
+	<para style="p"><verse number="24" style="v" />The crown of the wise is their wealth, The folly of fools [is] folly.</para>
+	<para style="p"><verse number="25" style="v" />A true witness is delivering souls, And a deceitful one breatheth out lies.</para>
+	<para style="p"><verse number="26" style="v" />In the fear of Jehovah [is] strong confidence, And to His sons there is a refuge.</para>
+	<para style="p"><verse number="27" style="v" />The fear of Jehovah [is] a fountain of life, To turn aside from snares of death.</para>
+	<para style="p"><verse number="28" style="v" />In the multitude of a people [is] the honour of a king, And in lack of people the ruin of a prince.</para>
+	<para style="p"><verse number="29" style="v" />Whoso is slow to anger [is] of great understanding, And whoso is short in temper is exalting folly.</para>
+	<para style="p"><verse number="30" style="v" />A healed heart [is] life to the flesh, And rottenness to the bones [is] envy.</para>
+	<para style="p"><verse number="31" style="v" />An oppressor of the poor reproacheth his Maker, And whoso is honouring Him Is favouring the needy.</para>
+	<para style="p"><verse number="32" style="v" />In his wickedness is the wicked driven away, And trustful in his death [is] the righteous.</para>
+	<para style="p"><verse number="33" style="v" />In the heart of the intelligent wisdom doth rest. And in the midst of fools it is known.</para>
+	<para style="p"><verse number="34" style="v" />Righteousness exalteth a nation, And the goodliness of peoples [is] a sin-offering.</para>
+	<para style="p"><verse number="35" style="v" />The favour of a king [is] to a wise servant, And an object of his wrath is one causing shame!</para>
+	<chapter number="15" style="c" />
+	<para style="p"><verse number="1" style="v" />A soft answer turneth back fury, And a grievous word raiseth up anger.</para>
+	<para style="p"><verse number="2" style="v" />The tongue of the wise maketh knowledge good, And the mouth of fools uttereth folly.</para>
+	<para style="p"><verse number="3" style="v" />In every place are the eyes of Jehovah, Watching the evil and the good.</para>
+	<para style="p"><verse number="4" style="v" />A healed tongue [is] a tree of life, And perverseness in it--a breach in the spirit.</para>
+	<para style="p"><verse number="5" style="v" />A fool despiseth the instruction of his father, And whoso is regarding reproof is prudent.</para>
+	<para style="p"><verse number="6" style="v" />[In] the house of the righteous [is] abundant strength, And in the increase of the wicked--trouble.</para>
+	<para style="p"><verse number="7" style="v" />The lips of the wise scatter knowledge, And the heart of fools [is] not right.</para>
+	<para style="p"><verse number="8" style="v" />The sacrifice of the wicked [is] an abomination to Jehovah, And the prayer of the upright [is] His delight.</para>
+	<para style="p"><verse number="9" style="v" />An abomination to Jehovah [is] the way of the wicked, And whoso is pursuing righteousness He loveth.</para>
+	<para style="p"><verse number="10" style="v" />Chastisement [is] grievous to him who is forsaking the path, Whoso is hating reproof dieth.</para>
+	<para style="p"><verse number="11" style="v" />Sheol and destruction [are] before Jehovah, Surely also the hearts of the sons of men.</para>
+	<para style="p"><verse number="12" style="v" />A scorner loveth not his reprover, Unto the wise he goeth not.</para>
+	<para style="p"><verse number="13" style="v" />A joyful heart maketh glad the face, And by grief of heart is the spirit smitten.</para>
+	<para style="p"><verse number="14" style="v" />The heart of the intelligent seeketh knowledge, And the mouth of fools enjoyeth folly.</para>
+	<para style="p"><verse number="15" style="v" />All the days of the afflicted [are] evil, And gladness of heart [is] a perpetual banquet.</para>
+	<para style="p"><verse number="16" style="v" />Better [is] a little with the fear of Jehovah, Than much treasure, and tumult with it.</para>
+	<para style="p"><verse number="17" style="v" />Better [is] an allowance of green herbs and love there, Than a fatted ox, and hatred with it.</para>
+	<para style="p"><verse number="18" style="v" />A man of fury stirreth up contention, And the slow to anger appeaseth strife.</para>
+	<para style="p"><verse number="19" style="v" />The way of the slothful [is] as a hedge of briers, And the path of the upright is raised up.</para>
+	<para style="p"><verse number="20" style="v" />A wise son rejoiceth a father. And a foolish man is despising his mother.</para>
+	<para style="p"><verse number="21" style="v" />Folly is joy to one lacking heart, And a man of intelligence directeth [his] going.</para>
+	<para style="p"><verse number="22" style="v" />Without counsel [is] the making void of purposes, And in a multitude of counsellors it is established.</para>
+	<para style="p"><verse number="23" style="v" />Joy [is] to a man in the answer of his mouth, And a word in its season--how good!</para>
+	<para style="p"><verse number="24" style="v" />A path of life [is] on high for the wise, To turn aside from Sheol beneath.</para>
+	<para style="p"><verse number="25" style="v" />The house of the proud Jehovah pulleth down, And He setteth up the border of the widow.</para>
+	<para style="p"><verse number="26" style="v" />An abomination to Jehovah [are] thoughts of wickedness, And pure [are] sayings of pleasantness.</para>
+	<para style="p"><verse number="27" style="v" />A dishonest gainer is troubling his house, And whoso is hating gifts liveth.</para>
+	<para style="p"><verse number="28" style="v" />The heart of the righteous meditateth to answer, And the mouth of the wicked uttereth evil things.</para>
+	<para style="p"><verse number="29" style="v" />Far [is] Jehovah from the wicked, And the prayer of the righteous He heareth.</para>
+	<para style="p"><verse number="30" style="v" />The light of the eyes rejoiceth the heart, A good report maketh fat the bone.</para>
+	<para style="p"><verse number="31" style="v" />An ear that is hearing the reproof of life Doth lodge among the wise.</para>
+	<para style="p"><verse number="32" style="v" />Whoso is refusing instruction is despising his soul, And whoso is hearing reproof Is getting understanding.</para>
+	<para style="p"><verse number="33" style="v" />The fear of Jehovah [is] the instruction of wisdom, And before honour [is] humility!</para>
+	<chapter number="16" style="c" />
+	<para style="p"><verse number="1" style="v" />Of man [are] arrangements of the heart, And from Jehovah an answer of the tongue.</para>
+	<para style="p"><verse number="2" style="v" />All the ways of a man are pure in his own eyes, And Jehovah is pondering the spirits.</para>
+	<para style="p"><verse number="3" style="v" />Roll unto Jehovah thy works, And established are thy purposes,</para>
+	<para style="p"><verse number="4" style="v" />All things hath Jehovah wrought for Himself, And also the wicked [worketh] for a day of evil.</para>
+	<para style="p"><verse number="5" style="v" />An abomination to Jehovah [is] every proud one of heart, Hand to hand he is not acquitted.</para>
+	<para style="p"><verse number="6" style="v" />In kindness and truth pardoned is iniquity, And in the fear of Jehovah Turn thou aside from evil.</para>
+	<para style="p"><verse number="7" style="v" />When a man's ways please Jehovah, even his enemies, He causeth to be at peace with him.</para>
+	<para style="p"><verse number="8" style="v" />Better [is] a little with righteousness, Than abundance of increase without justice.</para>
+	<para style="p"><verse number="9" style="v" />The heart of man deviseth his way, And Jehovah establisheth his step.</para>
+	<para style="p"><verse number="10" style="v" />An oath [is] on the lips of a king, In judgment his mouth trespasseth not.</para>
+	<para style="p"><verse number="11" style="v" />A just beam and balances [are] Jehovah's, His work [are] all the stones of the bag.</para>
+	<para style="p"><verse number="12" style="v" />An abomination to kings [is] doing wickedness, For by righteousness is a throne established.</para>
+	<para style="p"><verse number="13" style="v" />The delight of kings [are] righteous lips, And whoso is speaking uprightly he loveth,</para>
+	<para style="p"><verse number="14" style="v" />The fury of a king [is] messengers of death, And a wise man pacifieth it.</para>
+	<para style="p"><verse number="15" style="v" />In the light of a king's face [is] life, And his good-will [is] as a cloud of the latter rain.</para>
+	<para style="p"><verse number="16" style="v" />To get wisdom--how much better than gold, And to get understanding to be chosen than silver!</para>
+	<para style="p"><verse number="17" style="v" />A highway of the upright [is], `Turn from evil,' Whoso is preserving his soul is watching his way.</para>
+	<para style="p"><verse number="18" style="v" />Before destruction [is] pride, And before stumbling--a haughty spirit.'</para>
+	<para style="p"><verse number="19" style="v" />Better is humility of spirit with the poor, Than to apportion spoil with the proud.</para>
+	<para style="p"><verse number="20" style="v" />The wise in any matter findeth good, And whoso is trusting in Jehovah, O his happiness.</para>
+	<para style="p"><verse number="21" style="v" />To the wise in heart is called, `Intelligent,' And sweetness of lips increaseth learning.</para>
+	<para style="p"><verse number="22" style="v" />A fountain of life [is] understanding to its possessors, The instruction of fools is folly.</para>
+	<para style="p"><verse number="23" style="v" />The heart of the wise causeth his mouth to act wisely, And by his lips he increaseth learning,</para>
+	<para style="p"><verse number="24" style="v" />Sayings of pleasantness [are] a honeycomb, Sweet to the soul, and healing to the bone.</para>
+	<para style="p"><verse number="25" style="v" />There is a way right before a man, And its latter end--ways of death.</para>
+	<para style="p"><verse number="26" style="v" />A labouring man hath laboured for himself, For his mouth hath caused [him] to bend over it.</para>
+	<para style="p"><verse number="27" style="v" />A worthless man is preparing evil, And on his lips--as a burning fire.</para>
+	<para style="p"><verse number="28" style="v" />A froward man sendeth forth contention, A tale-bearer is separating a familiar friend.</para>
+	<para style="p"><verse number="29" style="v" />A violent man enticeth his neighbour, And hath causeth him to go in a way not good.</para>
+	<para style="p"><verse number="30" style="v" />Consulting his eyes to devise froward things, Moving his lips he hath accomplished evil.</para>
+	<para style="p"><verse number="31" style="v" />A crown of beauty [are] grey hairs, In the way of righteousness it is found.</para>
+	<para style="p"><verse number="32" style="v" />Better [is] the slow to anger than the mighty, And the ruler over his spirit than he who is taking a city.</para>
+	<para style="p"><verse number="33" style="v" />Into the centre is the lot cast, And from Jehovah [is] all its judgment!</para>
+	<chapter number="17" style="c" />
+	<para style="p"><verse number="1" style="v" />Better [is] a dry morsel, and rest with it, Than a house full of the sacrifices of strife.</para>
+	<para style="p"><verse number="2" style="v" />A wise servant ruleth over a son causing shame, And in the midst of brethren He apportioneth an inheritance.</para>
+	<para style="p"><verse number="3" style="v" />A refining pot [is] for silver, and a furnace for gold, And the trier of hearts [is] Jehovah.</para>
+	<para style="p"><verse number="4" style="v" />An evil doer is attentive to lips of vanity, Falsehood is giving ear to a mischievous tongue.</para>
+	<para style="p"><verse number="5" style="v" />Whoso is mocking at the poor Hath reproached his Maker, Whoso is rejoicing at calamity is not acquitted.</para>
+	<para style="p"><verse number="6" style="v" />Sons' sons [are] the crown of old men, And the glory of sons [are] their fathers.</para>
+	<para style="p"><verse number="7" style="v" />Not comely for a fool is a lip of excellency, Much less for a noble a lip of falsehood.</para>
+	<para style="p"><verse number="8" style="v" />A stone of grace [is] the bribe in the eyes of its possessors, Whithersoever it turneth, it prospereth.</para>
+	<para style="p"><verse number="9" style="v" />Whoso is covering transgression is seeking love, And whoso is repeating a matter Is separating a familiar friend.</para>
+	<para style="p"><verse number="10" style="v" />Rebuke cometh down on the intelligent More than a hundred stripes on a fool.</para>
+	<para style="p"><verse number="11" style="v" />An evil man seeketh only rebellion, And a fierce messenger is sent against him.</para>
+	<para style="p"><verse number="12" style="v" />The meeting of a bereaved bear by a man, And--not a fool in his folly.</para>
+	<para style="p"><verse number="13" style="v" />Whoso is returning evil for good, Evil moveth not from his house.</para>
+	<para style="p"><verse number="14" style="v" />The beginning of contention [is] a letting out of waters, And before it is meddled with leave the strife.</para>
+	<para style="p"><verse number="15" style="v" />Whoso is justifying the wicked, And condemning the righteous, Even both of these [are] an abomination to Jehovah.</para>
+	<para style="p"><verse number="16" style="v" />Why [is] this--a price in the hand of a fool to buy wisdom, And a heart there is none?</para>
+	<para style="p"><verse number="17" style="v" />At all times is the friend loving, And a brother for adversity is born.</para>
+	<para style="p"><verse number="18" style="v" />A man lacking heart is striking hands, A surety he becometh before his friend.</para>
+	<para style="p"><verse number="19" style="v" />Whoso is loving transgression is loving debate, Whoso is making high his entrance is seeking destruction.</para>
+	<para style="p"><verse number="20" style="v" />The perverse of heart findeth not good, And the turned in his tongue falleth into evil.</para>
+	<para style="p"><verse number="21" style="v" />Whoso is begetting a fool hath affliction for it, Yea, the father of a fool rejoiceth not.</para>
+	<para style="p"><verse number="22" style="v" />A rejoicing heart doth good to the body, And a smitten spirit drieth the bone.</para>
+	<para style="p"><verse number="23" style="v" />A bribe from the bosom the wicked taketh, To turn aside the paths of judgment.</para>
+	<para style="p"><verse number="24" style="v" />The face of the intelligent [is] to wisdom, And the eyes of a fool--at the end of the earth.</para>
+	<para style="p"><verse number="25" style="v" />A provocation to his father [is] a foolish son, And bitterness to her that bare him.</para>
+	<para style="p"><verse number="26" style="v" />Also, to fine the righteous is not good, To smite nobles for uprightness.</para>
+	<para style="p"><verse number="27" style="v" />One acquainted with knowledge is sparing his words, And the cool of temper [is] a man of understanding.</para>
+	<para style="p"><verse number="28" style="v" />Even a fool keeping silence is reckoned wise, He who is shutting his lips intelligent!</para>
+	<chapter number="18" style="c" />
+	<para style="p"><verse number="1" style="v" />For [an object of] desire he who is separated doth seek, With all wisdom he intermeddleth.</para>
+	<para style="p"><verse number="2" style="v" />A fool delighteth not in understanding, But--in uncovering his heart.</para>
+	<para style="p"><verse number="3" style="v" />With the coming of the wicked come also hath contempt, And with shame-- reproach.</para>
+	<para style="p"><verse number="4" style="v" />Deep waters [are] the words of a man's mouth, The fountain of wisdom [is] a flowing brook.</para>
+	<para style="p"><verse number="5" style="v" />Acceptance of the face of the wicked [is] not good, To turn aside the righteous in judgment.</para>
+	<para style="p"><verse number="6" style="v" />The lips of a fool enter into strife, And his mouth for stripes calleth.</para>
+	<para style="p"><verse number="7" style="v" />The mouth of a fool [is] ruin to him, And his lips [are] the snare of his soul.</para>
+	<para style="p"><verse number="8" style="v" />The words of a tale-bearer [are] as self-inflicted wounds, And they have gone down [to] the inner parts of the heart.</para>
+	<para style="p"><verse number="9" style="v" />He also that is remiss in his work, A brother he [is] to a destroyer.</para>
+	<para style="p"><verse number="10" style="v" />A tower of strength [is] the name of Jehovah, Into it the righteous runneth, and is set on high.</para>
+	<para style="p"><verse number="11" style="v" />The wealth of the rich [is] the city of his strength, And as a wall set on high in his own imagination.</para>
+	<para style="p"><verse number="12" style="v" />Before destruction the heart of man is high, And before honour [is] humility.</para>
+	<para style="p"><verse number="13" style="v" />Whoso is answering a matter before he heareth, Folly it is to him and shame.</para>
+	<para style="p"><verse number="14" style="v" />The spirit of a man sustaineth his sickness, And a smitten spirit who doth bear?</para>
+	<para style="p"><verse number="15" style="v" />The heart of the intelligent getteth knowledge, And the ear of the wise seeketh knowledge.</para>
+	<para style="p"><verse number="16" style="v" />The gift of a man maketh room for him, And before the great it leadeth him.</para>
+	<para style="p"><verse number="17" style="v" />Righteous [is] the first in his own cause, His neighbour cometh and hath searched him.</para>
+	<para style="p"><verse number="18" style="v" />The lot causeth contentions to cease, And between the mighty it separateth.</para>
+	<para style="p"><verse number="19" style="v" />A brother transgressed against is as a strong city, And contentions as the bar of a palace.</para>
+	<para style="p"><verse number="20" style="v" />From the fruit of a man's mouth is his belly satisfied, [From the] increase of his lips he is satisfied.</para>
+	<para style="p"><verse number="21" style="v" />Death and life [are] in the power of the tongue, And those loving it eat its fruit.</para>
+	<para style="p"><verse number="22" style="v" />[Whoso] hath found a wife hath found good, And bringeth out good-will from Jehovah.</para>
+	<para style="p"><verse number="23" style="v" />[With] supplications doth the poor speak, And the rich answereth fierce things.</para>
+	<para style="p"><verse number="24" style="v" />A man with friends [is] to show himself friendly, And there is a lover adhering more than a brother!</para>
+	<chapter number="19" style="c" />
+	<para style="p"><verse number="1" style="v" />Better [is] the poor walking in his integrity, Than the perverse [in] his lips, who [is] a fool.</para>
+	<para style="p"><verse number="2" style="v" />Also, without knowledge the soul [is] not good, And the hasty in feet is sinning.</para>
+	<para style="p"><verse number="3" style="v" />The folly of man perverteth his way, And against Jehovah is his heart wroth.</para>
+	<para style="p"><verse number="4" style="v" />Wealth addeth many friends, And the poor from his neighbour is separated.</para>
+	<para style="p"><verse number="5" style="v" />A false witness is not acquitted, Whoso breatheth out lies is not delivered.</para>
+	<para style="p"><verse number="6" style="v" />Many entreat the face of the noble, And all have made friendship to a man of gifts.</para>
+	<para style="p"><verse number="7" style="v" />All the brethren of the poor have hated him, Surely also his friends have been far from him, He is pursuing words--they are not!</para>
+	<para style="p"><verse number="8" style="v" />Whoso is getting heart is loving his soul, He is keeping understanding to find good.</para>
+	<para style="p"><verse number="9" style="v" />A false witness is not acquitted, And whoso breatheth out lies perisheth.</para>
+	<para style="p"><verse number="10" style="v" />Luxury is not comely for a fool, Much less for a servant to rule among princes.</para>
+	<para style="p"><verse number="11" style="v" />The wisdom of a man hath deferred his anger, And his glory [is] to pass over transgression.</para>
+	<para style="p"><verse number="12" style="v" />The wrath of a king [is] a growl as of a young lion, And as dew on the herb his good-will.</para>
+	<para style="p"><verse number="13" style="v" />A calamity to his father [is] a foolish son, And the contentions of a wife [are] a continual dropping.</para>
+	<para style="p"><verse number="14" style="v" />House and wealth [are] the inheritance of fathers, And from Jehovah [is] an understanding wife.</para>
+	<para style="p"><verse number="15" style="v" />Sloth causeth deep sleep to fall, And an indolent soul doth hunger.</para>
+	<para style="p"><verse number="16" style="v" />Whoso is keeping the command is keeping his soul, Whoso is despising His ways dieth.</para>
+	<para style="p"><verse number="17" style="v" />Whoso is lending [to] Jehovah is favouring the poor, And his deed He repayeth to him.</para>
+	<para style="p"><verse number="18" style="v" />Chastise thy son, for there is hope, And to put him to death lift not up thy soul.</para>
+	<para style="p"><verse number="19" style="v" />A man of great wrath is bearing punishment, For, if thou dost deliver, yet again thou dost add.</para>
+	<para style="p"><verse number="20" style="v" />Hear counsel and receive instruction, So that thou art wise in thy latter end.</para>
+	<para style="p"><verse number="21" style="v" />Many [are] the purposes in a man's heart, And the counsel of Jehovah it standeth.</para>
+	<para style="p"><verse number="22" style="v" />The desirableness of a man [is] his kindness, And better [is] the poor than a liar.</para>
+	<para style="p"><verse number="23" style="v" />The fear of Jehovah [is] to life, And satisfied he remaineth--he is not charged with evil.</para>
+	<para style="p"><verse number="24" style="v" />The slothful hath hidden his hand in a dish, Even unto his mouth he bringeth it not back.</para>
+	<para style="p"><verse number="25" style="v" />A scorner smite, and the simple acts prudently, And give reproof to the intelligent, He understandeth knowledge.</para>
+	<para style="p"><verse number="26" style="v" />Whoso is spoiling a father causeth a mother to flee, A son causing shame, and bringing confusion.</para>
+	<para style="p"><verse number="27" style="v" />Cease, my son, to hear instruction--To err from sayings of knowledge.</para>
+	<para style="p"><verse number="28" style="v" />A worthless witness scorneth judgment, And the mouth of the wicked swalloweth iniquity.</para>
+	<para style="p"><verse number="29" style="v" />Judgments have been prepared for scorners, And stripes for the back of fools!</para>
+	<chapter number="20" style="c" />
+	<para style="p"><verse number="1" style="v" />Wine [is] a scorner--strong drink [is] noisy, And any going astray in it is not wise.</para>
+	<para style="p"><verse number="2" style="v" />The fear of a king [is] a growl as of a young lion, He who is causing him to be wroth is wronging his soul.</para>
+	<para style="p"><verse number="3" style="v" />An honour to a man is cessation from strife, And every fool intermeddleth.</para>
+	<para style="p"><verse number="4" style="v" />Because of winter the slothful plougheth not, He asketh in harvest, and there is nothing.</para>
+	<para style="p"><verse number="5" style="v" />Counsel in the heart of a man [is] deep water, And a man of understanding draweth it up.</para>
+	<para style="p"><verse number="6" style="v" />A multitude of men proclaim each his kindness, And a man of stedfastness who doth find?</para>
+	<para style="p"><verse number="7" style="v" />The righteous is walking habitually in his integrity, O the happiness of his sons after him!</para>
+	<para style="p"><verse number="8" style="v" />A king sitting on a throne of judgment, Is scattering with his eyes all evil,</para>
+	<para style="p"><verse number="9" style="v" />Who saith, `I have purified my heart, I have been cleansed from my sin?'</para>
+	<para style="p"><verse number="10" style="v" />A stone and a stone, an ephah and an ephah, Even both of them [are] an abomination to Jehovah.</para>
+	<para style="p"><verse number="11" style="v" />Even by his actions a youth maketh himself known, Whether his work be pure or upright.</para>
+	<para style="p"><verse number="12" style="v" />A hearing ear, and a seeing eye, Jehovah hath made even both of them.</para>
+	<para style="p"><verse number="13" style="v" />Love not sleep, lest thou become poor, Open thine eyes--be satisfied [with] bread.</para>
+	<para style="p"><verse number="14" style="v" />`Bad, bad,' saith the buyer, And going his way then he boasteth himself.</para>
+	<para style="p"><verse number="15" style="v" />Substance, gold, and a multitude of rubies, Yea, a precious vessel, [are] lips of knowledge.</para>
+	<para style="p"><verse number="16" style="v" />Take his garment when a stranger hath been surety, And for strangers pledge it.</para>
+	<para style="p"><verse number="17" style="v" />Sweet to a man [is] the bread of falsehood, And afterwards is his mouth filled [with] gravel.</para>
+	<para style="p"><verse number="18" style="v" />Purposes by counsel thou dost establish, And with plans make thou war.</para>
+	<para style="p"><verse number="19" style="v" />A revealer of secret counsels is the busybody, And for a deceiver [with] his lips make not thyself surety.</para>
+	<para style="p"><verse number="20" style="v" />Whoso is vilifying his father and his mother, Extinguished is his lamp in blackness of darkness.</para>
+	<para style="p"><verse number="21" style="v" />An inheritance gotten wrongly at first, Even its latter end is not blessed.</para>
+	<para style="p"><verse number="22" style="v" />Do not say, `I recompense evil,' Wait for Jehovah, and He delivereth thee.</para>
+	<para style="p"><verse number="23" style="v" />An abomination to Jehovah [are] a stone and a stone, And balances of deceit [are] not good.</para>
+	<para style="p"><verse number="24" style="v" />From Jehovah [are] the steps of a man, And man--how understandeth he his way?</para>
+	<para style="p"><verse number="25" style="v" />A snare to a man [is] he hath swallowed a holy thing, And after vows to make inquiry.</para>
+	<para style="p"><verse number="26" style="v" />A wise king is scattering the wicked, And turneth back on them the wheel.</para>
+	<para style="p"><verse number="27" style="v" />The breath of man [is] a lamp of Jehovah, Searching all the inner parts of the heart.</para>
+	<para style="p"><verse number="28" style="v" />Kindness and truth keep a king, And he hath supported by kindness his throne.</para>
+	<para style="p"><verse number="29" style="v" />The beauty of young men is their strength, And the honour of old men is grey hairs.</para>
+	<para style="p"><verse number="30" style="v" />The bandages of a wound thou removest with the evil, Also the plagues of the inner parts of the heart!</para>
+	<chapter number="21" style="c" />
+	<para style="p"><verse number="1" style="v" />Rivulets of waters [is] the heart of a king in the hand of Jehovah, Wherever He pleaseth He inclineth it.</para>
+	<para style="p"><verse number="2" style="v" />Every way of a man [is] right in his own eyes, And Jehovah is pondering hearts.</para>
+	<para style="p"><verse number="3" style="v" />To do righteousness and judgment, Is chosen of Jehovah rather than sacrifice.</para>
+	<para style="p"><verse number="4" style="v" />Loftiness of eyes, and breadth of heart, Tillage of the wicked [is] sin.</para>
+	<para style="p"><verse number="5" style="v" />The purposes of the diligent [are] only to advantage, And of every hasty one, only to want.</para>
+	<para style="p"><verse number="6" style="v" />The making of treasures by a lying tongue, [Is] a vanity driven away of those seeking death.</para>
+	<para style="p"><verse number="7" style="v" />The spoil of the wicked catcheth them, Because they have refused to do judgment.</para>
+	<para style="p"><verse number="8" style="v" />Froward [is] the way of a man who is vile, And the pure--upright [is] his work.</para>
+	<para style="p"><verse number="9" style="v" />Better to sit on a corner of the roof, Than [with] a woman of contentions and a house of company.</para>
+	<para style="p"><verse number="10" style="v" />The soul of the wicked hath desired evil, Not gracious in his eyes is his neighbour.</para>
+	<para style="p"><verse number="11" style="v" />When the scorner is punished, the simple becometh wise, And in giving understanding to the wise He receiveth knowledge.</para>
+	<para style="p"><verse number="12" style="v" />The Righteous One is acting wisely Towards the house of the wicked, He is overthrowing the wicked for wickedness.</para>
+	<para style="p"><verse number="13" style="v" />Whoso is shutting his ear from the cry of the poor, He also doth cry, and is not answered.</para>
+	<para style="p"><verse number="14" style="v" />A gift in secret pacifieth anger, And a bribe in the bosom strong fury.</para>
+	<para style="p"><verse number="15" style="v" />To do justice [is] joy to the righteous, But ruin to workers of iniquity.</para>
+	<para style="p"><verse number="16" style="v" />A man who is wandering from the way of understanding, In an assembly of Rephaim resteth.</para>
+	<para style="p"><verse number="17" style="v" />Whoso [is] loving mirth [is] a poor man, Whoso is loving wine and oil maketh no wealth.</para>
+	<para style="p"><verse number="18" style="v" />The wicked [is] an atonement for the righteous, And for the upright the treacherous dealer.</para>
+	<para style="p"><verse number="19" style="v" />Better to dwell in a wilderness land, Than [with] a woman of contentions and anger.</para>
+	<para style="p"><verse number="20" style="v" />A treasure to be desired, and oil, [Is] in the habitation of the wise, And a foolish man swalloweth it up.</para>
+	<para style="p"><verse number="21" style="v" />Whoso is pursuing righteousness and kindness, Findeth life, righteousness, and honour.</para>
+	<para style="p"><verse number="22" style="v" />A city of the mighty hath the wise gone up, And bringeth down the strength of its confidence.</para>
+	<para style="p"><verse number="23" style="v" />Whoso is keeping his mouth and his tongue, Is keeping from adversities his soul.</para>
+	<para style="p"><verse number="24" style="v" />Proud, haughty, scorner [is] his name, Who is working in the wrath of pride.</para>
+	<para style="p"><verse number="25" style="v" />The desire of the slothful slayeth him, For his hands have refused to work.</para>
+	<para style="p"><verse number="26" style="v" />All the day desiring he hath desired, And the righteous giveth and withholdeth not.</para>
+	<para style="p"><verse number="27" style="v" />The sacrifice of the wicked [is] abomination, Much more when in wickedness he bringeth it.</para>
+	<para style="p"><verse number="28" style="v" />A false witness doth perish, And an attentive man for ever speaketh.</para>
+	<para style="p"><verse number="29" style="v" />A wicked man hath hardened by his face, And the upright--he prepareth his way.</para>
+	<para style="p"><verse number="30" style="v" />There is no wisdom, nor understanding, Nor counsel, over-against Jehovah.</para>
+	<para style="p"><verse number="31" style="v" />A horse is prepared for a day of battle, And the deliverance [is] of Jehovah!</para>
+	<chapter number="22" style="c" />
+	<para style="p"><verse number="1" style="v" />A name is chosen rather than much wealth, Than silver and than gold--good grace.</para>
+	<para style="p"><verse number="2" style="v" />Rich and poor have met together, The Maker of them all [is] Jehovah.</para>
+	<para style="p"><verse number="3" style="v" />The prudent hath seen the evil, and is hidden, And the simple have passed on, and are punished.</para>
+	<para style="p"><verse number="4" style="v" />The end of humility [is] the fear of Jehovah, Riches, and honour, and life.</para>
+	<para style="p"><verse number="5" style="v" />Thorns--snares [are] in the way of the perverse, Whoso is keeping his soul is far from them.</para>
+	<para style="p"><verse number="6" style="v" />Give instruction to a youth about his way, Even when he is old he turneth not from it.</para>
+	<para style="p"><verse number="7" style="v" />The rich over the poor ruleth, And a servant [is] the borrower to the lender.</para>
+	<para style="p"><verse number="8" style="v" />Whoso is sowing perverseness reapeth sorrow, And the rod of his anger weareth out.</para>
+	<para style="p"><verse number="9" style="v" />The good of eye--he is blessed, For he hath given of his bread to the poor.</para>
+	<para style="p"><verse number="10" style="v" />Cast out a scorner--and contention goeth out, And strife and shame cease.</para>
+	<para style="p"><verse number="11" style="v" />Whoso is loving cleanness of heart, Grace [are] his lips, a king [is] his friend.</para>
+	<para style="p"><verse number="12" style="v" />The eyes of Jehovah have kept knowledge, And He overthroweth the words of the treacherous.</para>
+	<para style="p"><verse number="13" style="v" />The slothful hath said, `A lion [is] without, In the midst of the broad places I am slain.'</para>
+	<para style="p"><verse number="14" style="v" />A deep pit [is] the mouth of strange women, The abhorred of Jehovah falleth there.</para>
+	<para style="p"><verse number="15" style="v" />Folly is bound up in the heart of a youth, The rod of chastisement putteth it far from him.</para>
+	<para style="p"><verse number="16" style="v" />He is oppressing the poor to multiply to him, He is giving to the rich--only to want.</para>
+	<para style="p"><verse number="17" style="v" />Incline thine ear, and hear words of the wise, And thy heart set to my knowledge,</para>
+	<para style="p"><verse number="18" style="v" />For they are pleasant when thou dost keep them in thy heart, They are prepared together for thy lips.</para>
+	<para style="p"><verse number="19" style="v" />That thy trust may be in Jehovah, I caused thee to know to-day, even thou.</para>
+	<para style="p"><verse number="20" style="v" />Have I not written to thee three times With counsels and knowledge?</para>
+	<para style="p"><verse number="21" style="v" />To cause thee to know the certainty of sayings of truth, To return sayings of truth to those sending thee.</para>
+	<para style="p"><verse number="22" style="v" />Rob not the poor because he [is] poor, And bruise not the afflicted in the gate.</para>
+	<para style="p"><verse number="23" style="v" />For Jehovah pleadeth their cause, And hath spoiled the soul of their spoilers.</para>
+	<para style="p"><verse number="24" style="v" />Shew not thyself friendly with an angry man, And with a man of fury go not in,</para>
+	<para style="p"><verse number="25" style="v" />Lest thou learn his paths, And have received a snare to thy soul.</para>
+	<para style="p"><verse number="26" style="v" />Be not thou among those striking hands, Among sureties [for] burdens.</para>
+	<para style="p"><verse number="27" style="v" />If thou hast nothing to pay, Why doth he take thy bed from under thee?</para>
+	<para style="p"><verse number="28" style="v" />Remove not a border of olden times, That thy fathers have made.</para>
+	<para style="p"><verse number="29" style="v" />Hast thou seen a man speedy in his business? Before kings he doth station himself, He stations not himself before obscure men!</para>
+	<chapter number="23" style="c" />
+	<para style="p"><verse number="1" style="v" />When thou sittest to eat with a ruler, Thou considerest diligently that which [is] before thee,</para>
+	<para style="p"><verse number="2" style="v" />And thou hast put a knife to thy throat, If thou [art] a man of appetite.</para>
+	<para style="p"><verse number="3" style="v" />Have no desire to his dainties, seeing it [is] lying food.</para>
+	<para style="p"><verse number="4" style="v" />Labour not to make wealth, From thine own understanding cease, Dost thou cause thine eyes to fly upon it? Then it is not.</para>
+	<para style="p"><verse number="5" style="v" />For wealth maketh to itself wings, As an eagle it flieth to the heavens.</para>
+	<para style="p"><verse number="6" style="v" />Eat not the bread of an evil eye, And have no desire to his dainties,</para>
+	<para style="p"><verse number="7" style="v" />For as he hath thought in his soul, so [is] he, `Eat and drink,' saith he to thee, And his heart [is] not with thee.</para>
+	<para style="p"><verse number="8" style="v" />Thy morsel thou hast eaten thou dost vomit up, And hast marred thy words that [are] sweet.</para>
+	<para style="p"><verse number="9" style="v" />In the ears of a fool speak not, For he treadeth on the wisdom of thy words.</para>
+	<para style="p"><verse number="10" style="v" />Remove not a border of olden times, And into fields of the fatherless enter not,</para>
+	<para style="p"><verse number="11" style="v" />For their Redeemer [is] strong, He doth plead their cause with thee.</para>
+	<para style="p"><verse number="12" style="v" />Bring in to instruction thy heart, And thine ear to sayings of knowledge.</para>
+	<para style="p"><verse number="13" style="v" />Withhold not from a youth chastisement, When thou smitest him with a rod he dieth not.</para>
+	<para style="p"><verse number="14" style="v" />Thou with a rod smitest him, And his soul from Sheol thou deliverest.</para>
+	<para style="p"><verse number="15" style="v" />My son, if thy heart hath been wise, My heart rejoiceth, even mine,</para>
+	<para style="p"><verse number="16" style="v" />And my reins exult when thy lips speak uprightly.</para>
+	<para style="p"><verse number="17" style="v" />Let not thy heart be envious at sinners, But--in the fear of Jehovah all the day.</para>
+	<para style="p"><verse number="18" style="v" />For, is there a posterity? Then thy hope is not cut off.</para>
+	<para style="p"><verse number="19" style="v" />Hear thou, my son, and be wise, And make happy in the way thy heart,</para>
+	<para style="p"><verse number="20" style="v" />Be not thou among quaffers of wine, Among gluttonous ones of flesh,</para>
+	<para style="p"><verse number="21" style="v" />For the quaffer and glutton become poor, And drowsiness clotheth with rags.</para>
+	<para style="p"><verse number="22" style="v" />Hearken to thy father, who begat thee, And despise not thy mother when she hath become old.</para>
+	<para style="p"><verse number="23" style="v" />Truth buy, and sell not, Wisdom, and instruction, and understanding,</para>
+	<para style="p"><verse number="24" style="v" />The father of the righteous rejoiceth greatly, The begetter of the wise rejoiceth in him.</para>
+	<para style="p"><verse number="25" style="v" />Rejoice doth thy father and thy mother, Yea, she that bare thee is joyful.</para>
+	<para style="p"><verse number="26" style="v" />Give, my son, thy heart to me, And let thine eyes watch my ways.</para>
+	<para style="p"><verse number="27" style="v" />For a harlot [is] a deep ditch, And a strange woman [is] a strait pit.</para>
+	<para style="p"><verse number="28" style="v" />She also, as catching prey, lieth in wait, And the treacherous among men she increaseth.</para>
+	<para style="p"><verse number="29" style="v" />Who hath woe? who hath sorrow? Who hath contentions? who hath plaint? Who hath wounds without cause? Who hath redness of eyes?</para>
+	<para style="p"><verse number="30" style="v" />Those tarrying by the wine, Those going in to search out mixed wine.</para>
+	<para style="p"><verse number="31" style="v" />See not wine when it showeth itself red, When it giveth in the cup its colour, It goeth up and down through the upright.</para>
+	<para style="p"><verse number="32" style="v" />Its latter end--as a serpent it biteth, And as a basilisk it stingeth.</para>
+	<para style="p"><verse number="33" style="v" />Thine eyes see strange women, And thy heart speaketh perverse things.</para>
+	<para style="p"><verse number="34" style="v" />And thou hast been as one lying down in the heart of the sea, And as one lying down on the top of a mast.</para>
+	<para style="p"><verse number="35" style="v" />`They smote me, I have not been sick, They beat me, I have not known. When I awake--I seek it yet again!'</para>
+	<chapter number="24" style="c" />
+	<para style="p"><verse number="1" style="v" />Be not envious of evil men, And desire not to be with them.</para>
+	<para style="p"><verse number="2" style="v" />For destruction doth their heart meditate, And perverseness do their lips speak.</para>
+	<para style="p"><verse number="3" style="v" />By wisdom is a house builded, And by understanding it establisheth itself.</para>
+	<para style="p"><verse number="4" style="v" />And by knowledge the inner parts are filled, [With] all precious and pleasant wealth.</para>
+	<para style="p"><verse number="5" style="v" />Mighty [is] the wise in strength, And a man of knowledge is strengthening power,</para>
+	<para style="p"><verse number="6" style="v" />For by plans thou makest for thyself war, And deliverance [is] in a multitude of counsellors.</para>
+	<para style="p"><verse number="7" style="v" />Wisdom [is] high for a fool, In the gate he openeth not his mouth.</para>
+	<para style="p"><verse number="8" style="v" />Whoso is devising to do evil, Him they call a master of wicked thoughts.</para>
+	<para style="p"><verse number="9" style="v" />The thought of folly [is] sin, And an abomination to man [is] a scorner.</para>
+	<para style="p"><verse number="10" style="v" />Thou hast shewed thyself weak in a day of adversity, Straitened is thy power,</para>
+	<para style="p"><verse number="11" style="v" />If [from] delivering those taken to death, And those slipping to the slaughter--thou keepest back.</para>
+	<para style="p"><verse number="12" style="v" />When thou sayest, `Lo, we knew not this.' Is not the Ponderer of hearts He who understandeth? And the Keeper of thy soul He who knoweth? And He hath rendered to man according to his work.</para>
+	<para style="p"><verse number="13" style="v" />Eat my son, honey that [is] good, And the honeycomb--sweet to thy palate.</para>
+	<para style="p"><verse number="14" style="v" />So [is] the knowledge of wisdom to thy soul, If thou hast found that there is a posterity And thy hope is not cut off.</para>
+	<para style="p"><verse number="15" style="v" />Lay not wait, O wicked one, At the habitation of the righteous. Do not spoil his resting-place.</para>
+	<para style="p"><verse number="16" style="v" />For seven [times] doth the righteous fall and rise, And the wicked stumble in evil.</para>
+	<para style="p"><verse number="17" style="v" />In the falling of thine enemy rejoice not, And in his stumbling let not thy heart be joyful,</para>
+	<para style="p"><verse number="18" style="v" />Lest Jehovah see, and [it be] evil in His eyes, And He hath turned from off him His anger.</para>
+	<para style="p"><verse number="19" style="v" />Fret not thyself at evil doers, Be not envious at the wicked,</para>
+	<para style="p"><verse number="20" style="v" />For there is not a posterity to the evil, The lamp of the wicked is extinguished.</para>
+	<para style="p"><verse number="21" style="v" />Fear Jehovah, my son, and the king, With changers mix not up thyself,</para>
+	<para style="p"><verse number="22" style="v" />For suddenly doth their calamity rise, And the ruin of them both--who knoweth!</para>
+	<para style="p"><verse number="23" style="v" />These also are for the wise: --To discern faces in judgment is not good.</para>
+	<para style="p"><verse number="24" style="v" />Whoso is saying to the wicked, `Thou [art] righteous,' Peoples execrate him-- nations abhor him.</para>
+	<para style="p"><verse number="25" style="v" />And to those reproving it is pleasant, And on them cometh a good blessing.</para>
+	<para style="p"><verse number="26" style="v" />Lips he kisseth who is returning straightforward words.</para>
+	<para style="p"><verse number="27" style="v" />Prepare in an out-place thy work, And make it ready in the field--go afterwards, Then thou hast built thy house.</para>
+	<para style="p"><verse number="28" style="v" />Be not a witness for nought against thy neighbour, Or thou hast enticed with thy lips.</para>
+	<para style="p"><verse number="29" style="v" />Say not, `As he did to me, so I do to him, I render to each according to his work.'</para>
+	<para style="p"><verse number="30" style="v" />Near the field of a slothful man I passed by, And near the vineyard of a man lacking heart.</para>
+	<para style="p"><verse number="31" style="v" />And lo, it hath gone up--all of it--thorns! Covered its face have nettles, And its stone wall hath been broken down.</para>
+	<para style="p"><verse number="32" style="v" />And I see--I--I do set my heart, I have seen--I have received instruction,</para>
+	<para style="p"><verse number="33" style="v" />A little sleep--a little slumber--A little folding of the hands to lie down.</para>
+	<para style="p"><verse number="34" style="v" />And thy poverty hath come [as] a traveller, And thy want as an armed man!</para>
+	<chapter number="25" style="c" />
+	<para style="p"><verse number="1" style="v" />Also these are Proverbs of Solomon, that men of Hezekiah king of Judah transcribed: --</para>
+	<para style="p"><verse number="2" style="v" />The honour of God [is] to hide a thing, And the honour of kings to search out a matter.</para>
+	<para style="p"><verse number="3" style="v" />The heavens for height, and the earth for depth, And the heart of kings--[are] unsearchable.</para>
+	<para style="p"><verse number="4" style="v" />Take away dross from silver, And a vessel for the refiner goeth forth,</para>
+	<para style="p"><verse number="5" style="v" />Take away the wicked before a king, And established in righteousness is his throne.</para>
+	<para style="p"><verse number="6" style="v" />Honour not thyself before a king, And in the place of the great stand not.</para>
+	<para style="p"><verse number="7" style="v" />For better [that] he hath said to thee, `Come thou up hither,' Than [that] he humble thee before a noble, Whom thine eyes have seen.</para>
+	<para style="p"><verse number="8" style="v" />Go not forth to strive, haste, turn, What dost thou in its latter end, When thy neighbour causeth thee to blush?</para>
+	<para style="p"><verse number="9" style="v" />Thy cause plead with thy neighbour, And the secret counsel of another reveal not,</para>
+	<para style="p"><verse number="10" style="v" />Lest the hearer put thee to shame, And thine evil report turn not back.</para>
+	<para style="p"><verse number="11" style="v" />Apples of gold in imagery of silver, [Is] the word spoken at its fit times.</para>
+	<para style="p"><verse number="12" style="v" />A ring of gold, and an ornament of pure gold, [Is] the wise reprover to an attentive ear.</para>
+	<para style="p"><verse number="13" style="v" />As a vessel of snow in a day of harvest, [So is] a faithful ambassador to those sending him, And the soul of his masters he refresheth.</para>
+	<para style="p"><verse number="14" style="v" />Clouds and wind, and rain there is none, [Is] a man boasting himself in a false gift.</para>
+	<para style="p"><verse number="15" style="v" />By long-suffering is a ruler persuaded, And a soft tongue breaketh a bone.</para>
+	<para style="p"><verse number="16" style="v" />Honey thou hast found--eat thy sufficiency, Lest thou be satiated [with] it, and hast vomited it.</para>
+	<para style="p"><verse number="17" style="v" />Withdraw thy foot from thy neighbour's house, Lest he be satiated [with] thee, and have hated thee.</para>
+	<para style="p"><verse number="18" style="v" />A maul, and a sword, and a sharp arrow, [Is] the man testifying against his neighbour a false testimony.</para>
+	<para style="p"><verse number="19" style="v" />A bad tooth, and a tottering foot, [Is] the confidence of the treacherous in a day of adversity.</para>
+	<para style="p"><verse number="20" style="v" />Whoso is taking away a garment in a cold day, [Is as] vinegar on nitre, And a singer of songs on a sad heart.</para>
+	<para style="p"><verse number="21" style="v" />If he who is hating thee doth hunger, cause him to eat bread, And if he thirst, cause him to drink water.</para>
+	<para style="p"><verse number="22" style="v" />For coals thou art putting on his head, And Jehovah giveth recompense to thee.</para>
+	<para style="p"><verse number="23" style="v" />A north wind bringeth forth rain, And a secret tongue--indignant faces.</para>
+	<para style="p"><verse number="24" style="v" />Better to sit on a corner of a roof, Than [with] a woman of contentions, and a house of company.</para>
+	<para style="p"><verse number="25" style="v" />[As] cold waters for a weary soul, So [is] a good report from a far country.</para>
+	<para style="p"><verse number="26" style="v" />A spring troubled, and a fountain corrupt, [Is] the righteous falling before the wicked.</para>
+	<para style="p"><verse number="27" style="v" />The eating of much honey is not good, Nor a searching out of one's own honour-- honour.</para>
+	<para style="p"><verse number="28" style="v" />A city broken down without walls, [Is] a man without restraint over his spirit!</para>
+	<chapter number="26" style="c" />
+	<para style="p"><verse number="1" style="v" />As snow in summer, and as rain in harvest, So honour [is] not comely for a fool.</para>
+	<para style="p"><verse number="2" style="v" />As a bird by wandering, as a swallow by flying, So reviling without cause doth not come.</para>
+	<para style="p"><verse number="3" style="v" />A whip is for a horse, a bridle for an ass, And a rod for the back of fools.</para>
+	<para style="p"><verse number="4" style="v" />Answer not a fool according to his folly, Lest thou be like to him--even thou.</para>
+	<para style="p"><verse number="5" style="v" />Answer a fool according to his folly, Lest he be wise in his own eyes.</para>
+	<para style="p"><verse number="6" style="v" />He is cutting off feet, he is drinking injury, Who is sending things by the hand of a fool.</para>
+	<para style="p"><verse number="7" style="v" />Weak have been the two legs of the lame, And a parable in the mouth of fools.</para>
+	<para style="p"><verse number="8" style="v" />As one who is binding a stone in a sling, So [is] he who is giving honour to a fool.</para>
+	<para style="p"><verse number="9" style="v" />A thorn hath gone up into the hand of a drunkard, And a parable in the mouth of fools.</para>
+	<para style="p"><verse number="10" style="v" />Great [is] the Former of all, And He is rewarding a fool, And is rewarding transgressors.</para>
+	<para style="p"><verse number="11" style="v" />As a dog hath returned to its vomit, A fool is repeating his folly.</para>
+	<para style="p"><verse number="12" style="v" />Thou hast seen a man wise in his own eyes, More hope of a fool than of him!</para>
+	<para style="p"><verse number="13" style="v" />The slothful hath said, `A lion [is] in the way, A lion [is] in the broad places.'</para>
+	<para style="p"><verse number="14" style="v" />The door turneth round on its hinge, And the slothful on his bed.</para>
+	<para style="p"><verse number="15" style="v" />The slothful hath hid his hand in a dish, He is weary of bringing it back to his mouth.</para>
+	<para style="p"><verse number="16" style="v" />Wiser [is] the slothful in his own eyes, Than seven [men] returning a reason.</para>
+	<para style="p"><verse number="17" style="v" />Laying hold on the ears of a dog, [Is] a passer-by making himself wrath for strife not his own.</para>
+	<para style="p"><verse number="18" style="v" />As [one] pretending to be feeble, Who is casting sparks, arrows, and death,</para>
+	<para style="p"><verse number="19" style="v" />So hath a man deceived his neighbour, And hath said, `Am not I playing?'</para>
+	<para style="p"><verse number="20" style="v" />Without wood is fire going out, And without a tale-bearer, contention ceaseth,</para>
+	<para style="p"><verse number="21" style="v" />Coal to burning coals, and wood to fire, And a man of contentions to kindle strife.</para>
+	<para style="p"><verse number="22" style="v" />The words of a tale-bearer [are] as self-inflicted wounds, And they have gone down [to] the inner parts of the heart.</para>
+	<para style="p"><verse number="23" style="v" />Silver of dross spread over potsherd, [Are] burning lips and an evil heart.</para>
+	<para style="p"><verse number="24" style="v" />By his lips doth a hater dissemble, And in his heart he placeth deceit,</para>
+	<para style="p"><verse number="25" style="v" />When his voice is gracious trust not in him, For seven abominations [are] in his heart.</para>
+	<para style="p"><verse number="26" style="v" />Hatred is covered by deceit, Revealed is its wickedness in an assembly.</para>
+	<para style="p"><verse number="27" style="v" />Whoso is digging a pit falleth into it, And the roller of a stone, to him it turneth.</para>
+	<para style="p"><verse number="28" style="v" />A lying tongue hateth its bruised ones, And a flattering mouth worketh an overthrow!</para>
+	<chapter number="27" style="c" />
+	<para style="p"><verse number="1" style="v" />Boast not thyself of to-morrow, For thou knowest not what a day bringeth forth.</para>
+	<para style="p"><verse number="2" style="v" />Let another praise thee, and not thine own mouth, A stranger, and not thine own lips.</para>
+	<para style="p"><verse number="3" style="v" />A stone [is] heavy, and the sand [is] heavy, And the anger of a fool Is heavier than they both.</para>
+	<para style="p"><verse number="4" style="v" />Fury [is] fierce, and anger [is] overflowing, And who standeth before jealousy?</para>
+	<para style="p"><verse number="5" style="v" />Better [is] open reproof than hidden love.</para>
+	<para style="p"><verse number="6" style="v" />Faithful are the wounds of a lover, And abundant the kisses of an enemy.</para>
+	<para style="p"><verse number="7" style="v" />A satiated soul treadeth down a honeycomb, And [to] a hungry soul every bitter thing [is] sweet.</para>
+	<para style="p"><verse number="8" style="v" />As a bird wandering from her nest, So [is] a man wandering from his place.</para>
+	<para style="p"><verse number="9" style="v" />Ointment and perfume rejoice the heart, And the sweetness of one's friend--from counsel of the soul.</para>
+	<para style="p"><verse number="10" style="v" />Thine own friend, and the friend of thy father, forsake not, And the house of thy brother enter not In a day of thy calamity, Better [is] a near neighbour than a brother afar off.</para>
+	<para style="p"><verse number="11" style="v" />Be wise, my son, and rejoice my heart. And I return my reproacher a word.</para>
+	<para style="p"><verse number="12" style="v" />The prudent hath seen the evil, he is hidden, The simple have passed on, they are punished.</para>
+	<para style="p"><verse number="13" style="v" />Take his garment, when a stranger hath been surety, And for a strange woman pledge it.</para>
+	<para style="p"><verse number="14" style="v" />Whoso is saluting his friend with a loud voice, In the morning rising early, A light thing it is reckoned to him.</para>
+	<para style="p"><verse number="15" style="v" />A continual dropping in a day of rain, And a woman of contentions are alike,</para>
+	<para style="p"><verse number="16" style="v" />Whoso is hiding her hath hidden the wind, And the ointment of his right hand calleth out.</para>
+	<para style="p"><verse number="17" style="v" />Iron by iron is sharpened, And a man sharpens the face of his friend.</para>
+	<para style="p"><verse number="18" style="v" />The keeper of a fig-tree eateth its fruit, And the preserver of his master is honoured.</para>
+	<para style="p"><verse number="19" style="v" />As [in] water the face [is] to face, So the heart of man to man.</para>
+	<para style="p"><verse number="20" style="v" />Sheol and destruction are not satisfied, And the eyes of man are not satisfied.</para>
+	<para style="p"><verse number="21" style="v" />A refining pot [is] for silver, and a furnace for gold, And a man according to his praise.</para>
+	<para style="p"><verse number="22" style="v" />If thou dost beat the foolish in a mortar, Among washed things--with a pestle, His folly turneth not aside from off him.</para>
+	<para style="p"><verse number="23" style="v" />Know well the face of thy flock, Set thy heart to the droves,</para>
+	<para style="p"><verse number="24" style="v" />For riches [are] not to the age, Nor a crown to generation and generation.</para>
+	<para style="p"><verse number="25" style="v" />Revealed was the hay, and seen the tender grass, And gathered the herbs of mountains.</para>
+	<para style="p"><verse number="26" style="v" />Lambs [are] for thy clothing, And the price of the field [are] he-goats,</para>
+	<para style="p"><verse number="27" style="v" />And a sufficiency of goats' milk [is] for thy bread, For bread to thy house, and life to thy damsels!</para>
+	<chapter number="28" style="c" />
+	<para style="p"><verse number="1" style="v" />The wicked have fled and there is no pursuer. And the righteous as a young lion is confident.</para>
+	<para style="p"><verse number="2" style="v" />By the transgression of a land many [are] its heads. And by an intelligent man, Who knoweth right--it is prolonged.</para>
+	<para style="p"><verse number="3" style="v" />A man--poor and oppressing the weak, [Is] a sweeping rain, and there is no bread.</para>
+	<para style="p"><verse number="4" style="v" />Those forsaking the law praise the wicked, Those keeping the law plead against them.</para>
+	<para style="p"><verse number="5" style="v" />Evil men understand not judgment, And those seeking Jehovah understand all.</para>
+	<para style="p"><verse number="6" style="v" />Better [is] the poor walking in his integrity, Than the perverse of ways who is rich.</para>
+	<para style="p"><verse number="7" style="v" />Whoso is keeping the law is an intelligent son, And a friend of gluttons, Doth cause his father to blush.</para>
+	<para style="p"><verse number="8" style="v" />Whoso is multiplying his wealth by biting and usury, For one favouring the poor doth gather it.</para>
+	<para style="p"><verse number="9" style="v" />Whoso is turning his ear from hearing the law, Even his prayer [is] an abomination.</para>
+	<para style="p"><verse number="10" style="v" />Whoso is causing the upright to err in an evil way, Into his own pit he doth fall, And the perfect do inherit good.</para>
+	<para style="p"><verse number="11" style="v" />A rich man is wise in his own eyes, And the intelligent poor searcheth him.</para>
+	<para style="p"><verse number="12" style="v" />In the exulting of the righteous the glory [is] abundant, And in the rising of the wicked man is apprehensive.</para>
+	<para style="p"><verse number="13" style="v" />Whoso is covering his transgressions prospereth not, And he who is confessing and forsaking hath mercy.</para>
+	<para style="p"><verse number="14" style="v" />O the happiness of a man fearing continually, And whoso is hardening his heart falleth into evil.</para>
+	<para style="p"><verse number="15" style="v" />A growling lion, and a ranging bear, [Is] the wicked ruler over a poor people.</para>
+	<para style="p"><verse number="16" style="v" />A leader lacking understanding multiplieth oppressions, Whoso is hating dishonest gain prolongeth days.</para>
+	<para style="p"><verse number="17" style="v" />A man oppressed with the blood of a soul, Unto the pit fleeth, none taketh hold on him.</para>
+	<para style="p"><verse number="18" style="v" />Whoso is walking uprightly is saved, And the perverted of ways falleth at once.</para>
+	<para style="p"><verse number="19" style="v" />Whoso is tilling his ground is satisfied [with] bread, And whoso is pursuing vanity, Is filled [with] poverty.</para>
+	<para style="p"><verse number="20" style="v" />A stedfast man hath multiplied blessings, And whoso is hasting to be rich is not acquitted.</para>
+	<para style="p"><verse number="21" style="v" />To discern faces is not good, And for a piece of bread doth a man transgress.</para>
+	<para style="p"><verse number="22" style="v" />Troubled for wealth [is] the man [with] an evil eye, And he knoweth not that want doth meet him.</para>
+	<para style="p"><verse number="23" style="v" />Whoso is reproving a man afterwards findeth grace, More than a flatterer with the tongue.</para>
+	<para style="p"><verse number="24" style="v" />Whoso is robbing his father, or his mother, And is saying, `It is not transgression,' A companion he is to a destroyer.</para>
+	<para style="p"><verse number="25" style="v" />Whoso is proud in soul stirreth up contention, And whoso is trusting on Jehovah is made fat.</para>
+	<para style="p"><verse number="26" style="v" />Whoso is trusting in his heart is a fool, And whoso is walking in wisdom is delivered.</para>
+	<para style="p"><verse number="27" style="v" />Whoso is giving to the poor hath no lack, And whoso is hiding his eyes multiplied curses.</para>
+	<para style="p"><verse number="28" style="v" />In the rising of the wicked a man is hidden, And in their destruction the righteous multiply!</para>
+	<chapter number="29" style="c" />
+	<para style="p"><verse number="1" style="v" />A man often reproved, hardening the neck, Is suddenly broken, and there is no healing.</para>
+	<para style="p"><verse number="2" style="v" />In the multiplying of the righteous the people rejoice, And in the ruling of the wicked the people sigh.</para>
+	<para style="p"><verse number="3" style="v" />A man loving wisdom rejoiceth his father, And a friend of harlots destroyeth wealth.</para>
+	<para style="p"><verse number="4" style="v" />A king by judgment establisheth a land, And one receiving gifts throweth it down.</para>
+	<para style="p"><verse number="5" style="v" />A man taking a portion above his neighbour, Spreadeth a net for his own steps.</para>
+	<para style="p"><verse number="6" style="v" />In the transgression of the evil [is] a snare, And the righteous doth sing and rejoice.</para>
+	<para style="p"><verse number="7" style="v" />The righteous knoweth the plea of the poor, The wicked understandeth not knowledge.</para>
+	<para style="p"><verse number="8" style="v" />Men of scorning ensnare a city, And the wise turn back anger.</para>
+	<para style="p"><verse number="9" style="v" />A wise man is judged by the foolish man, And he hath been angry, And he hath laughed, and there is no rest.</para>
+	<para style="p"><verse number="10" style="v" />Men of blood hate the perfect, And the upright seek his soul.</para>
+	<para style="p"><verse number="11" style="v" />A fool bringeth out all his mind, And the wise till afterwards restraineth it.</para>
+	<para style="p"><verse number="12" style="v" />A ruler who is attending to lying words, All his ministers [are] wicked.</para>
+	<para style="p"><verse number="13" style="v" />The poor and the man of frauds have met together, Jehovah is enlightening the eyes of them both.</para>
+	<para style="p"><verse number="14" style="v" />a king that is judging truly the poor, His throne for ever is established.</para>
+	<para style="p"><verse number="15" style="v" />A rod and reproof give wisdom, And a youth let away is shaming his mother.</para>
+	<para style="p"><verse number="16" style="v" />In the multiplying of the wicked transgression multiplieth, And the righteous on their fall do look.</para>
+	<para style="p"><verse number="17" style="v" />Chastise thy son, and he giveth thee comfort, Yea, he giveth delights to thy soul.</para>
+	<para style="p"><verse number="18" style="v" />Without a Vision is a people made naked, And whoso is keeping the law, O his happiness!</para>
+	<para style="p"><verse number="19" style="v" />By words a servant is not instructed though he understand, And there is nothing answering.</para>
+	<para style="p"><verse number="20" style="v" />Thou hast seen a man hasty in his words! More hope of a fool than of him.</para>
+	<para style="p"><verse number="21" style="v" />Whoso is bringing up his servant delicately, from youth, [At] his latter end also he is continuator.</para>
+	<para style="p"><verse number="22" style="v" />An angry man stirreth up contention, And a furious man is multiplying transgression.</para>
+	<para style="p"><verse number="23" style="v" />The pride of man humbleth him, And humility of spirit upholdeth honour.</para>
+	<para style="p"><verse number="24" style="v" />Whoso is sharing with a thief is hating his own soul, Execration he heareth, and telleth not.</para>
+	<para style="p"><verse number="25" style="v" />Fear of man causeth a snare, And the confident in Jehovah is set on high.</para>
+	<para style="p"><verse number="26" style="v" />Many are seeking the face of a ruler, And from Jehovah [is] the judgment of each.</para>
+	<para style="p"><verse number="27" style="v" />An abomination to the righteous [is] the perverse man, And an abomination to the wicked [is] the upright in the way!</para>
+	<chapter number="30" style="c" />
+	<para style="p"><verse number="1" style="v" />Words of a Gatherer, son of an obedient one, the declaration, an affirmation of the man: --I have wearied myself [for] God, I have wearied myself [for] God, and am consumed.</para>
+	<para style="p"><verse number="2" style="v" />For I am more brutish than any one, And have not the understanding of a man.</para>
+	<para style="p"><verse number="3" style="v" />Nor have I learned wisdom, Yet the knowledge of Holy Ones I know.</para>
+	<para style="p"><verse number="4" style="v" />Who went up to heaven, and cometh down? Who hath gathered the wind in his fists? Who hath bound waters in a garment? Who established all ends of the earth? What [is] His name? and what His son's name? Surely thou knowest!</para>
+	<para style="p"><verse number="5" style="v" />Every saying of God [is] tried, A shield He [is] to those trusting in Him.</para>
+	<para style="p"><verse number="6" style="v" />Add not to His words, lest He reason with thee, And thou hast been found false.</para>
+	<para style="p"><verse number="7" style="v" />Two things I have asked from Thee, Withhold not from me before I die.</para>
+	<para style="p"><verse number="8" style="v" />Vanity and a lying word put far from me, Poverty or wealth give not to me, Cause me to eat the bread of my portion,</para>
+	<para style="p"><verse number="9" style="v" />Lest I become satiated, and have denied, And have said, `Who [is] Jehovah?' And lest I be poor, and have stolen, And have laid hold of the name of my God.</para>
+	<para style="p"><verse number="10" style="v" />Accuse not a servant unto his lord, Lest he disesteem thee, and thou be found guilty.</para>
+	<para style="p"><verse number="11" style="v" />A generation [is], that lightly esteemeth their father, And their mother doth not bless.</para>
+	<para style="p"><verse number="12" style="v" />A generation--pure in their own eyes, But from their own filth not washed.</para>
+	<para style="p"><verse number="13" style="v" />A generation--how high are their eyes, Yea, their eyelids are lifted up.</para>
+	<para style="p"><verse number="14" style="v" />A generation--swords [are] their teeth, And knives--their jaw-teeth, To consume the poor from earth, And the needy from [among] men.</para>
+	<para style="p"><verse number="15" style="v" />To the leech [are] two daughters, `Give, give, Lo, three things are not satisfied, Four have not said `Sufficiency;'</para>
+	<para style="p"><verse number="16" style="v" />Sheol, and a restrained womb, Earth--it [is] not satisfied [with] water, And fire--it hath not said, `Sufficiency,'</para>
+	<para style="p"><verse number="17" style="v" />An eye that mocketh at a father, And despiseth to obey a mother, Dig it out do ravens of the valley, And eat it do young eagles.</para>
+	<para style="p"><verse number="18" style="v" />Three things have been too wonderful for me, Yea, four that I have not known:</para>
+	<para style="p"><verse number="19" style="v" />The way of the eagle in the heavens, The way of a serpent on a rock, The way of a ship in the heart of the sea, And the way of a man in youth.</para>
+	<para style="p"><verse number="20" style="v" />So--the way of an adulterous woman, She hath eaten and hath wiped her mouth, And hath said, `I have not done iniquity.'</para>
+	<para style="p"><verse number="21" style="v" />For three things hath earth been troubled, And for four--it is not able to bear:</para>
+	<para style="p"><verse number="22" style="v" />For a servant when he reigneth, And a fool when he is satisfied with bread,</para>
+	<para style="p"><verse number="23" style="v" />For a hated one when she ruleth, And a maid-servant when she succeedeth her mistress.</para>
+	<para style="p"><verse number="24" style="v" />Four [are] little ones of earth, And they are made wiser than the wise:</para>
+	<para style="p"><verse number="25" style="v" />The ants [are] a people not strong, And they prepare in summer their food,</para>
+	<para style="p"><verse number="26" style="v" />Conies [are] a people not strong, And they place in a rock their house,</para>
+	<para style="p"><verse number="27" style="v" />A king there is not to the locust, And it goeth out--each one shouting,</para>
+	<para style="p"><verse number="28" style="v" />A spider with two hands taketh hold, And is in the palaces of a king.</para>
+	<para style="p"><verse number="29" style="v" />Three there are going well, Yea, four are good in going:</para>
+	<para style="p"><verse number="30" style="v" />An old lion--mighty among beasts, That turneth not back from the face of any,</para>
+	<para style="p"><verse number="31" style="v" />A girt one of the loins, or a he-goat, And a king--no rising up with him.</para>
+	<para style="p"><verse number="32" style="v" />If thou hast been foolish in lifting up thyself, And if thou hast devised evil--hand to mouth!</para>
+	<para style="p"><verse number="33" style="v" />For the churning of milk bringeth out butter, And the wringing of the nose bringeth out blood, And the forcing of anger bringeth out strife!</para>
+	<chapter number="31" style="c" />
+	<para style="p"><verse number="1" style="v" />Words of Lemuel a king, a declaration that his mother taught him:</para>
+	<para style="p"><verse number="2" style="v" />`What, my son? and what, son of my womb? And what, son of my vows?</para>
+	<para style="p"><verse number="3" style="v" />Give not to women thy strength, And thy ways to wiping away of kings.</para>
+	<para style="p"><verse number="4" style="v" />Not for kings, O Lemuel, Not for kings, to drink wine, And for princes a desire of strong drink.</para>
+	<para style="p"><verse number="5" style="v" />Lest he drink, and forget the decree, And change the judgment of any of the sons of affliction.</para>
+	<para style="p"><verse number="6" style="v" />Give strong drink to the perishing, And wine to the bitter in soul,</para>
+	<para style="p"><verse number="7" style="v" />He drinketh, and forgetteth his poverty, And his misery he remembereth not again.</para>
+	<para style="p"><verse number="8" style="v" />Open thy mouth for the dumb, For the right of all sons of change.</para>
+	<para style="p"><verse number="9" style="v" />Open thy mouth, judge righteously, Both the cause of the poor and needy!'</para>
+	<para style="p"><verse number="10" style="v" />A woman of worth who doth find? Yea, far above rubies [is] her price.</para>
+	<para style="p"><verse number="11" style="v" />The heart of her husband hath trusted in her, And spoil he lacketh not.</para>
+	<para style="p"><verse number="12" style="v" />She hath done him good, and not evil, All days of her life.</para>
+	<para style="p"><verse number="13" style="v" />She hath sought wool and flax, And with delight she worketh [with] her hands.</para>
+	<para style="p"><verse number="14" style="v" />She hath been as ships of the merchant, From afar she bringeth in her bread.</para>
+	<para style="p"><verse number="15" style="v" />Yea, she riseth while yet night, And giveth food to her household, And a portion to her damsels.</para>
+	<para style="p"><verse number="16" style="v" />She hath considered a field, and taketh it, From the fruit of her hands she hath planted a vineyard.</para>
+	<para style="p"><verse number="17" style="v" />She hath girded with might her loins, And doth strengthen her arms.</para>
+	<para style="p"><verse number="18" style="v" />She hath perceived when her merchandise [is] good, Her lamp is not extinguished in the night.</para>
+	<para style="p"><verse number="19" style="v" />Her hands she hath sent forth on a spindle, And her hands have held a distaff.</para>
+	<para style="p"><verse number="20" style="v" />Her hand she hath spread forth to the poor, Yea, her hands she sent forth to the needy.</para>
+	<para style="p"><verse number="21" style="v" />She is not afraid of her household from snow, For all her household are clothed [with] scarlet.</para>
+	<para style="p"><verse number="22" style="v" />Ornamental coverings she hath made for herself, Silk and purple [are] her clothing.</para>
+	<para style="p"><verse number="23" style="v" />Known in the gates is her husband, In his sitting with elders of the land.</para>
+	<para style="p"><verse number="24" style="v" />Linen garments she hath made, and selleth, And a girdle she hath given to the merchant.</para>
+	<para style="p"><verse number="25" style="v" />Strength and honour [are] her clothing, And she rejoiceth at a latter day.</para>
+	<para style="p"><verse number="26" style="v" />Her mouth she hath opened in wisdom, And the law of kindness [is] on her tongue.</para>
+	<para style="p"><verse number="27" style="v" />She [is] watching the ways of her household, And bread of sloth she eateth not.</para>
+	<para style="p"><verse number="28" style="v" />Her sons have risen up, and pronounce her happy, Her husband, and he praiseth her,</para>
+	<para style="p"><verse number="29" style="v" />`Many [are] the daughters who have done worthily, Thou hast gone up above them all.'</para>
+	<para style="p"><verse number="30" style="v" />The grace [is] false, and the beauty [is] vain, A woman fearing Jehovah, she may boast herself.</para>
+	<para style="p"><verse number="31" style="v" />Give ye to her of the fruit of her hands, And her works do praise her in the gates!</para>
+	
+</usx>
