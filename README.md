@@ -14,9 +14,9 @@ For Windows...
 2. Open File Explorer and Go to : C:\ProgramData\RenewedVision\ProPresenter\Bibles
 3. Delete existing files such as BibleData.proPref and Paste here like this...</br>
 <p align="center">
-  <img src="/Screenshot 2023-03-18 220546.png" width="350" alt="Screenshot of Bibles folder to copy"></br>
+  <img src="/Screenshot 2023-03-18 220546.png" width="350" alt="Screenshot of Bibles folder to copy">
+</p></br>
 4. Open Propresenter Software, go to Bible and you can use the Tedim (Chin) Bible now...
 
 For Any Reasons, Contact me : peterpausianlian2020@gmail.com :) </br> Thanks for downloading....
-
 </p>
