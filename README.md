@@ -20,5 +20,7 @@ For Windows...
    </br></br></p>
 For Any Reasons, Contact me : peterpausianlian2020@gmail.com :) </br> Thanks for downloading....
 
-Video link:
-<iframe width="853" height="480" src="https://www.youtube.com/embed/UmAQ_1o-rF0" title="How to show Tedim Bible using Bible Show with EasyWorship and NDI Support softwares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Video link:<br>
+<p>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/UmAQ_1o-rF0" title="How to show Tedim Bible using Bible Show with EasyWorship and NDI Support softwares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </p>
