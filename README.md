@@ -1,4 +1,4 @@
-<h1>This is the Bible translation in Tedim (Chin), Lai Siangtho to use with Propresenter 7. </h1>
+<h1>This is the Bible translation in Tedim (Chin) 2010, Lai Siangtho to use with Propresenter 7. </h1>
 
 <p>Included Bibles</br>
 RVA is the version of Reina-Valera Antigua (RVA) and I overwrite files and modify translation file for Tedim (Chin) Bible (TDB). So Reina-Valera Antigua (RVA) version cannot be used. Aim to use Tedim (Chin) version.
