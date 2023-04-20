@@ -3,124 +3,147 @@
   <book code="NAM" style="id">Nahum</book>
   <para style="mt">Nahum</para>
   <chapter number="1" style="c" />
-  <para style="p"><verse number="1" style="v" />Hih pen Nineveh khua tawh kisai thu genna hi a,
-    Elkosh khuami Nahum' maangmuhna a kiciamtehna lai ahi hi. </para>
-  <para style="p"><verse number="2" style="v" />{ Topa } Pasian in amah a demte koihkhonglo a, amah
-    a langpangte gim pia-in a galte thukkik hi. </para>
-  <para style="p"><verse number="3" style="v" />{ Topa } lungduai mahmah a, a vang zong lian mahmah
-    a, ahih hangin mimawhte khahkhong ngeilo hi. A paina peuhpeuhah huihpi nungin pingpei kipei a,
-    ama paina hanga leivui leeng meiipi kai tawh kibang hi. </para>
-  <para style="p"><verse number="4" style="v" />Amah in tuipi a tai ciangin tuipi kangcip pah a,
-    gunpite zong kangcipsak hi. Bashan gam keugawpin Karmel Mual kausan a, Lebanon Mual-a om
-    pakpalhte a vul hi. </para>
-  <para style="p"><verse number="5" style="v" />Ama mai-ah mual liante ling a, mual neute a tuisuak
-    hi. Ama mai-ah leitang kicim a, leitung leh a tunga om khempeuh a ling uh hi. </para>
-  <para style="p"><verse number="6" style="v" />Ama hehna kua in nangzo ding a, ama lunghamna kua in
-    thuakzo ding ahi hiam? A hehna, meikuang bangin hong khahkhia a, ama mai-ah suangtumpite
-    kitamzan hi. </para>
-  <para style="p"><verse number="7" style="v" />{ Topa } hoih hi; lungkham hunin a mite huh a, amah
-    a beel mite limtakin a kem hi. </para>
-  <para style="p"><verse number="8" style="v" />Tuikhang in a suksiat bangin a langte susiagawp a, a
-    galte khempeuh khuamial sungah a nawtkhia hi. </para>
-  <para style="p"><verse number="9" style="v" />Bang hangin { Topa } sawm ngam na hi hiam? Amah in
-    nang hong susia ding hi. Amah a su peuhpeuh a dingkikzo om ngeilo hi. </para>
-  <para style="p"><verse number="10" style="v" />Amaute, linglom bangin om uh a, zu leh sa tawh
-    kidiahin a om laitakun ham bangin kihaltum ding hi. </para>
-  <para style="p"><verse number="11" style="v" />Nineveh khuapi aw, gitlohna tawh thu vaihawmin, {
-    Topa } a sawm mite, nang' sungah om hilo ahi hiam? </para>
-  <para style="p"><verse number="12" style="v" />{ Topa } in ama mite tungah hih bangin thu gen a,
-    “Assiria mite thahatin a tam mahmah hangin, amaute kisusia-in maimang ding uh hi. No ka mite na
-    hih uh leh, khatvei lai-in kong gimsak khit hangin tu-in note kong gimsakkik nawn kei ding hi. </para>
-  <para style="p"><verse number="13" style="v" />Note' tungah Assiria mite' aana neihna ka beisak
-    ding a, note hong khihna sikkhaute ka sutat ding hi,” ci hi. </para>
-  <para style="p"><verse number="14" style="v" />{ Topa } in Assiria mite tawh kisai-in hih bangin
-    thu pia hi: “Note na cimang ding uh a, na pasian-te uh biakinn sunga om milimte ka susia ding
-    hi. Note siahuai lua na hih manun na hankhuk ding uh a bawlbawl ka hi ta hi,” a ci hi. </para>
-  <para style="p"><verse number="15" style="v" />En un, mualtungah kamtaipa hong tai a, gualzawhna
-    ding thupha hong gen ding ahi hi. Judah mite aw, pawi bawl un la, Pasian' tungah na ciam bangun
-    gamta un. Bang hang hiam cih leh migilote kisusiacip khin a, na gam uh hong simkik nawnlo ding
-    hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />Hih pen Nineveh khua tawh kisai thu genna hi a, Elkosh khuami Nahum' maangmuhna a kiciamtehna lai ahi hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />{ Topa } Pasian in amah a demte koihkhonglo a, amah a langpangte gim pia-in a galte thukkik hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />{ Topa } lungduai mahmah a, a vang zong lian mahmah a, ahih hangin mimawhte khahkhong ngeilo hi. A paina peuhpeuhah huihpi nungin pingpei kipei a, ama paina hanga leivui leeng meiipi kai tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Amah in tuipi a tai ciangin tuipi kangcip pah a, gunpite zong kangcipsak hi. Bashan gam keugawpin Karmel Mual kausan a, Lebanon Mual-a om pakpalhte a vul hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ama mai-ah mual liante ling a, mual neute a tuisuak hi. Ama mai-ah leitang kicim a, leitung leh a tunga om khempeuh a ling uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Ama hehna kua in nangzo ding a, ama lunghamna kua in thuakzo ding ahi hiam? A hehna, meikuang bangin hong khahkhia a, ama mai-ah suangtumpite kitamzan hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />{ Topa } hoih hi; lungkham hunin a mite huh a, amah a beel mite limtakin a kem hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Tuikhang in a suksiat bangin a langte susiagawp a, a galte khempeuh khuamial sungah a nawtkhia hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Bang hangin { Topa } sawm ngam na hi hiam? Amah in nang hong susia ding hi. Amah a su peuhpeuh a dingkikzo om ngeilo hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Amaute, linglom bangin om uh a, zu leh sa tawh kidiahin a om laitakun ham bangin kihaltum ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Nineveh khuapi aw, gitlohna tawh thu vaihawmin, { Topa } a sawm mite, nang' sungah om hilo ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />{ Topa } in ama mite tungah hih bangin thu gen a, “Assiria mite thahatin a tam mahmah hangin, amaute kisusia-in maimang ding uh hi. No ka mite na hih uh leh, khatvei lai-in kong gimsak khit hangin tu-in note kong gimsakkik nawn kei ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Note' tungah Assiria mite' aana neihna ka beisak ding a, note hong khihna sikkhaute ka sutat ding hi,” ci hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />{ Topa } in Assiria mite tawh kisai-in hih bangin thu pia hi: “Note na cimang ding uh a, na pasian-te uh biakinn sunga om milimte ka susia ding hi. Note siahuai lua na hih manun na hankhuk ding uh a bawlbawl ka hi ta hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />En un, mualtungah kamtaipa hong tai a, gualzawhna ding thupha hong gen ding ahi hi. Judah mite aw, pawi bawl un la, Pasian' tungah na ciam bangun gamta un. Bang hang hiam cih leh migilote kisusiacip khin a, na gam uh hong simkik nawnlo ding hi.
+  </para>
   <chapter number="2" style="c" />
-  <para style="p"><verse number="1" style="v" />Nineveh khuapi aw, nang hong kisim ta a, nang hong
-    sugawp dingpa hong tungta hi. Na kan uhah pang un la, lampi vil un. Kithawi un la, galdo dingin
-    kiging un. </para>
-  <para style="p"><verse number="2" style="v" />(Israel mite, a galte' sukgawp ma, a nidang ngeina
-    bangun { Topa } in a omsakkik ding a kipan ahi hi.) </para>
-  <para style="p"><verse number="3" style="v" />A galkapte in lum san hong keng uh a, puan zong a
-    san mah hong silh uh hi. A sim dingin hong kipan uh a, a sakol leengte uh khuaphia bang a, a
-    sakolte uh hong koplen' uh hi. </para>
-  <para style="p"><verse number="4" style="v" />Sakol leengte kongzing lakah kilehsuk kilehto uh a,
-    lamkabom khempeuh nawkin leeng kawikawi uh hi. Meikuang bangin kikhawh uh a, khuaphia bangin
-    leeng uh hi. </para>
-  <para style="p"><verse number="5" style="v" />Galkapmangte kikaikhawm a, a galkapte uh thu pia uh
-    hi. Amaute, kan phung lam kiden'na uh a, a lum uh tawh kidal uh hi. </para>
-  <para style="p"><verse number="6" style="v" />Tui luan'na gei-ah a om kulhkongpite kisatkham a,
-    kumpi innsungah patauhna om hi. </para>
-  <para style="p"><verse number="7" style="v" />Kumpinu kimanin kipuakhia a, a nasemte thumin kap uh
-    a, dahin dip hum uh hi. </para>
-  <para style="p"><verse number="8" style="v" />Tuibem kitam panin tui a kikhawhkhia bangin, Nineveh
-    khuapi panin mite a taikhia uh hi. “Khawl un, khawl un,” a kicih hangin khat beek nungheilo uh
-    hi. </para>
-  <para style="p"><verse number="9" style="v" />Ngunte la un! Khamte la un! Khuasungah sum manpha
-    bei cih om theilo a, van manpha zong bei cih om theilo hi. </para>
-  <para style="p"><verse number="10" style="v" />Nineveh khuapi kisusia a, kinusiacipin gamkhing
-    suak hi. Launa lungsim tawh kidimin khukte ling kelkel a, mi khempeuh lunggimin a mai-ah si
-    tenglo hi. </para>
-  <para style="p"><verse number="11" style="v" />Humpinelkai note an a kivakna mun, humpinelkai leh
-    a note lungmuanga a omna mun, humpinelkaite' kua tawh a kibang koi-ah omta ahi hiam? </para>
-  <para style="p"><verse number="12" style="v" />Humpinelkai in sa manin a zi leh a tate-a' dingin a
-    sa balnensak a, a kua sung khempeuh sa tawh kidimsak ngei hi. </para>
-  <para style="p"><verse number="13" style="v" />Vanglian { Topa } in hih bangin ci hi: “Kei pen
-    note' gal ka hi a, na sakol leengte uh ka haltum ding hi. Na humpinelkai note uh namsau in
-    vatmai ding a, midangte' na na suh teng uh ka susiamang khin ding hi. Na tangmite uh' awging koi
-    mahah kiza nawnlo ding hi,”ci hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />Nineveh khuapi aw, nang hong kisim ta a, nang hong sugawp dingpa hong tungta hi. Na kan uhah pang un la, lampi vil un. Kithawi un la, galdo dingin kiging un.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />(Israel mite, a galte' sukgawp ma, a nidang ngeina bangun { Topa } in a omsakkik ding a kipan ahi hi.)
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A galkapte in lum san hong keng uh a, puan zong a san mah hong silh uh hi. A sim dingin hong kipan uh a, a sakol leengte uh khuaphia bang a, a sakolte uh hong koplen' uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Sakol leengte kongzing lakah kilehsuk kilehto uh a, lamkabom khempeuh nawkin leeng kawikawi uh hi. Meikuang bangin kikhawh uh a, khuaphia bangin leeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Galkapmangte kikaikhawm a, a galkapte uh thu pia uh hi. Amaute, kan phung lam kiden'na uh a, a lum uh tawh kidal uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Tui luan'na gei-ah a om kulhkongpite kisatkham a, kumpi innsungah patauhna om hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Kumpinu kimanin kipuakhia a, a nasemte thumin kap uh a, dahin dip hum uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Tuibem kitam panin tui a kikhawhkhia bangin, Nineveh khuapi panin mite a taikhia uh hi. “Khawl un, khawl un,” a kicih hangin khat beek nungheilo uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ngunte la un! Khamte la un! Khuasungah sum manpha bei cih om theilo a, van manpha zong bei cih om theilo hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Nineveh khuapi kisusia a, kinusiacipin gamkhing suak hi. Launa lungsim tawh kidimin khukte ling kelkel a, mi khempeuh lunggimin a mai-ah si tenglo hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Humpinelkai note an a kivakna mun, humpinelkai leh a note lungmuanga a omna mun, humpinelkaite' kua tawh a kibang koi-ah omta ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Humpinelkai in sa manin a zi leh a tate-a' dingin a sa balnensak a, a kua sung khempeuh sa tawh kidimsak ngei hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Vanglian { Topa } in hih bangin ci hi: “Kei pen note' gal ka hi a, na sakol leengte uh ka haltum ding hi. Na humpinelkai note uh namsau in vatmai ding a, midangte' na na suh teng uh ka susiamang khin ding hi. Na tangmite uh' awging koi mahah kiza nawnlo ding hi,”ci hi.
+  </para>
   <chapter number="3" style="c" />
-  <para style="p"><verse number="1" style="v" />Zuauna leh mi thahna tawh a kidim khuapi, van top
-    ding tampi a omna khuapi, tu-in a siacip ding hita hi. </para>
-  <para style="p"><verse number="2" style="v" />Ngai un! Sakol kisatna a ging, leengpei kigawi,
-    sakol koplen'na kheging, sakol leeng a tuan lauhlauh gingte! </para>
-  <para style="p"><verse number="3" style="v" />Sakol tung tuangte' galsimna, namsau phia zalzal!
-    Teipi te zalzal! Misi luanghawmte simzawh ding hilo, kiciangin vum venvan! Tuate tung mah tawnin
-    gal kido! </para>
-  <para style="p"><verse number="4" style="v" />Nineveh khuapi in a paktatna hangin gim thuak hi.
-    Ngaihbaang mel pua-in bum siamna nei a, minamte zolin a khem hi. </para>
-  <para style="p"><verse number="5" style="v" />Tua ahih manin Vanglian { Topa } in hih bangin ci
-    hi: “Nineveh khuapi aw, gim kong pia ding hi. Na nik kong hawkkhiatsak ding a, minamte in na
-    guak omna hong mu ding uh a, na zumhuaina teng hong mu ding uh hi. </para>
-  <para style="p"><verse number="6" style="v" />Nang hong huatbawlin ninbulom tawh kong kidimsak
-    ding a, mite in lamdangsakna tawh nang hong en ding uh hi. </para>
-  <para style="p"><verse number="7" style="v" />Nang hong mu khempeuh nungkik gaihin, ‘Nineveh
-    khuapi siacip ta hi; kua in khasiat ding ahi hiam?’ ci ding uh hi. Ahi zongin nang a hong hehnem
-    nuam kuamah omlo ding hi,” ci hi. </para>
-  <para style="p"><verse number="8" style="v" />Nineveh aw, Thebes khuapi sangin a ginazaw kisa
-    zenzen na hi hiam? Amah zong, a kimkotah tui in umcih a, amah a dal ding nei a, a kulh dingin a
-    kimkotah tui om hi. </para>
-  <para style="p"><verse number="9" style="v" />Nail Gun dung, gam khempeuh uk khin ahih manin
-    genzawh lohin a vang lian hi. Put mite leh Libya mite zong ama pawl ahi hi. </para>
-  <para style="p"><verse number="10" style="v" />Tua bang hinapi-in, Thebes khuamite kipuakhia-in
-    sal a suak uh hi. Konglak mun citengah a tate uh kisatlum hi. A miliante, sikkol kibulhin
-    kipuakhia a, amau a man a galte un amaute a hawm uh hi. </para>
-  <para style="p"><verse number="11" style="v" />Nineveh khuapi aw, nang zong zukham bangin khua na
-    phawk kei ding a, na galte kiang panin tai-in bukna na zong ding hi. </para>
-  <para style="p"><verse number="12" style="v" />Na kulh muan'huaite pen theigah min zun mahmah tawh
-    kibang ding a, a kung sing lecin a gah na kamsung a hong tu tawh kibang ding hi. </para>
-  <para style="p"><verse number="13" style="v" />Na galkapte, numei bang hi lel ding a, na galte a
-    lut zawhlohna dingin na gamsung kihu zolo ding hi. Na kulhkongpi zawlte mei in kangtum ding hi. </para>
-  <para style="p"><verse number="14" style="v" />Hong ki-umcihna na nan'na dingin tui tawi-in na
-    kulhte ciang beh in la, leiseek-a seek dingin buan cilin, leiseekna kuang a baihsa-in nei
-    talecin zong, </para>
-  <para style="p"><verse number="15" style="v" />tua bang na hih laitakin mei in hong kangtumin
-    galte in hong vatlum ding hi. Kauphe honpite in an a nektum bangin nang na beimang ding hi.
-    Kauphe bangin tampi tak na pha khin uh hi. </para>
-  <para style="p"><verse number="16" style="v" />Vana aksi sangin a tamzaw sumbawl mi na om khinta
-    uh hi. A kha zalin a leengmang kauphe honpi bangin tu-in amaute om nawnlo uh hi. </para>
-  <para style="p"><verse number="17" style="v" />Na uliante uh ahih leh, phalbi hun lai-in kulh
-    tungah a bawm miamua, ni a suah ciangin leengkhia mangin, a omna mel a kithei nawnlo kauphe hon
-    tawh kibang uh hi. </para>
-  <para style="p"><verse number="18" style="v" />Assiria kumpipa aw, na gamsung a ukte si ta a, na
-    uliante ihmu paisuak uh hi. Na mite, mualtung tengah kithehthang a, inn-ah a kaikhawm ding
-    kuamah om nawnlo hi. </para>
-  <para style="p"><verse number="19" style="v" />Na liammate, a dam theihna ding omlo a, na meimate
-    a dam theilo pawl ahi hi. Na thuakna thu a za mi khempeuh in lungdamin a khut uh beng ding uh
-    hi. Bang hang hiam cih leh na gitlohna a thuak khalo kuamah omlo hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />Zuauna leh mi thahna tawh a kidim khuapi, van top ding tampi a omna khuapi, tu-in a siacip ding hita hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Ngai un! Sakol kisatna a ging, leengpei kigawi, sakol koplen'na kheging, sakol leeng a tuan lauhlauh gingte!
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Sakol tung tuangte' galsimna, namsau phia zalzal! Teipi te zalzal! Misi luanghawmte simzawh ding hilo, kiciangin vum venvan! Tuate tung mah tawnin gal kido!
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Nineveh khuapi in a paktatna hangin gim thuak hi. Ngaihbaang mel pua-in bum siamna nei a, minamte zolin a khem hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Tua ahih manin Vanglian { Topa } in hih bangin ci hi: “Nineveh khuapi aw, gim kong pia ding hi. Na nik kong hawkkhiatsak ding a, minamte in na guak omna hong mu ding uh a, na zumhuaina teng hong mu ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Nang hong huatbawlin ninbulom tawh kong kidimsak ding a, mite in lamdangsakna tawh nang hong en ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Nang hong mu khempeuh nungkik gaihin, ‘Nineveh khuapi siacip ta hi; kua in khasiat ding ahi hiam?’ ci ding uh hi. Ahi zongin nang a hong hehnem nuam kuamah omlo ding hi,” ci hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Nineveh aw, Thebes khuapi sangin a ginazaw kisa zenzen na hi hiam? Amah zong, a kimkotah tui in umcih a, amah a dal ding nei a, a kulh dingin a kimkotah tui om hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Nail Gun dung, gam khempeuh uk khin ahih manin genzawh lohin a vang lian hi. Put mite leh Libya mite zong ama pawl ahi hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tua bang hinapi-in, Thebes khuamite kipuakhia-in sal a suak uh hi. Konglak mun citengah a tate uh kisatlum hi. A miliante, sikkol kibulhin kipuakhia a, amau a man a galte un amaute a hawm uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Nineveh khuapi aw, nang zong zukham bangin khua na phawk kei ding a, na galte kiang panin tai-in bukna na zong ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Na kulh muan'huaite pen theigah min zun mahmah tawh kibang ding a, a kung sing lecin a gah na kamsung a hong tu tawh kibang ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Na galkapte, numei bang hi lel ding a, na galte a lut zawhlohna dingin na gamsung kihu zolo ding hi. Na kulhkongpi zawlte mei in kangtum ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Hong ki-umcihna na nan'na dingin tui tawi-in na kulhte ciang beh in la, leiseek-a seek dingin buan cilin, leiseekna kuang a baihsa-in nei talecin zong,
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />tua bang na hih laitakin mei in hong kangtumin galte in hong vatlum ding hi. Kauphe honpite in an a nektum bangin nang na beimang ding hi. Kauphe bangin tampi tak na pha khin uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Vana aksi sangin a tamzaw sumbawl mi na om khinta uh hi. A kha zalin a leengmang kauphe honpi bangin tu-in amaute om nawnlo uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Na uliante uh ahih leh, phalbi hun lai-in kulh tungah a bawm miamua, ni a suah ciangin leengkhia mangin, a omna mel a kithei nawnlo kauphe hon tawh kibang uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Assiria kumpipa aw, na gamsung a ukte si ta a, na uliante ihmu paisuak uh hi. Na mite, mualtung tengah kithehthang a, inn-ah a kaikhawm ding kuamah om nawnlo hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Na liammate, a dam theihna ding omlo a, na meimate a dam theilo pawl ahi hi. Na thuakna thu a za mi khempeuh in lungdamin a khut uh beng ding uh hi. Bang hang hiam cih leh na gitlohna a thuak khalo kuamah omlo hi.
+  </para>
 </usx>

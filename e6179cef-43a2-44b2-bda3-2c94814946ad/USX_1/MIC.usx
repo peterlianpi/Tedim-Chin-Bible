@@ -3,294 +3,325 @@
   <book code="MIC" style="id">Micah</book>
   <para style="mt">Micah</para>
   <chapter number="1" style="c" />
-  <para style="p"><verse number="1" style="v" />Judah gam kumpi Jotham, Ahaz, leh Hezekiah-te' hun
-    laitakin, Moresheth khuami Mikah tungah { Topa } in thu a pia hi. Samaria leh Jerusalem tawh
-    kisai-in { Topa } in Mikah tungah hih thute a lak hi. </para>
-  <para style="p"><verse number="2" style="v" />No minam khempeuhte aw, hih thu za un: Leitungah a
-    teng mi khempeuhte aw, hih thu ngai un: Note' langkhatah { Topa } Pasian in teci pang a, a
-    vantung biakinn panin thu hong gen hi. </para>
-  <para style="p"><verse number="3" style="v" />Ama mun siangtho panin { Topa } hong pai a, amah in
-    leitung mualsang dawnte hong siksuk ding hi. </para>
-  <para style="p"><verse number="4" style="v" />Meikhuk sungah khuainun a kikoih bangin ama
-    khenuai-ah mualliante tuisuak ding a, mualtung panin tui a luangsuk bangin, guamsungah tua
-    mualte luangsuk ding hi. </para>
-  <para style="p"><verse number="5" style="v" />Pasian' tungah Israel-te' mawhna leh a khialhnate uh
-    hangin hih thute khempeuh a piang ahi hi. Israel-te' khialhna kua ngawh ding ihi hiam? Samaria
-    mite ngawh ding ihi hiam? Judah gamsungah milim bia-in a khial kua ahi hiam? Jerusalem mite ahi
-    hi. </para>
-  <para style="p"><verse number="6" style="v" />Tua ahih ciangin { Topa } in hih bangin ci hi:
-    Samaria khuapi, gamlaka ninkholna mun, leenggui suanna mun lel dingin ka bawl ding hi. A
-    khuasunga suangte zong guamsungah ka nilsuk ding a, a khuapi bulpite ka dawksak ding hi. </para>
-  <para style="p"><verse number="7" style="v" />A milim manphate khempeuh kisuzan gawp ding a, mei
-    tawh kisusia ding hi. Pasian' tungah a thumanlohna hangun mihingte in hih milimte nei uh ahih
-    manin, a thumanlohna uh tawh kizui-in tu-in thuakkik ding uh hi, ci hi. </para>
-  <para style="p"><verse number="8" style="v" />Tua ahih manin kei kapin ka thum ding a, ka dahna
-    thu ka lahna dingin khe guak leh guaktangin ka vak ding hi. Gam-ui bangin ka ham ding a,
-    vasa-kalaoh bangin ka tau ding hi. </para>
-  <para style="p"><verse number="9" style="v" />Bang hang hiam cih leh Samaria' meima kidamsak
-    theilo hi; Judah in zong tua bangmah a thuak ding ahi ta hi. Ka mite' ten'na Jerusalem khua
-    mahmah, tua siatna in hong ban ta hi. </para>
-  <para style="p"><verse number="10" style="v" />I guallelhna thu Gath khuamite theisak kei un la,
-    na kahna uh amaute musak kei un. Bethleafrah khuasungah na lungkhamna uh langsakin, leivui lakah
-    kikhuk un. </para>
-  <para style="p"><verse number="11" style="v" />Shafir khua-ah a teng mite aw, guaktangin maizumna
-    tawh salin pai un. Zanaan khua-a teng mite, a hingin paikhia ngeilo ding hi. Bethezel khuamite'
-    kahna leh thumna na zak uh ciangin, tua khuasungah belh ding munmuan'huai a omlohna na thei ding
-    uh hi. </para>
-  <para style="p"><verse number="12" style="v" />{ Topa } in Jerusalem kulhpi dongah gimna lianpi
-    tungsak ta ahih manin Maroth khuamite nakpi takin patau uh hi. </para>
-  <para style="p"><verse number="13" style="v" />Lakhish khua-ah a teng mite aw, na sakol galkapte
-    uh a leeng bulh pak un. Note in Israel-te' khialhnateng zuikha na hih manun, Jerusalem zong a
-    khialsakte na hi uh hi. </para>
-  <para style="p"><verse number="14" style="v" />Tu-in no Judah mite aw, Moresethgath khua, mangpha
-    khak un. Israel kumpite in Akzib khua panin huhna ngahlo ding hi. </para>
-  <para style="p"><verse number="15" style="v" />Mareshah khuamite aw, note a hong zong dingpa ka
-    hong paisak ding hi, { Topa } in ci hi. Adullam leihawm sungah Israel kumpipa bu ding hi. </para>
-  <para style="p"><verse number="16" style="v" />Judah mite aw, na it mahmah na tate uh, sal a suak
-    dingin hong kilaksak ding ahih manin, amaute' hangin na dahna limun na sam uh met un la, musane
-    bangin na lu uh tolsak un. </para>
+  <para style="p">
+    <verse number="1" style="v" />Judah gam kumpi Jotham, Ahaz, leh Hezekiah-te' hun laitakin, Moresheth khuami Mikah tungah { Topa } in thu a pia hi. Samaria leh Jerusalem tawh kisai-in { Topa } in Mikah tungah hih thute a lak hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />No minam khempeuhte aw, hih thu za un: Leitungah a teng mi khempeuhte aw, hih thu ngai un: Note' langkhatah { Topa } Pasian in teci pang a, a vantung biakinn panin thu hong gen hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Ama mun siangtho panin { Topa } hong pai a, amah in leitung mualsang dawnte hong siksuk ding hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Meikhuk sungah khuainun a kikoih bangin ama khenuai-ah mualliante tuisuak ding a, mualtung panin tui a luangsuk bangin, guamsungah tua mualte luangsuk ding hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Pasian' tungah Israel-te' mawhna leh a khialhnate uh hangin hih thute khempeuh a piang ahi hi. Israel-te' khialhna kua ngawh ding ihi hiam? Samaria mite ngawh ding ihi hiam? Judah gamsungah milim bia-in a khial kua ahi hiam? Jerusalem mite ahi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Tua ahih ciangin { Topa } in hih bangin ci hi: Samaria khuapi, gamlaka ninkholna mun, leenggui suanna mun lel dingin ka bawl ding hi. A khuasunga suangte zong guamsungah ka nilsuk ding a, a khuapi bulpite ka dawksak ding hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />A milim manphate khempeuh kisuzan gawp ding a, mei tawh kisusia ding hi. Pasian' tungah a thumanlohna hangun mihingte in hih milimte nei uh ahih manin, a thumanlohna uh tawh kizui-in tu-in thuakkik ding uh hi, ci hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Tua ahih manin kei kapin ka thum ding a, ka dahna thu ka lahna dingin khe guak leh guaktangin ka vak ding hi. Gam-ui bangin ka ham ding a, vasa-kalaoh bangin ka tau ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Bang hang hiam cih leh Samaria' meima kidamsak theilo hi; Judah in zong tua bangmah a thuak ding ahi ta hi. Ka mite' ten'na Jerusalem khua mahmah, tua siatna in hong ban ta hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />I guallelhna thu Gath khuamite theisak kei un la, na kahna uh amaute musak kei un. Bethleafrah khuasungah na lungkhamna uh langsakin, leivui lakah kikhuk un.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Shafir khua-ah a teng mite aw, guaktangin maizumna tawh salin pai un. Zanaan khua-a teng mite, a hingin paikhia ngeilo ding hi. Bethezel khuamite' kahna leh thumna na zak uh ciangin, tua khuasungah belh ding munmuan'huai a omlohna na thei ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />{ Topa } in Jerusalem kulhpi dongah gimna lianpi tungsak ta ahih manin Maroth khuamite nakpi takin patau uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Lakhish khua-ah a teng mite aw, na sakol galkapte uh a leeng bulh pak un. Note in Israel-te' khialhnateng zuikha na hih manun, Jerusalem zong a khialsakte na hi uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Tu-in no Judah mite aw, Moresethgath khua, mangpha khak un. Israel kumpite in Akzib khua panin huhna ngahlo ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Mareshah khuamite aw, note a hong zong dingpa ka hong paisak ding hi, { Topa } in ci hi. Adullam leihawm sungah Israel kumpipa bu ding hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Judah mite aw, na it mahmah na tate uh, sal a suak dingin hong kilaksak ding ahih manin, amaute' hangin na dahna limun na sam uh met un la, musane bangin na lu uh tolsak un.
+  </para>
   <chapter number="2" style="c" />
-  <para style="p"><verse number="1" style="v" />A lupna tungah lumin gitlohna a geelgeelte in gimna
-    ngah ta hen. Zingsang khua a vak ciangin, hihtheih ding hun a ngah phetun, a ngaihsutsa uh
-    gitlohna a semkhia uh hi. </para>
-  <para style="p"><verse number="2" style="v" />Lo deih le uh, mi-a' sut uh a, inn deih le uh, mi-a'
-    mah sut uh hi. Mite bawlsia-in, a inn leh a neihsa uh a sut uh hi. </para>
-  <para style="p"><verse number="3" style="v" />Tua ahih ciangin { Topa } in hih bangin ci hi: Note'
-    tungah gimna tun'sak ding ka ngaihsun a, tua gimna tawh na kipelh thei kei ding uh hi. Note-a'
-    dingin hun hoihlo hi ding ahih manin kiphatsakna tawh na gamta nawn kei ding uh hi. </para>
-  <para style="p"><verse number="4" style="v" />Tua bang hun hong tun' ciangin mite in note'
-    gimngahna thugentehna-in zangin, dah la phuakin sa ding uh a, “Eite i sia khin taktak hi. { Topa
-    } in i gam hong laksak a, ei a hong mante tungah hong piaksak hi,” ci ding uh hi. </para>
-  <para style="p"><verse number="5" style="v" />Tua ahih ciangin { Topa' } mite lakah leitang a
-    kihawm ciangin, kuamah in leitang na ngah kei ding uh hi. </para>
-  <para style="p"><verse number="6" style="v" />Amaute in kei kiangah, “Tua bang thu hong gen kei
-    in. Tua bang thu gen dingin kilawmlo hi. Tua bangin Pasian in hong minsiasak lo ding hi,” hong
-    ci uh hi. </para>
-  <para style="p"><verse number="7" style="v" />Israel mite aw, “{ Topa } a lung tom ta a, hihte
-    khempeuh, ama hong bawl mah ahi hiam?” na cih ding uh kilawmlo hi. Ka thugenna kammalte, a
-    thuman mite-a' dingin a hoih hilo ahi hiam? </para>
-  <para style="p"><verse number="8" style="v" />Ahi zongin { Topa } in hih bangin hong ci hi: Note
-    pen ka mite' gal na suak uh a, galsung panin a hong ciahkik, lungmuanga a inn-ah a om mite'
-    puantualpi ngahte na sut uh hi. </para>
-  <para style="p"><verse number="9" style="v" />Ka mihingte' numeite, amau' inn nuam panin na
-    hawlkhia uh a, a tate un a ngah ding keima thuphate na taansak paisuak uh hi. </para>
-  <para style="p"><verse number="10" style="v" />Tu-in ding un la paikhia un. Na khialhna hangun a
-    lauhuai suksiatna tuak ding na hih manun, hih lai mun pen note-a' dingin mun nuam hilo hi. </para>
-  <para style="p"><verse number="11" style="v" />Zuau genin khemna tawh thu gen kawikawi a, “Note-a'
-    dingin leenggahzu leh khamtheihzu tampi tak hong om ding hi,” a hong ci kamsangte pawl, note'
-    deih kamsangte ahi hi. </para>
-  <para style="p"><verse number="12" style="v" />Ahi zongin no Israel mi a omlaite khempeuh pel
-    hetloin kong kaikhawm kik ding hi. Tuubuk sunga tuu khum bangin, gankhawk sungah tuuhon kaihkhop
-    bangin note kong kaikhawm kik ding a, na gamsung uh, mi tampite' husa tawh kidimkik ding hi, ci
-    hi. </para>
-  <para style="p"><verse number="13" style="v" />Pasian in note-a' ding lampi hong hon'sakin hong
-    paikhiatpih ding hi. Salsuahna khuapikulh panin paikhia-in na suakta ding uh hi. Kumpi ahi {
-    Topa } mahmah in note hong makai ding hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />A lupna tungah lumin gitlohna a geelgeelte in gimna ngah ta hen. Zingsang khua a vak ciangin, hihtheih ding hun a ngah phetun, a ngaihsutsa uh gitlohna a semkhia uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Lo deih le uh, mi-a' sut uh a, inn deih le uh, mi-a' mah sut uh hi. Mite bawlsia-in, a inn leh a neihsa uh a sut uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tua ahih ciangin { Topa } in hih bangin ci hi: Note' tungah gimna tun'sak ding ka ngaihsun a, tua gimna tawh na kipelh thei kei ding uh hi. Note-a' dingin hun hoihlo hi ding ahih manin kiphatsakna tawh na gamta nawn kei ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Tua bang hun hong tun' ciangin mite in note' gimngahna thugentehna-in zangin, dah la phuakin sa ding uh a, “Eite i sia khin taktak hi. { Topa } in i gam hong laksak a, ei a hong mante tungah hong piaksak hi,” ci ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Tua ahih ciangin { Topa' } mite lakah leitang a kihawm ciangin, kuamah in leitang na ngah kei ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Amaute in kei kiangah, “Tua bang thu hong gen kei in. Tua bang thu gen dingin kilawmlo hi. Tua bangin Pasian in hong minsiasak lo ding hi,” hong ci uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Israel mite aw, “{ Topa } a lung tom ta a, hihte khempeuh, ama hong bawl mah ahi hiam?” na cih ding uh kilawmlo hi. Ka thugenna kammalte, a thuman mite-a' dingin a hoih hilo ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ahi zongin { Topa } in hih bangin hong ci hi: Note pen ka mite' gal na suak uh a, galsung panin a hong ciahkik, lungmuanga a inn-ah a om mite' puantualpi ngahte na sut uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ka mihingte' numeite, amau' inn nuam panin na hawlkhia uh a, a tate un a ngah ding keima thuphate na taansak paisuak uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tu-in ding un la paikhia un. Na khialhna hangun a lauhuai suksiatna tuak ding na hih manun, hih lai mun pen note-a' dingin mun nuam hilo hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Zuau genin khemna tawh thu gen kawikawi a, “Note-a' dingin leenggahzu leh khamtheihzu tampi tak hong om ding hi,” a hong ci kamsangte pawl, note' deih kamsangte ahi hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Ahi zongin no Israel mi a omlaite khempeuh pel hetloin kong kaikhawm kik ding hi. Tuubuk sunga tuu khum bangin, gankhawk sungah tuuhon kaihkhop bangin note kong kaikhawm kik ding a, na gamsung uh, mi tampite' husa tawh kidimkik ding hi, ci hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Pasian in note-a' ding lampi hong hon'sakin hong paikhiatpih ding hi. Salsuahna khuapikulh panin paikhia-in na suakta ding uh hi. Kumpi ahi { Topa } mahmah in note hong makai ding hi.
+  </para>
   <chapter number="3" style="c" />
-  <para style="p"><verse number="1" style="v" />Israel a uk makaite aw, hih thu ngai un: Note in
-    thutang thuman a deih dingin a kilawm hinapi-in, </para>
-  <para style="p"><verse number="2" style="v" />thuhoih deihloin thusia na deih zawsop uh hi. Note
-    in mite' vun na hing hawkkhiat uh a, a guh uh na hing kheuh uh hi. </para>
-  <para style="p"><verse number="3" style="v" />Ka mite' sa na netum uh hi. A vun uh hawkin, a guh
-    uh na satkham uh a, beel-a meh huan ding bangin na satnen gawp uh hi. </para>
-  <para style="p"><verse number="4" style="v" />{ Topa' } tungah huhna ngenin na kiko hun uh hong
-    tung ding a, ahi zongin amah in note hong dawnglo ding hi. Note gamtatsia na hih manun, na
-    ngetna uh hong ngailo ding hi. </para>
-  <para style="p"><verse number="5" style="v" />Sum a piazo mite kiangah thunuam gen a, a pialo mite
-    kiangah gal tuah ding a gen kamsangte in mite lam a khialsak uh hi. { Topa } in tua bang
-    kamsangte kiangah, </para>
-  <para style="p"><verse number="6" style="v" />“Keima mite lam khialsak na hih manun mailam thu
-    gentheihna maang na mu nawn kei ding uh a, mailam thu peuhmah na gen thei nawn kei ding uh hi.
-    Kamsangte aw, note' hun beita ding a, ni in hong tumsan ta ding hi,” ci hi. </para>
-  <para style="p"><verse number="7" style="v" />Hih bang thugen kamsangte, a thugen kholhna uh
-    Pasian in a tun'sakloh manin maizumin mindai ding uh hi. </para>
-  <para style="p"><verse number="8" style="v" />Ahi zongin kei ahih leh, Israel mite tungah a mawhna
-    uh a genkhia dingin { Topa' } kha leh a vang tawh ka kidim a, thutang gen ngamna ding lungsim ka
-    nei hi. </para>
-  <para style="p"><verse number="9" style="v" />Ngai un! Israel a uk makaite aw. Note in thutang
-    deihloin, thuman kimlai a khialin na hei uh hi. </para>
-  <para style="p"><verse number="10" style="v" />Mi thahna leh thumanlohna tawh, Pasian' khuapi,
-    Jerusalem na lam uh hi. </para>
-  <para style="p"><verse number="11" style="v" />Khuapi ukte in sumgolh ngahtheihna ding ngaihsutna
-    bek tawh thu khen a, siampite in sum ngahtheihna ding ngaihsutna bek tawh thu gen a, kamsangte
-    in zong sum ngahtheihna ding ngaihsutna bek mah tawh mailam thu genkhol uh hi. Tua bang
-    hinapi-in amaute in { Topa}, muan'in nei uh a, “{ Topa } in eite hong ompih a, eite tungah
-    siatna hong tunglo ding hi,” a ci uh hi. </para>
-  <para style="p"><verse number="12" style="v" />Tua ahih manin note' hangin lo khawh bangin Zion
-    kikho-in, Jerusalem, nin kipaihna phualpi hong suak ding a, biakinn omna mual, gamlak a suak
-    ding hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />Israel a uk makaite aw, hih thu ngai un: Note in thutang thuman a deih dingin a kilawm hinapi-in,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />thuhoih deihloin thusia na deih zawsop uh hi. Note in mite' vun na hing hawkkhiat uh a, a guh uh na hing kheuh uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Ka mite' sa na netum uh hi. A vun uh hawkin, a guh uh na satkham uh a, beel-a meh huan ding bangin na satnen gawp uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />{ Topa' } tungah huhna ngenin na kiko hun uh hong tung ding a, ahi zongin amah in note hong dawnglo ding hi. Note gamtatsia na hih manun, na ngetna uh hong ngailo ding hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Sum a piazo mite kiangah thunuam gen a, a pialo mite kiangah gal tuah ding a gen kamsangte in mite lam a khialsak uh hi. { Topa } in tua bang kamsangte kiangah,
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />“Keima mite lam khialsak na hih manun mailam thu gentheihna maang na mu nawn kei ding uh a, mailam thu peuhmah na gen thei nawn kei ding uh hi. Kamsangte aw, note' hun beita ding a, ni in hong tumsan ta ding hi,” ci hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Hih bang thugen kamsangte, a thugen kholhna uh Pasian in a tun'sakloh manin maizumin mindai ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ahi zongin kei ahih leh, Israel mite tungah a mawhna uh a genkhia dingin { Topa' } kha leh a vang tawh ka kidim a, thutang gen ngamna ding lungsim ka nei hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Ngai un! Israel a uk makaite aw. Note in thutang deihloin, thuman kimlai a khialin na hei uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Mi thahna leh thumanlohna tawh, Pasian' khuapi, Jerusalem na lam uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Khuapi ukte in sumgolh ngahtheihna ding ngaihsutna bek tawh thu khen a, siampite in sum ngahtheihna ding ngaihsutna bek tawh thu gen a, kamsangte in zong sum ngahtheihna ding ngaihsutna bek mah tawh mailam thu genkhol uh hi. Tua bang hinapi-in amaute in { Topa}, muan'in nei uh a, “{ Topa } in eite hong ompih a, eite tungah siatna hong tunglo ding hi,” a ci uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Tua ahih manin note' hangin lo khawh bangin Zion kikho-in, Jerusalem, nin kipaihna phualpi hong suak ding a, biakinn omna mual, gamlak a suak ding hi.
+  </para>
   <chapter number="4" style="c" />
-  <para style="p"><verse number="1" style="v" />Mailam hunah { Topa' } biakinn a omna mual, a
-    sangpen mual hong suak ding a, minam tampi in hong zuan ding uh hi. </para>
-  <para style="p"><verse number="2" style="v" />Minam tampite hong pai-in, “Israel mite' Pasian'
-    biakinn, { Topa' } mualah va paito ni. Tua lai-ah ama deihna hong hilh ding a, ama deihna bangin
-    i gamta ding hi,” ci ding uh hi. Bang hang hiam cih leh Zion panin thuhilhna hong gingkhia a,
-    Jerusalem panin { Topa' } thu hong paikhia hi. </para>
-  <para style="p"><verse number="3" style="v" />Amah in minam tampite' thu khensak ding a, Israel
-    gam panin a gamla pekah a om, minam vangliante' thu khensak ding hi. Amaute in a namsaute uh
-    lokhawhna tu-in seek ding uh a, a teipite uh singhiang heuhna temkawi-in seek ding uh hi. Minam
-    khatlekhat kido nawnlo ding uh a, galkidona theikha nawnlo ding uh hi. </para>
-  <para style="p"><verse number="4" style="v" />A kuamah peuh lungnuamin a leenggui phung leh a
-    theikung nuai-ah tu hithiat ding a, kuamah in patausak nawnlo ding hi. Bang hang hiam cih leh
-    Vanglian { Topa } mahmah in hih thu hong gen khinta hi. </para>
-  <para style="p"><verse number="5" style="v" />Bang hang hiam cih leh midangte in amau' pasian ciat
-    bia-in a thu mang ding uh a, ahi zongin eite in ahih leh eima { Topa } Pasian mah a tawntungin
-    bia-in ama thu i mang ding hi. </para>
-  <para style="p"><verse number="6" style="v" />{ Topa } in hih bangin ci hi: Keimah in gim ka piak
-    ahi, sala om gimna a thuak mite, ka kaihkhop kik hun hong tung ding hi. </para>
-  <para style="p"><verse number="7" style="v" />Amaute, a cimawhin gamlapi-ah om uh a, ahi zongin
-    keimah in amaute pansa kikin, minam vanglian khatin ka bawlkik ding hi. Tua huna kipan a
-    tawntungin Zion mual panin amaute ka uk paisuak ding hi. </para>
-  <para style="p"><verse number="8" style="v" />Pasian in a mite a etna Jerusalem khuapi aw, nidanga
-    na vangliatna na ngahkik ding a, kumpi khuapi na suakkik ding hi. </para>
-  <para style="p"><verse number="9" style="v" />Bang hangin tu-in nakpi takin kap a, numei nausuak
-    ding bangin na sa na hi hiam? Kumpi neilo a, na thulamlakte si ahi hiam? </para>
-  <para style="p"><verse number="10" style="v" />Jerusalem khuamite aw, numei nausuak ding bangin na
-    tha uh san un. Tu-in kumpi khuapi nusia-in, gamsung khua-ah a teng ding na hita uh a, Babylon
-    khuapi a zuan ta ding na hi uh hi. Ahi zongin tua lai panin note hong kihonkhia-in, na galte uh
-    khutsung panin { Topa } in hong khahkhia ding hi. </para>
-  <para style="p"><verse number="11" style="v" />Note a hong sim dingin minam tampi hong kikhawm uh
-    hi. Amaute in, “Jerusalem kisusia ding a, i mit in hih khuapi a siasa-in mu ding hi,” a ci uh
-    hi. </para>
-  <para style="p"><verse number="12" style="v" />Ahi zongin hih minamte in { Topa' } lungsim tawng
-    theilo uh a, ancilna phualah anphalte kaihkhop bangin amaute kaikhawmin, a cilgawp ding ahihlam
-    phawklo uh hi. </para>
-  <para style="p"><verse number="13" style="v" />{ Topa } in hih bangin ci hi: Jerusalem khuamite
-    aw, kipan un la, na galte uh sugawp un. Sumngo khe leh sik ki a nei bawngtal bangin note kong
-    thahatsak ding hi. Minam tampite na sugawpzo ding uh a, amau' neihsa teng keima-a' na suaksak
-    ding uh a, amau' hauhna teng leitung buppi' { Topa' } neihsa na suaksak ding uh hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />Mailam hunah { Topa' } biakinn a omna mual, a sangpen mual hong suak ding a, minam tampi in hong zuan ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Minam tampite hong pai-in, “Israel mite' Pasian' biakinn, { Topa' } mualah va paito ni. Tua lai-ah ama deihna hong hilh ding a, ama deihna bangin i gamta ding hi,” ci ding uh hi. Bang hang hiam cih leh Zion panin thuhilhna hong gingkhia a, Jerusalem panin { Topa' } thu hong paikhia hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Amah in minam tampite' thu khensak ding a, Israel gam panin a gamla pekah a om, minam vangliante' thu khensak ding hi. Amaute in a namsaute uh lokhawhna tu-in seek ding uh a, a teipite uh singhiang heuhna temkawi-in seek ding uh hi. Minam khatlekhat kido nawnlo ding uh a, galkidona theikha nawnlo ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />A kuamah peuh lungnuamin a leenggui phung leh a theikung nuai-ah tu hithiat ding a, kuamah in patausak nawnlo ding hi. Bang hang hiam cih leh Vanglian { Topa } mahmah in hih thu hong gen khinta hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Bang hang hiam cih leh midangte in amau' pasian ciat bia-in a thu mang ding uh a, ahi zongin eite in ahih leh eima { Topa } Pasian mah a tawntungin bia-in ama thu i mang ding hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />{ Topa } in hih bangin ci hi: Keimah in gim ka piak ahi, sala om gimna a thuak mite, ka kaihkhop kik hun hong tung ding hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Amaute, a cimawhin gamlapi-ah om uh a, ahi zongin keimah in amaute pansa kikin, minam vanglian khatin ka bawlkik ding hi. Tua huna kipan a tawntungin Zion mual panin amaute ka uk paisuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Pasian in a mite a etna Jerusalem khuapi aw, nidanga na vangliatna na ngahkik ding a, kumpi khuapi na suakkik ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Bang hangin tu-in nakpi takin kap a, numei nausuak ding bangin na sa na hi hiam? Kumpi neilo a, na thulamlakte si ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Jerusalem khuamite aw, numei nausuak ding bangin na tha uh san un. Tu-in kumpi khuapi nusia-in, gamsung khua-ah a teng ding na hita uh a, Babylon khuapi a zuan ta ding na hi uh hi. Ahi zongin tua lai panin note hong kihonkhia-in, na galte uh khutsung panin { Topa } in hong khahkhia ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Note a hong sim dingin minam tampi hong kikhawm uh hi. Amaute in, “Jerusalem kisusia ding a, i mit in hih khuapi a siasa-in mu ding hi,” a ci uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Ahi zongin hih minamte in { Topa' } lungsim tawng theilo uh a, ancilna phualah anphalte kaihkhop bangin amaute kaikhawmin, a cilgawp ding ahihlam phawklo uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />{ Topa } in hih bangin ci hi: Jerusalem khuamite aw, kipan un la, na galte uh sugawp un. Sumngo khe leh sik ki a nei bawngtal bangin note kong thahatsak ding hi. Minam tampite na sugawpzo ding uh a, amau' neihsa teng keima-a' na suaksak ding uh a, amau' hauhna teng leitung buppi' { Topa' } neihsa na suaksak ding uh hi.
+  </para>
   <chapter number="5" style="c" />
-  <para style="p"><verse number="1" style="v" />Jerusalem khuamite aw, na kulh sung uhah lut un.
-    Eite hong kiumcih a, Israel makaipa a hong sim uh ahi hi. </para>
-  <para style="p"><verse number="2" style="v" />Bethlehem Efrathah khua aw, nang pen Judah gamah
-    khua neupen khat na hi a, ahi zongin nang sung panin Israel-te a uk ding khat ka piangsak ding
-    hi. Ama gui pen tangtawng pek tawh kizom hi. </para>
-  <para style="p"><verse number="3" style="v" />Tua ahih ciangin, numei naupainu, a nau a suah khit
-    mateng, amau' galte' khutsungah { Topa } in a mite a pia phot hi. Ama hong khan' ciangin sala a
-    om a gammite a mipihte uh tawh hong kigawmkik ding hi. </para>
-  <para style="p"><verse number="4" style="v" />Amah in { Topa' } thahatna tawh a mite uk ding a, {
-    Topa } ama Pasian' vangliatna tawh a uk ding hi. Leitung mi khempeuh in ama liatna phawk ding uh
-    ahih manin ama mite lungmuang takin om thei ding uh hi. </para>
-  <para style="p"><verse number="5" style="v" />Amah in lungnopna hong omsak ding hi. Assiria mite
-    in i gam hong simin i galdalna teng hong suk ciangin, amaute a do dingin i makai hatpen teng i
-    sawl ding hi. </para>
-  <para style="p"><verse number="6" style="v" />A namsau uh tawh Nimrod' gam ahi, Assiria gam zo
-    ding uh a, Assiria mite in i gam hong sim ciangin amaute' kiang panin eite hong honkhia ding uh
-    hi. </para>
-  <para style="p"><verse number="7" style="v" />Tua ciangin a omlai Israel mite pen { Topa } in
-    minam tampite-a' dingin a piak, lopate a nosak zing daitui, lopate a khangsak guahtui, a bang
-    ding uh hi. Amaute in mihingte muan'in neiloin Pasian bek a muang ding uh hi. </para>
-  <para style="p"><verse number="8" style="v" />A omlai Israel mite pen minam dangte' lakah,
-    gamlakah sa a beng, tuute a tuah ciangin manin balnen gawp a, a kam sung pan a honkhiazo a omlo,
-    humpinelkai a bang ding uh hi. </para>
-  <para style="p"><verse number="9" style="v" />Israel-te in a gal khempeuh uh zogawpin a susiamang
-    ding uh hi. </para>
-  <para style="p"><verse number="10" style="v" />{ Topa } in hih bangin ci hi: Tua hun ciangin na
-    sakolte uh hong paihkhiat sakin, na leengte uh ka susia ding hi. </para>
-  <para style="p"><verse number="11" style="v" />Na gamsung uha om khuapite susia-in, na galpan'na
-    munte uh ka phelkhia ding hi. </para>
-  <para style="p"><verse number="12" style="v" />Na mitphial siamte uh susia gawpin, ai a san thei
-    mi kong omsak nawn kei ding hi. </para>
-  <para style="p"><verse number="13" style="v" />Note' biak milimte leh na biakna songte uh ka susia
-    gawp ding a, note' bawlsa nate na bia nawn kei ding uh hi. </para>
-  <para style="p"><verse number="14" style="v" />Na gamsung uha a om Asherah nusian milimte hong
-    bawhkhiat sakin, na khuapite uh ka susia ding hi. </para>
-  <para style="p"><verse number="15" style="v" />Keima thu a hong manglo minamte tungah hehna tawh
-    phu ka la ding hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />Jerusalem khuamite aw, na kulh sung uhah lut un. Eite hong kiumcih a, Israel makaipa a hong sim uh ahi hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Bethlehem Efrathah khua aw, nang pen Judah gamah khua neupen khat na hi a, ahi zongin nang sung panin Israel-te a uk ding khat ka piangsak ding hi. Ama gui pen tangtawng pek tawh kizom hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />Tua ahih ciangin, numei naupainu, a nau a suah khit mateng, amau' galte' khutsungah { Topa } in a mite a pia phot hi. Ama hong khan' ciangin sala a om a gammite a mipihte uh tawh hong kigawmkik ding hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Amah in { Topa' } thahatna tawh a mite uk ding a, { Topa } ama Pasian' vangliatna tawh a uk ding hi. Leitung mi khempeuh in ama liatna phawk ding uh ahih manin ama mite lungmuang takin om thei ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Amah in lungnopna hong omsak ding hi. Assiria mite in i gam hong simin i galdalna teng hong suk ciangin, amaute a do dingin i makai hatpen teng i sawl ding hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />A namsau uh tawh Nimrod' gam ahi, Assiria gam zo ding uh a, Assiria mite in i gam hong sim ciangin amaute' kiang panin eite hong honkhia ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Tua ciangin a omlai Israel mite pen { Topa } in minam tampite-a' dingin a piak, lopate a nosak zing daitui, lopate a khangsak guahtui, a bang ding uh hi. Amaute in mihingte muan'in neiloin Pasian bek a muang ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />A omlai Israel mite pen minam dangte' lakah, gamlakah sa a beng, tuute a tuah ciangin manin balnen gawp a, a kam sung pan a honkhiazo a omlo, humpinelkai a bang ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Israel-te in a gal khempeuh uh zogawpin a susiamang ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />{ Topa } in hih bangin ci hi: Tua hun ciangin na sakolte uh hong paihkhiat sakin, na leengte uh ka susia ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Na gamsung uha om khuapite susia-in, na galpan'na munte uh ka phelkhia ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Na mitphial siamte uh susia gawpin, ai a san thei mi kong omsak nawn kei ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Note' biak milimte leh na biakna songte uh ka susia gawp ding a, note' bawlsa nate na bia nawn kei ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Na gamsung uha a om Asherah nusian milimte hong bawhkhiat sakin, na khuapite uh ka susia ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Keima thu a hong manglo minamte tungah hehna tawh phu ka la ding hi.
+  </para>
   <chapter number="6" style="c" />
-  <para style="p"><verse number="1" style="v" />{ Topa } leh Israel a kitotna ngai un. { Topa } aw,
-    kipan in la, mual liante leh mual neute mai-ah na thu sung in. </para>
-  <para style="p"><verse number="2" style="v" />No mual liante leh a kip tawntung leitung bulpite
-    aw, { Topa' } thu ngai un. { Topa } in ama mite tawh thu nei a, Israel tawh thu kisel ding hi. </para>
-  <para style="p"><verse number="3" style="v" />{ Topa } in hih bangin thu sung a, “Ka mite aw, note
-    bang hong cihkha ka hi hiam? Tu-in hong dawng dih un! </para>
-  <para style="p"><verse number="4" style="v" />Bang hang hiam cih leh Egypt gam panin note kong
-    paikhiatpih a, salsuahna panin ka hong honkhia hi. Note a hong makai dingin Moses, Aaron, leh
-    Miriam ka hong sawl hi. </para>
-  <para style="p"><verse number="5" style="v" />Ka mite aw, Moab Kumpi Balak in note sukna ding a
-    vaihawmna teng, Beor' tapa Balaam in ama nget bangin a sepna teng limtakin phawkkik un. Note
-    hotkhiatna dingin ka sepna thu na theihna dingun Shittim leh Gilgal kikala thupiangte ngaihsun
-    kik un,” a ci hi. </para>
-  <para style="p"><verse number="6" style="v" />Vantung Pasian, { Topa } biakna dingin bang va keng
-    ding ka hi hiam? Amah biakna-in hal dingin bawngno thaute va paipih ding ka hi hiam? </para>
-  <para style="p"><verse number="7" style="v" />{ Topa } kiangah tuu a tul tulin va puakin, guntui
-    bangin sathau va luangsak leng, tuate tawh amah lungdam ding ahi hiam? Ka mawhnate maisakna
-    dingin ka ta upa pen tawh va bia ding ka hi hiam? </para>
-  <para style="p"><verse number="8" style="v" />Mun khempeuhah a om no mihingte aw, { Topa } in a
-    hoih nate hong gen khinzo hi. { Topa } in note tung panin hong kalh thu in: Thuman thutang sem
-    ding a, itna kip nei tawntungin, kiniamkhiatna tawh Pasian' thu man' ding ahi hi. </para>
-  <para style="p"><verse number="9" style="v" />{ Topa, } zahtak ding kilawm hi. Khuasungah amah
-    hong kiko a, “Ngai un, khuapi sungah a hong kikhawm mite aw. </para>
-  <para style="p"><verse number="10" style="v" />Thumanlopi-in a ngah uh, migilote' innsunga van
-    omte, keima deihloh tawitehna manlo zatnate, mangngilh thei ding ka hi hiam? </para>
-  <para style="p"><verse number="11" style="v" />Tawikhaina manlo leh tawisuang manlo a zangte,
-    khahkhong ding ka hi hiam? </para>
-  <para style="p"><verse number="12" style="v" />Na mihaute uh mizawngte tungah tatsia mahmahin, na
-    khuasung mi khempeuh uh zuaugen vive ahi uh a, a kam un khemna thu bekbek gen hi. </para>
-  <para style="p"><verse number="13" style="v" />Tua ahih ciangin na mawhna hangun note suksiat ding
-    ka kipan ta hi. </para>
-  <para style="p"><verse number="14" style="v" />An na nek hangun na kham kei ding uh a, na gil uh
-    kiallai veve ding hi. Na na koihcing uh hangin phatuamlo ding hi. Galte in tua na koihcing uh
-    nate susia veve ding hi. </para>
-  <para style="p"><verse number="15" style="v" />Khai na tuh uh hangin an na la kei ding uh hi. Oliv
-    gah na cil uh hangin a thau na zangkha kei ding uh a, leenggah na cil uh hangin a zu na dawnkha
-    kei ding uh hi. </para>
-  <para style="p"><verse number="16" style="v" />Bang hang hiam cih leh Kumpi Omri' gamtatna zui-in,
-    ama tapa Kumpi Ahab' sep khempeuh na sem uh a, amau' gamtat khempeuh na zui uh hi. Tua ahih
-    manin note kong susia ding hi. Minam dangte in note hong nuihsanin, amaute' simmnawhna na thuak
-    ding uh hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />{ Topa } leh Israel a kitotna ngai un. { Topa } aw, kipan in la, mual liante leh mual neute mai-ah na thu sung in.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />No mual liante leh a kip tawntung leitung bulpite aw, { Topa' } thu ngai un. { Topa } in ama mite tawh thu nei a, Israel tawh thu kisel ding hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />{ Topa } in hih bangin thu sung a, “Ka mite aw, note bang hong cihkha ka hi hiam? Tu-in hong dawng dih un!
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Bang hang hiam cih leh Egypt gam panin note kong paikhiatpih a, salsuahna panin ka hong honkhia hi. Note a hong makai dingin Moses, Aaron, leh Miriam ka hong sawl hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Ka mite aw, Moab Kumpi Balak in note sukna ding a vaihawmna teng, Beor' tapa Balaam in ama nget bangin a sepna teng limtakin phawkkik un. Note hotkhiatna dingin ka sepna thu na theihna dingun Shittim leh Gilgal kikala thupiangte ngaihsun kik un,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Vantung Pasian, { Topa } biakna dingin bang va keng ding ka hi hiam? Amah biakna-in hal dingin bawngno thaute va paipih ding ka hi hiam?
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />{ Topa } kiangah tuu a tul tulin va puakin, guntui bangin sathau va luangsak leng, tuate tawh amah lungdam ding ahi hiam? Ka mawhnate maisakna dingin ka ta upa pen tawh va bia ding ka hi hiam?
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Mun khempeuhah a om no mihingte aw, { Topa } in a hoih nate hong gen khinzo hi. { Topa } in note tung panin hong kalh thu in: Thuman thutang sem ding a, itna kip nei tawntungin, kiniamkhiatna tawh Pasian' thu man' ding ahi hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />{ Topa, } zahtak ding kilawm hi. Khuasungah amah hong kiko a, “Ngai un, khuapi sungah a hong kikhawm mite aw.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Thumanlopi-in a ngah uh, migilote' innsunga van omte, keima deihloh tawitehna manlo zatnate, mangngilh thei ding ka hi hiam?
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Tawikhaina manlo leh tawisuang manlo a zangte, khahkhong ding ka hi hiam?
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Na mihaute uh mizawngte tungah tatsia mahmahin, na khuasung mi khempeuh uh zuaugen vive ahi uh a, a kam un khemna thu bekbek gen hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Tua ahih ciangin na mawhna hangun note suksiat ding ka kipan ta hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />An na nek hangun na kham kei ding uh a, na gil uh kiallai veve ding hi. Na na koihcing uh hangin phatuamlo ding hi. Galte in tua na koihcing uh nate susia veve ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Khai na tuh uh hangin an na la kei ding uh hi. Oliv gah na cil uh hangin a thau na zangkha kei ding uh a, leenggah na cil uh hangin a zu na dawnkha kei ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Bang hang hiam cih leh Kumpi Omri' gamtatna zui-in, ama tapa Kumpi Ahab' sep khempeuh na sem uh a, amau' gamtat khempeuh na zui uh hi. Tua ahih manin note kong susia ding hi. Minam dangte in note hong nuihsanin, amaute' simmnawhna na thuak ding uh hi.
+  </para>
   <chapter number="7" style="c" />
-  <para style="p"><verse number="1" style="v" />Kei a kamsia hi'ng! Singgah leh leenggah a heu hun
-    laitakin a gilkial mipa tawh ka kibang hi. Leenggah nekding om nawnlo a, ka lunggulhgulh theigah
-    beita hi. </para>
-  <para style="p"><verse number="2" style="v" />Leitungah mihoihteng bei khinta a, Pasian' tungah a
-    thuman mi kuamah om nawnlo hi. Mihoihteng si khinta hi. Mi khempeuh in mi thah ding bek ngaihsun
-    uh a, a kuamah peuh in a mipihte thah ding bek hanciam uh hi. </para>
-  <para style="p"><verse number="3" style="v" />A sia lama gamtat ding siam mahmah uh a, uliante leh
-    thukhente in sumgolh ngenin, miliante in amau' deihteng pulak uh a, kipawlin vaihawm khawm uh
-    hi. </para>
-  <para style="p"><verse number="4" style="v" />Amaute lakah a hoihpenin a kineite, lingkung bang hi
-    a, a thutang pena kineite, ling hiam bang hi lel uh hi. Pasian in amaute a hilhkholh bangin, gim
-    a piak ding hun hong tungta a, a lungman' hun ding uh hong hita hi. </para>
-  <para style="p"><verse number="5" style="v" />Na vengte' thu upin nei kei in la, na lawmte zong
-    muan'in nei kei in. Na ang-a lum na zi kiang nangawnah thu na gending kidawm in. </para>
-  <para style="p"><verse number="6" style="v" />Tuhun ciangin tapate in a pate haibawl a, tanute in
-    a nute langpan' uh a, mote in a teeknu uh langneih uh hi. Mi khat-a' dingin ama innkuanpihte mah
-    a gal a suak mawk hi. </para>
-  <para style="p"><verse number="7" style="v" />Ahi zongin ke'n ahih leh { Topa } mah ka en ding a,
-    kei hong suaktasak Pasian ka ngak ding hi. Ka Pasian in ka thu hong ngai ding hi. </para>
-  <para style="p"><verse number="8" style="v" />Ka galte aw, kei tungah lungdam kei un. Ka puk
-    hangin ka thokik veve ding hi. Khuamial sungah ka om hangin { Topa } in khuavak hong pia ding
-    hi. </para>
-  <para style="p"><verse number="9" style="v" />{ Topa } tungah khialkhin ka hih manin ama hehna
-    tawlkhat ka thuak ding hi. Ahi zongin a tawpna-ah kei hong huh ding a, a manlopi-in a hong
-    kibawlna teng hong bawlphat sakin, amah in hong honkhia ding hi. </para>
-  <para style="p"><verse number="10" style="v" />Tua hun ciangin ka galte in hih thu hong mu ding uh
-    a, “Na { Topa } Pasian, koi-ah om ahi hiam?” ci-in a hong tawng ka galte a maizum ding uh hi.
-    Amaute guallel ding uh a, kongzing buannawng bangin a kisikgawp mu-in, kei ka nuam ding hi. </para>
-  <para style="p"><verse number="11" style="v" />Jerusalem khuamite aw, na khuapi kulh uh a
-    kiciankik ding hun hong tung ding a, tua hun ciangin na gamgi uh nakpi takin kikhan' ding hi. </para>
-  <para style="p"><verse number="12" style="v" />Nisuahna lam Assiria gam pan hita leh, leitaw lam
-    Egypt gam pan hita leh, a gamlapi tuipi khen' pan leh a gamlapi mualte — mun khempeuh panin na
-    mite uh hong ciahkik ding uh hi. </para>
-  <para style="p"><verse number="13" style="v" />Ahi zongin a tungah a teng mite' gitlohna hangin,
-    leitung pen sehnel gamkhing a suak ding hi. </para>
-  <para style="p"><verse number="14" style="v" />{ Topa } aw, nangma tuu ahi na mite hong cing in.
-    Gamnuam leihoihna sungah amau guakin om uh hi. Tanglai huna mah bangin, Bashan leh Gilead
-    gamnuamah amaute gamtasak in. </para>
-  <para style="p"><verse number="15" style="v" />Egypt gam pan na paikhiat hun lai uh bangin,
-    amau-a' dingin a lamdang nate ka bawl ding hi. </para>
-  <para style="p"><verse number="16" style="v" />Minam dangte in hih thu mu ding uh a, minam thahat
-    hinapi-in a maizum ding uh hi. Lamdang sa-in kam khat zong paulo ding uh a, hih thu a
-    zakzakna-un a bil uh ngong liang ding hi. </para>
-  <para style="p"><verse number="17" style="v" />Amaute in gul bangin leivui namin, a bokvak
-    ganhingte bangin hong awmtal ding uh a, a bukna uh munmuan'huaite panin lau-in a lingsa-in hong
-    pusuak ding uh a, { Topa } Pasian hong kihta ding uh hi. </para>
-  <para style="p"><verse number="18" style="v" />{ Topa } aw, nang tawh a kibang Pasian dang omlo a,
-    a omlai na mite' mawhna nangmah in na maisak hi. Nang na heh paisuak kei a, na itna kip nong lak
-    hi. </para>
-  <para style="p"><verse number="19" style="v" />Kote nong khasiat kik ding a, ka mawhnate uh hong
-    sawpkhiat sakin, tuipi taw-ah nong paihsak ding hi. </para>
-  <para style="p"><verse number="20" style="v" />Ka pu ka pate uh tungah na ciamsa bangin, Abraham'
-    suanlekhakte ahi nangma mite tungah na cihtakna leh nong itna kip nong lak ding hi. </para>
+  <para style="p">
+    <verse number="1" style="v" />Kei a kamsia hi'ng! Singgah leh leenggah a heu hun laitakin a gilkial mipa tawh ka kibang hi. Leenggah nekding om nawnlo a, ka lunggulhgulh theigah beita hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />Leitungah mihoihteng bei khinta a, Pasian' tungah a thuman mi kuamah om nawnlo hi. Mihoihteng si khinta hi. Mi khempeuh in mi thah ding bek ngaihsun uh a, a kuamah peuh in a mipihte thah ding bek hanciam uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />A sia lama gamtat ding siam mahmah uh a, uliante leh thukhente in sumgolh ngenin, miliante in amau' deihteng pulak uh a, kipawlin vaihawm khawm uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v" />Amaute lakah a hoihpenin a kineite, lingkung bang hi a, a thutang pena kineite, ling hiam bang hi lel uh hi. Pasian in amaute a hilhkholh bangin, gim a piak ding hun hong tungta a, a lungman' hun ding uh hong hita hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Na vengte' thu upin nei kei in la, na lawmte zong muan'in nei kei in. Na ang-a lum na zi kiang nangawnah thu na gending kidawm in.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Tuhun ciangin tapate in a pate haibawl a, tanute in a nute langpan' uh a, mote in a teeknu uh langneih uh hi. Mi khat-a' dingin ama innkuanpihte mah a gal a suak mawk hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Ahi zongin ke'n ahih leh { Topa } mah ka en ding a, kei hong suaktasak Pasian ka ngak ding hi. Ka Pasian in ka thu hong ngai ding hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Ka galte aw, kei tungah lungdam kei un. Ka puk hangin ka thokik veve ding hi. Khuamial sungah ka om hangin { Topa } in khuavak hong pia ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />{ Topa } tungah khialkhin ka hih manin ama hehna tawlkhat ka thuak ding hi. Ahi zongin a tawpna-ah kei hong huh ding a, a manlopi-in a hong kibawlna teng hong bawlphat sakin, amah in hong honkhia ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tua hun ciangin ka galte in hih thu hong mu ding uh a, “Na { Topa } Pasian, koi-ah om ahi hiam?” ci-in a hong tawng ka galte a maizum ding uh hi. Amaute guallel ding uh a, kongzing buannawng bangin a kisikgawp mu-in, kei ka nuam ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Jerusalem khuamite aw, na khuapi kulh uh a kiciankik ding hun hong tung ding a, tua hun ciangin na gamgi uh nakpi takin kikhan' ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Nisuahna lam Assiria gam pan hita leh, leitaw lam Egypt gam pan hita leh, a gamlapi tuipi khen' pan leh a gamlapi mualte — mun khempeuh panin na mite uh hong ciahkik ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Ahi zongin a tungah a teng mite' gitlohna hangin, leitung pen sehnel gamkhing a suak ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />{ Topa } aw, nangma tuu ahi na mite hong cing in. Gamnuam leihoihna sungah amau guakin om uh hi. Tanglai huna mah bangin, Bashan leh Gilead gamnuamah amaute gamtasak in.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />Egypt gam pan na paikhiat hun lai uh bangin, amau-a' dingin a lamdang nate ka bawl ding hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Minam dangte in hih thu mu ding uh a, minam thahat hinapi-in a maizum ding uh hi. Lamdang sa-in kam khat zong paulo ding uh a, hih thu a zakzakna-un a bil uh ngong liang ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Amaute in gul bangin leivui namin, a bokvak ganhingte bangin hong awmtal ding uh a, a bukna uh munmuan'huaite panin lau-in a lingsa-in hong pusuak ding uh a, { Topa } Pasian hong kihta ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />{ Topa } aw, nang tawh a kibang Pasian dang omlo a, a omlai na mite' mawhna nangmah in na maisak hi. Nang na heh paisuak kei a, na itna kip nong lak hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Kote nong khasiat kik ding a, ka mawhnate uh hong sawpkhiat sakin, tuipi taw-ah nong paihsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Ka pu ka pate uh tungah na ciamsa bangin, Abraham' suanlekhakte ahi nangma mite tungah na cihtakna leh nong itna kip nong lak ding hi.
+  </para>
 </usx>

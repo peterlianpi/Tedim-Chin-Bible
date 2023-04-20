@@ -3,59 +3,76 @@
   <book code="PHM" style="id">Philemon</book>
   <para style="mt">Philemon</para>
   <chapter number="1" style="c" />
-  <para style="p"><verse number="1" style="v" />Khrih Jesuh hangin thong a kia keimah Paul leh i
-    sanggampa Timoti in, Ka hong it uh, ka naseppih uh ahi Filemon, </para>
-  <para style="p"><verse number="2" style="v" />leh na inn-ah a hong kikhawm pawlpite leh i
-    sanggamnu Apfia leh thu upna-ah galkap khawmpih Arkhippas-te tungah lai ka hong khak uh hi. </para>
-  <para style="p"><verse number="3" style="v" />I Pa Pasian leh Topa Jesuh Khrih in note tungah
-    dikna leh nopsakna thupha hong tungsak ta hen. </para>
-  <para style="p"><verse number="5" style="v" />Pasian' mite khempeuh na itna thu leh Topa Jesuh na
-    upna thu na zakhin ka hih manin Pasian kiangah thu ka nget simin nangmah hong phawkin Pasian
-    tungah lungdamna thu ka ko tawntung hi. </para>
-  <para style="p"><verse number="6" style="v" />Thu umte ihihna hangin Khristian sungah eite i
-    kikholh manin, Khrih hangin i nuntakna sungah i ngah thupha a hoih khempeuh na theihna a kicin'
-    semsemna dingin thu ka ngen hi. </para>
-  <para style="p"><verse number="7" style="v" />Sanggam aw, nangma hangin Pasian' mite in lungnopna
-    ngah uh ahih manin tua bang itna na neihna hangin ka lungdamin ka tha a nuam mahmah hi. </para>
-  <para style="p"><verse number="8" style="v" />Tua ahih manin Khrih hangin unau khat ihihna tawh
-    hih dingin a kilawm bangin na gamtatna dingin thu ka hong gen ngam hi. </para>
-  <para style="p"><verse number="9" style="v" />Hih bangin ka hong genna pen itna i neihna hang ahi
-    hi. Tu lai takin Khrih tangmi ahi keimah Paul zong, Khrih Jesuh hangin thongkia-in a om ka hi
-    hi. </para>
-  <para style="p"><verse number="10" style="v" />Tua ahih manin Khrih hangin ka ta ahi Onesimas-a'
-    dingin ka hong thumsak hi. Thong sungah ka om sungun kha thu tawh kisai-ah ama pa ka suak hi. </para>
-  <para style="p"><verse number="11" style="v" />Nidangin nang-a' dingin amah a kiman'na bangmah
-    omlo a, ahi zongin tu-in eite gel-a' dingin mi manpha mahmah ahi hi. </para>
-  <para style="p"><verse number="12" style="v" />Keima pumpi zahin ngaihsutna tawh nang kiangah amah
-    ka hong puakkik hi. </para>
-  <para style="p"><verse number="13" style="v" />Lungdamna Thu hangin thongkia-in ka om sungin
-    nangma tangin kei a hong huh dingin ka kiangah ka omsak nuam hi. </para>
-  <para style="p"><verse number="14" style="v" />Ahi zongin nangma nasep hoihna pen keima hong kalh
-    hiloin nangma uttawmna tawh na sep a suahtheihna dingin nangma lungkimna om masa lopi-in bangmah
-    ka hih nuam kei hi. </para>
-  <para style="p"><verse number="15" style="v" />A tawntungin nang kiangah amah hong om paisuak
-    theihna dingin tawlkhat sung nang kiang panin Onesimas a paikhia zong hi khathei ding hi. </para>
-  <para style="p"><verse number="16" style="v" />Tu-in amah sal bek hi nawnloin sal sangin a
-    thupizaw, Khrih hangin i sanggam hong hita hi. Kei-a' dingin amah a manphat mah bangin sal hihna
-    leh Topa thu sungah sanggam hihna tawh nang-a' dingin zong hong manphazaw kan ding hi. </para>
-  <para style="p"><verse number="17" style="v" />Tua ahih manin nasepna-ah pawlkhat taktakin kei na
-    hong ngaihsut nak leh kei na hong limbawl ding zahin amah na limbawl in. </para>
-  <para style="p"><verse number="18" style="v" />Nang tungah hong khialh a, leiba thangba hong neih
-    leh zong keima khialh, keima batin na seh in. </para>
-  <para style="p"><verse number="19" style="v" />Keimah Paul in ka hong loh ding hi, cihna thu keima
-    khut mahmah tawh a lai ka gelh ahi hi. Nangma nuntakna bulpi mahmah zong keima hang ahihna thu
-    gen kullo hi. </para>
-  <para style="p"><verse number="20" style="v" />Tua ahih manin sanggam aw, Topa' hangin hih ka hong
-    thumna hong pia in. Khrih sungah unau khat ihih manin ka lungsim hong nuamsak in. </para>
-  <para style="p"><verse number="21" style="v" />Ka hong genna sangin a hoihzaw a phazaw-in na gamta
-    ding, ci-in muan' mahmahna tawh hih lai a hong gelh ka hi hi. </para>
-  <para style="p"><verse number="22" style="v" />Tua banah, Pasian in note khempeuh' thungetna hong
-    pia-in, note kiangah kei hong paikik thei dingin kilamen ka hih manin ka omna ding inndei zong a
-    baihsa-in na bawl un. </para>
-  <para style="p"><verse number="23" style="v" />Khrih Jesuh hangin thong ka kiatpih Epafras-a
-    kipan, </para>
-  <para style="p"><verse number="24" style="v" />ka naseppih Marka, Aristarkhas, Demas, leh Luka-te
-    in hong hopih uh hi. </para>
-  <para style="p"><verse number="25" style="v" />Topa Jesuh Khrih hehpihna thupha, note tungah hong
-    tung ta hen. </para>
+  <para style="p">
+    <verse number="1" style="v" />Khrih Jesuh hangin thong a kia keimah Paul leh i sanggampa Timoti in, Ka hong it uh, ka naseppih uh ahi Filemon,
+  </para>
+  <para style="p">
+    <verse number="2" style="v" />leh na inn-ah a hong kikhawm pawlpite leh i sanggamnu Apfia leh thu upna-ah galkap khawmpih Arkhippas-te tungah lai ka hong khak uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v" />I Pa Pasian leh Topa Jesuh Khrih in note tungah dikna leh nopsakna thupha hong tungsak ta hen.
+  </para>
+  <para style="p">
+    <verse number="5" style="v" />Pasian' mite khempeuh na itna thu leh Topa Jesuh na upna thu na zakhin ka hih manin Pasian kiangah thu ka nget simin nangmah hong phawkin Pasian tungah lungdamna thu ka ko tawntung hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v" />Thu umte ihihna hangin Khristian sungah eite i kikholh manin, Khrih hangin i nuntakna sungah i ngah thupha a hoih khempeuh na theihna a kicin' semsemna dingin thu ka ngen hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v" />Sanggam aw, nangma hangin Pasian' mite in lungnopna ngah uh ahih manin tua bang itna na neihna hangin ka lungdamin ka tha a nuam mahmah hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v" />Tua ahih manin Khrih hangin unau khat ihihna tawh hih dingin a kilawm bangin na gamtatna dingin thu ka hong gen ngam hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v" />Hih bangin ka hong genna pen itna i neihna hang ahi hi. Tu lai takin Khrih tangmi ahi keimah Paul zong, Khrih Jesuh hangin thongkia-in a om ka hi hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v" />Tua ahih manin Khrih hangin ka ta ahi Onesimas-a' dingin ka hong thumsak hi. Thong sungah ka om sungun kha thu tawh kisai-ah ama pa ka suak hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v" />Nidangin nang-a' dingin amah a kiman'na bangmah omlo a, ahi zongin tu-in eite gel-a' dingin mi manpha mahmah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v" />Keima pumpi zahin ngaihsutna tawh nang kiangah amah ka hong puakkik hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v" />Lungdamna Thu hangin thongkia-in ka om sungin nangma tangin kei a hong huh dingin ka kiangah ka omsak nuam hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v" />Ahi zongin nangma nasep hoihna pen keima hong kalh hiloin nangma uttawmna tawh na sep a suahtheihna dingin nangma lungkimna om masa lopi-in bangmah ka hih nuam kei hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v" />A tawntungin nang kiangah amah hong om paisuak theihna dingin tawlkhat sung nang kiang panin Onesimas a paikhia zong hi khathei ding hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v" />Tu-in amah sal bek hi nawnloin sal sangin a thupizaw, Khrih hangin i sanggam hong hita hi. Kei-a' dingin amah a manphat mah bangin sal hihna leh Topa thu sungah sanggam hihna tawh nang-a' dingin zong hong manphazaw kan ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v" />Tua ahih manin nasepna-ah pawlkhat taktakin kei na hong ngaihsut nak leh kei na hong limbawl ding zahin amah na limbawl in.
+  </para>
+  <para style="p">
+    <verse number="18" style="v" />Nang tungah hong khialh a, leiba thangba hong neih leh zong keima khialh, keima batin na seh in.
+  </para>
+  <para style="p">
+    <verse number="19" style="v" />Keimah Paul in ka hong loh ding hi, cihna thu keima khut mahmah tawh a lai ka gelh ahi hi. Nangma nuntakna bulpi mahmah zong keima hang ahihna thu gen kullo hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v" />Tua ahih manin sanggam aw, Topa' hangin hih ka hong thumna hong pia in. Khrih sungah unau khat ihih manin ka lungsim hong nuamsak in.
+  </para>
+  <para style="p">
+    <verse number="21" style="v" />Ka hong genna sangin a hoihzaw a phazaw-in na gamta ding, ci-in muan' mahmahna tawh hih lai a hong gelh ka hi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v" />Tua banah, Pasian in note khempeuh' thungetna hong pia-in, note kiangah kei hong paikik thei dingin kilamen ka hih manin ka omna ding inndei zong a baihsa-in na bawl un.
+  </para>
+  <para style="p">
+    <verse number="23" style="v" />Khrih Jesuh hangin thong ka kiatpih Epafras-a kipan,
+  </para>
+  <para style="p">
+    <verse number="24" style="v" />ka naseppih Marka, Aristarkhas, Demas, leh Luka-te in hong hopih uh hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v" />Topa Jesuh Khrih hehpihna thupha, note tungah hong tung ta hen.
+  </para>
 </usx>
