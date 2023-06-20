@@ -11,7 +11,7 @@ RVA is the version of Reina-Valera Antigua (RVA) and I overwrite files and modif
 |BJB|Judson Bible
 </p>
 <p>
-Setup:
+Setup:</br>
 1. Click and Run "Copy Bible.bat". </br>
 2. Open Propresenter Software, go to Bible and you can use the Tedim (Chin) Bible now...
    </br></br></p>
