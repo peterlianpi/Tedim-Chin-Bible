@@ -12,7 +12,7 @@ RVA is the version of Reina-Valera Antigua (RVA) and I overwrite files and modif
 </p>
 <p>
 Setup:
-1. Click and Run "Copy Bible.bat".
+1. Click and Run "Copy Bible.bat". </br>
 2. Open Propresenter Software, go to Bible and you can use the Tedim (Chin) Bible now...
    </br></br></p>
 For Any Reasons, Contact me : peterpausianlian2020@gmail.com :) </br> Thanks for downloading....
