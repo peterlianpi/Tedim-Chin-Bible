@@ -1,10 +1,18 @@
-<h1>This is the Bible translation in Tedim (Chin) 2010, Lai Siangtho to use with Propresenter 7. </h1>
+<h1>Tedim (Chin) Bible Translation: 2010 and 1977 Versions for Use with ProPresenter 7</h1>
 
-<p>Included Bibles</br>
-RVA is the version of Reina-Valera Antigua (RVA) and I overwrite files and modify translation file for Tedim (Chin) Bible (TDB). So Reina-Valera Antigua (RVA) version cannot be used. Aim to use Tedim (Chin) version.
-|YLT|Young's Literal Translation|
-|KJV|King James Version
-|BJB|Judson Bible
+<p><strong>Included Bibles:</strong><br>
+The Reina-Valera Antigua (RVA) code has been repurposed for the Tedim (Chin) Bible (TDB), and therefore, the original RVA version is no longer available.  
+Similarly, the Young's Literal Translation (YLT) code has been used for the Chin 1977 (Tedim Bible) (TB77), making the YLT version unavailable.  
+Please note that these changes aim to support the Tedim (Chin) versions.</p>
+
+<ul>
+  <li><strong>TB77</strong> - Chin 1977 (Tedim Bible)</li>
+  <li><strong>KJV</strong> - King James Version</li>
+  <li><strong>BJB</strong> - Judson Bible</li>
+  <li><strong>TDB</strong> - Tedim (Chin) Bible</li>
+</ul>
+
+
 </p>
 <p>
 Setup:
