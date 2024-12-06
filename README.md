@@ -3,7 +3,8 @@
 <p><strong>Included Bibles:</strong><br>
 The Reina-Valera Antigua (RVA) code has been repurposed for the Tedim (Chin) Bible (TDB), and therefore, the original RVA version is no longer available.  
 Similarly, the Young's Literal Translation (YLT) code has been used for the Chin 1977 (Tedim Bible) (TB77), making the YLT version unavailable.  
-Please note that these changes aim to support the Tedim (Chin) versions.</p>
+Please note that these changes aim to support the Tedim (Chin) versions. 
+To restore the original RVA or YLT versions, remove and re-add them from the ProPresenter Bible library.</p>
 
 <ul>
   <li><strong>TB77</strong> - Chin 1977 (Tedim Bible)</li>
