@@ -1,0 +1,2778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+  <book code="PRO" style="id">Proverbs</book>
+  <para style="mt">Proverbs</para>
+  <chapter number="1" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>David’ tapa, Israel kumpi Solomon’ paunakte:
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Mite in pilna leh thuhoihte a phawk theih nading, khiatna thuk a nei kammalte a theih theih nading.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>A hoih-in a pil gamtat theih nading, thuman, thutang, a kilawmin a gamtat theih nading.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Thu thei nai lote in a theih nading, khangnote in pilna leh thu ngaihsut theihna a ngah nading.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Mi ciimsate ciimsak semsemin, mipilsate pilsak semsem-in,
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>paunakte leh thugentehnate thei-in, mipilte’ kampau leh a thugente a theih nading.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Topa zahtakna in pilna kipatna hi a, mihaite in pilna leh thuhilhna don lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Ka ta aw, na pa’ hong thuhilhna zui in la, na nu’ hong thugente ngai in.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua hilhnate in na gamtatna hong hoihsak ding a, kizepna lukhu leh kizepna khi bangin hong etlawm sak ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Ka ta aw, mihoih lote in hong zol ciangin, amau’ zolna zui kei in.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Amaute in, “Hong pai in, mi khatpeuh va that ni, Mi ommuang khat va muan suam ni,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>I muh tungin a cidam, a hing kimlai hi napi, i suk khit ciangin a sisa hi ding!
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Na a manpha a namkimin i sut ding a, tua bang nate i inn dimin i nei ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Kote tawh hong kipawl lecin, i ngah khempeuh i hawm ding hi,” hong cih uh hangin ut kei in.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Ka ta aw, tua bang mite tawh kikhawl kei in la, amaute kiang panin kihemkhia in.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Amaute a sia-in gamta nuam vanvan uh a, mi thah ding haksa sa lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>I mat nop vasate’ muhtang pi-in, i siahna ngenthang zaak pen a mawkna hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Ahi zongin hih mite in amau’ awk nading mah thang siah uh a,
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Zawhthawh thu tawh mi’ na a sutte in sihlawh tawntung zaw a, hih bang a gamtate in tu-a bangmah tuak ngitnget hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Ngai in! Kongzing lampi leh van kizuakna phualpi-ah pilna hong kiko hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Khuapi kulh kongpi tual leh mi a kikhopna mun khempeuh ah nakpi takin hong awngkhia a,
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>”Mihaite aw, bangtanvei hai omom nuam lai na hi uh hiam? Bangtanvei pilna thudon loin om ding na hi uh hiam? Pilna ngaihsutin nei ngei lo ding na hi uh hiam?
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Kong thuhilhna hong ngai un, ka ngaihsutna kong gen ding a, ka theihna kong zasak ding hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Keimah in note hong sam napi-in nong ngai nuam kei uh a, ka khut hong vaan napi-in kuamah in nong thudon kei uh a,
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>ka thugente khempeuh hong thudon loin, kong tainate hong mang nuam lo na hih manun,
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>lungkhamna na tuah uh ciangin kei zong kong nuihsan lel ding a,
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Lungkhamna in huihpi’ nawk bangin note hong nawk gawpin, pingpei bangin note hong pei gawpin,
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Tua bang hun ciangin kei nong sam ding uh a, ahi zongin kong dawng kei ding hi. Lim takin kei nong zong ding uh a, ahi zongin koi mah-ah nong mu kei ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Note in pilna deih loin, Topa na zahtak nuam kei uh a,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>ka thugente deih loin, kong thuhilhna ngai nuam lo na hih manun,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>na gamtatna bangun na thuak ding uh a, nomau’ gamtatna mah in note hong gimsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Bang hang hiam cih leh thu thei lote in, pilna a don loh manun sihlawh uh a,
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>ahi zongin, ka thugenna a ngaite in lungmuanna ngah ding a, launa nei loin nuam takin om ding uh hi,” a ci hi.
+  </para>
+  <chapter number="2" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Ka ta aw, kong hilhte thei in la, kong gente mangngilh ngei kei in.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Pilna thute limtakin ngai in la, na theihtel zawh nadingin hanciam in.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Hi hi, thu theih nading hanciam takpi in la, thumuh nading hahkat takpi in.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Ngun, ahih kei leh a kiseel sum manpha zon’ bangin, hahkatin pilna zong in.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tua hi leh, Topa zahtakna thu na thei ding a, Pasian na theitel ding hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Bang hang hiam cih leh pilna a piapa in Topa hi a, amah in pilna leh siamna a hilhpa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Pasian in thuman mite pilna guan a, midiktatte a hu hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Amah in thutang mite cing a, amah a itte kem hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua hi leh thuman leh thutang, ahoih leh a kilawm na thei ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua ciangin mipil na suak ding a, na pilna hangin nuam na sa ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Na thu ngaihsut theihna leh na thutelna in, nangmah hong hu-in,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>a sia-in na gamtat khak ding hong kem ding a, kampauna tawh buaina a piangsak thei mi,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>nuntakna manin a nungta lo, mawhna khuamial sungah a gamta,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>a sia-in gamtat ding nuam a sa, asia-a gamtatna-ah a lungkim mahmah,
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>mi lungsim kawi, muan’ theih loh ding mite panin nang hong kem ding hi.
+  </para>
+  <para style="p">
+    <verse number="16-17" style="v"/>A pasal tungah citak loin a pasal a nusia, Pasian’ mai-ah a kiciamna a mangngilh, kamkhum mahmah tawh nang zol ding a hanciam, numei paktatte panin hong cing ding hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua nu’ inn-ah pai lecin sihna lampi zui na hi a, misite’ gam a zuan na hi hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Tua bang numei tawh mawhna a bawl mite, nuntakna nuam nei kik cih om ngei lo hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Tua ahih ciangin mihoihte’ gamtat bangin na gamta ding a, thuman mite’ gamtatna na zui ding hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Bang hang hiam cih leh mi thuman, mi ginate, hih i leitungah teengin om ding uh a,
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>ahi zongin leitung panin migilote kilawn khia-in, singkung zung bawh bangin mawhneite kibotkhia ding hi.
+  </para>
+  <chapter number="3" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Ka ta aw, kong thuhilhte mangngilh kei in la, kong thugente phawk tawntung in.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Kong thuhilhte in na khan’ hong sausak ding a, nang hong daupai sak ding hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Thumanna leh cihtakna khahsuah ngei kei in la, na ngawng-ah tuate ok in, na lungtang tungah gelh in.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua hi leh, Pasian leh mite mai-ah maipha ngahin na ma vang ding hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Na lungsim khempeuh tawh Topa muang in la, nang’ theihna suang kei in.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Na hihna khempeuh ah amah phawk in; tua hi leh lampi maan hong lak ding hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Nangmah mah a pilin kingaihsun tawm kei in la, Topa zahtakin, a sia pel in.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua hi leh, nang adingin damna zatui tawh kibang ding a, na meimate damsakin, na natnate daisak ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Na neihsate leh na anpalte tawh Topa zahtak in.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua hi leh, na ansaalte an tawh kidim ding a, a beel dimleetin leenggahzu na nei ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Ka ta aw, Topa’ hong thuhilhna lim takin ngai in la, hong tainate thudon in.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Bang hang hiam cih leh, pa in a pahtak a tapa a thuhilh bangin, Topa in a it mite a thuhilh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Pilna nei-in, thu a thei mipa in, a lungdam mi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Pilna nei leng, ngun sangin hoihzaw a, kham sangin manphazaw hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Pilna in a manphapen suangmanpha nangawn sangin manphazaw a, mihingte’ deih theih na lakah tehpih theih ding om lo hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Pilna in hong khan’ sausak a, hauhna leh pahtawina zong hong pia hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Pilna in nuntakna hong nuamsak a, lungmuang takin hong omsak den hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Pilna a nei mite a lungdam mi hi a, pilna a neite in nuntakna singkung tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Topa in a pilna tawh leitung bawl a, a theihtelna tawh vantung bawl hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Ama pilna in guntuite luangsak a, meiite in leitungah guahzu sak hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Ka ta aw, pilna leh thu ngaihsut theihna len tawntung in la, cik mah ciangin khahsuah ngei kei in.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tuate in nang adingin nuntakna hi ding a, na hoih nadingin kizepna hi ding hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tua hi leh, lungmuang takin na nungta ding a, puk nading thu bangmah om lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Launa om loin nuam takin na lum ding a, zan tawntung lungmuang takin na ihmu thei ding hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Migilote tungah huihpi bangin siatna a tun’ ciangin, nang na lunghihmawh nading om lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Bang hang hiam cih leh Topa in a muanhuai-in nang hong kem ding a, siatna hong tuak sak lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Nangma hih zawh ding thu ahih nak leh, midangte’ kitaangsapna huh tawntung in,
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Na vaihawmsak theih pah ding ahih nak leh, zing ciangin hong pai kik in, ci-in a hun sotto kei in.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Nang hong muangin na nai-ah hong teeng na vengpa, gim a ngah nading bangmah vaihawm kei in.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Nang tungah bangmah siatna a hong bawl lo, mi khatpeuh tawh thu om lopi-in kimawktot kei in.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>A ngongtat thei mite eng kha kei in la, amau’ gamtat bangin gamta kha kei in.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Bang hang hiam cih leh Topa in a sia-a gamtate mudah a, thuman mite bek a pawlpih dingin la hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Topa in migilote’ inn sung samsia a, thuman mite’ inn sung thupha pia hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Amah in mi kihisakte bang mahin sim lo a, a kiniamkhiatte tungah maipha pia hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Mipilte in minphatna leh pahtawina ngah ding a, mihaite in maizumna leh mindaina ngah ding uh hi.
+  </para>
+  <chapter number="4" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tate aw, na pa uh’ hong hilhnate ngai un la, thu na teltheih nadingun lim takin ngaihsun un.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Bang hang hiam cih leh kong hilh thute thuhoih ahi hi; kong hilhte khempeuh lim takin, ciamteh un.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Kei zong ka nu leh ka pa’ tapa neihsun, naupangno khat ka hih lai-in,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>ka pa in thu hong hilh a, “Ka thugente ciamteh in la mangngilh ngei kei in. Kong gen bangin gamta in, tua hi leh na nungta ding hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Pilna leh thu ngaihsut theihna na neih nading hahkat in la, kong gen thute mangngilh kei in la, hoih takin, ngaihsun in.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Pilna nusia kei in, tua hi leh siatna panin nang hong hu ding hi, pilna deih in, tua hi leh lungmuang takin na om nadingin hong kem ding hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Pilna na ngah nading a thupi masapen hi a, na neih khempeuh na bei lawh zongin na zon’ ding ahi hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Pilna deih in, mi lianin nang hong bawl ding hi; limtak pom in, pahtawina hong ngah sak ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Pilna in pahtawina leh minthan’na, nang tungah hong tung sak ding hi,” hong ci hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Ka ta aw, ka thugente lim takin zui in, tua hi leh na khan a sau ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Na pil nading lampi kong hilh zo a, na gamtat nading zia kong gen zo hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Hoih takin gamta lecin bangmah in hong nawngkaisak lo ding a, na tai hangin zong na puk kha kei ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Hong kihilhnate lencip in la khahsuah kha kei in; na nuntak nading ahih manin lim takin zui in.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Migilote tawh kikhawl kei in la, amau’ gamtatnate zui kei in.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Amau’ gamtat bangin gamta peuhmah ke’n! Gitlohna peel in! Pai san in la, na maban sem in.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Migilote in asia khatpeuh a sep mateng lum thei lo uh a, mi khatpeuh a suk zawh mateng ihmu lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Gitlohna, annek bangin nuamsa uh a, ngongtatna, tuidawn bangin ngaihsun uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Ahi zongin thuman mite’ zuih lampi ahih leh, sun dong a taang pha semsem zing khuavak tung tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Migilote’ lampi ahih leh zan khuamial bangin mial a, amaute a tuksak, a suihkhak nate nangawn mu thei lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Ka ta aw, ka thugente don in la ka kammalte ngai in.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Na kiang panin paikhia sak kei in la, na lungsim ah ciamteh in.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Bang hang hiam cih leh tua thu a zuite in, nuntakna leh cidamna-in nei uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Na lungsim ngaihsutnate in nuntakna nak hi a, na neihsa a manphapen bangin na kep ding ahi hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>A man lo thu gen ngei kei in la, zuauthu leh a kiza khial thei ding kammalte zang het kei in.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Kisuan’na nei loin om liuliau in la, maizumin kuncip kei in.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Na khatpeuh na sepna thu theitel in, tua hi leh na sep peuhpeuh mavang ding hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Siatna peelin a maanin gamta in la, thuman lampi panin themcik zong pial kha kei in.
+  </para>
+  <chapter number="5" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Ka ta aw, ka pilna leh ka thumuhnate, lim takin ngai-in hong za in.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua hi leh, a kilawmin na gamtat nading zia na thei ding a, na kampaunate in na pil lam tak hong kilangsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Numei paktatte’ kampau, khuaizu bangin khum mahmahin, a thugente uh a neel dakdak hangin,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>a tawpna-ah lungkhamna leh natna sim loh, nangma tungah bangmah dang hong guan lo hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Amah in sihna gamah hong paipih ding a, ama tot lampi in sihna mun tun’na lampi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Nuntakna lampi-ah amah om lo a, nang na phawk loh hangin amah lam pialin a vakvai ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Tate aw, tu-in ka thugente hong ngai un la, ka thugente mangngilh kei un.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua bang numei tawh kineh kha kei un la, a inn gei nangnawn-ah pai kha kei un.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua bang na hih kei uh leh, na min hoihna teng uh midang tungah tung ding a, hehpihna a nei lo mite’ khutlum tawh na khan’sih ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Khualmite in na neih khempeuh uh la ding a, na sepsa khempeuh uh midangte in ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Na sih kuan uh ciangin thuumin na tau ding uh a, gawng-in na guh guak bekun na om ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Tua ciangin, “Bang hangin thu thei thei hoh lo a, hong kihilhna mang hoh lo ka hi hiam?
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Kei hong hilh siate’ thu ka mang nuam kei a, amau’ hong hilhnate ka don kei kha hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Tua ahih manin tu-in ka cimawh vat a, mi mai-ah ka min a sia hi,” na ci ciat ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Na zi’ tungah citak in la, amah bek itin nei in.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Pasal dang tawh va vak zau-in kongzing lakah va mawh kha ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Na zi in nangma ading bek hi a, midang tawh na neihkhawm ding hi lo hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua ahih ciangin na zi tawh lungkim in la, na teen’pih numei tawh lungdam in.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>A it huai a ngaihbangin ngaihsun tawntung in la, ama ngaihbaan’na tawh lungdamin, ama hong itna tawh lungkim in.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Ka ta aw, bang hangin numei dang lunggulh ding a, numei dangte’ ngaihban’na iplah ding na hi hiam?
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Bang hang hiam cih leh Pasian in na gamtatna khempeuh hong mu a, na paina khempeuh hong en kawikawi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Migilopa’ mawhna in thangzak bang hi a, ama mawhna thang sung mahah amah awk hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Ama pumpi ki-uk zo lo ahih manin sihlawh a, ama hailuatna in hankhuk sung tun’ hi.
+  </para>
+  <chapter number="6" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Ka ta aw, na lawmte khatpeuh in sum leitawi a lak ciangin, a loh zawh kei leh ama taangin a lohsak dingin kam na ciam kha hiam?
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Na kampauna hangin nang hong kimanin, na thuciamna hangin na awk kha hiam?
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Ka ta aw, tua bang na hih khak leh, tua mipa khut sungah a om na hi hi; na suahtak theih nadingin manlangin ama kiangah pai in la, hong khah nadingin ama kiangah thuum in.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Ihmu mu kei in la, om mawkmawk kei in.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Sabengpa’ kiang panin a suahtak nadingin sakhi a tai bangin, thang ah a awk vasa a kitom bangin na suahtak nadingin hamciam in.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Thadahpa aw, miksite kiangah pai in la, amau’ nuntakna zia va en in.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Amaute in a uk ding leh a makai ding kuamah nei lo napi-in,
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Thadahpa aw, bang tanvei lumlum ding a, cik ciangin thokhia ding na hi hiam?
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tawmkhat sung mengme lai ning, tawmkhat sung ihmu lai ning, na cih kikalin,
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>zawn’na leh cihmawhna in migilo gutate bangin nang hong sugawp pak ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Mi gina lo, a gilopa, zuauthu genin vak kawikawi a,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>nang hong khem nop manin, a mit-heek hong pia-in, a khe tawh hong su-in, a khut tawh hong khoih hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>A lungsim-ah thusia bekbek ngaihsun niloh a, a omna peuh-ah buaina piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Tua ahih manin theihkholh lohin ama tungah lungkhamna tung ding a, bawlkik zawh nawn loh dongin siatna ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Topa in a muhdah, a khahkhong ngei loh ding, thu guk, bek hilo, thu sagih tak om a tuate in,
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>kihihsakna, zuauthu genna, mawhnei lo mi thahna,
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>thusia bawl ding ngaihsutna, gamtat siat ding a manlangte,
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>zuauthu a ban gengen teci man lote, a lawmte lakah kitotna a piangsakte ahi hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Ka ta aw, na pa’ hong gen bangin gamta in la, na nu’ hong thuhilhte mangngilh ngei kei in.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Amau’ hong thugente phawk tawntung in la, na lungsimah ciamteh niloh in.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tua thute in na paina peuhah lam hong lak ding a, zan-in na ihmut kalin nang hong cing ding a, sun-in na hah sungin na gamtat nading hong hilh ding hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Bang hang hiam cih leh thupiaknate in meivak hi a, hilhnate in a taang mahmah khuavak bang hi-in, khalna leh hilhnate in nuntak nading lampi hi a,
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mi’ zi tawh na mawh loh nading nang hong kemin, kamkhum zanga hong zol numei ginalote kiang panin hong hu ding hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Amau’ meel hoihna iplah kha kei in la, amau’ hong zawlmitna khenglah kei in.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Bang hang hiam cih leh anlum khat tawh numei paktat khat kingah zo a, ahi zongin numei tawh mawhna in nuntakna bup siasak hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Na ang sungah meikuang pom lecin, na puan kang loin om ding ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mei-am tung tawnin pai lecin, na khe kang loin om ding ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Tua mah bangin, mi zi tawh a mawhte in thuak ding a, tua banga gamta peuhmah in thuak ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>A gilkial mi khat in an a guk ciangin, midangte in mawhsak lua lo napi,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>amah kiman leh, azah sagih-in kiloh sak a, a neih khempeuh a piak kul hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Ahi zongin numei tawh mawhte in thu ngaihsun thei lo mi hi a, amah leh amah a kisusia tawm ahi hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Amah in satgawpna thuakin a min sia ding a, a mindai paisuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>A pasal a heh zawk nading thudang om nawn lo a, a heh thukna-ah khawl hun cih nei thei lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Amah in sum-le-pai sang nuam lo a, letsong tampi piakna in a hehna damsak zo lo hi.
+  </para>
+  <chapter number="7" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Ka ta aw, ka thugente ciamteh in la, kong sawl thute mangngilh ngei kei in.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Kong gen bangin gamta in; na nungta ding hi. Kong thuhilhte, na mitnauta bangin hoih takin kem in.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Kong hilhnate kem tawntung in la, na lungtang tungah gelh in.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Pilna, na sanggamnu dingin nei in la, thumuhna, na lawm itpen dingin nei in.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tua hi leh, midangte’ zi tungah na khialh khak loh nading, kamkhum tawh hong zol numeite tawh na khialh khak loh nadingin hong hu ding hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Khatvei, ka omna inn-ah, ka kongvangneu panin ka khuadak a,
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>bangmah a phawk nai lo tangval honkhat lakah, tangval thu thei nai lo khat ka limmuh kha hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Lamdungah amah a vak lai takin, tua bang numei paktat a omna inn gei khatah va pai kha a,
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>tua hun in, nitak nitum khit zawh, khuamui hun laitak ahi hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua numei in numei paktatte’ puansilh ngeite silh kawmin, ngimna khat tawh tua tangval na dawntuah hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Tua numei in maizumna mel thei loin a hang mahmah hi a, lamdung tengah vak tawntung hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Mihon omna vanzuakna phual, lamdung citeng, leh kongkiu khatpeuhah mi ngakin om niloh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua numei in tangvalpa thakhatin kawi-in tawp a, na maitai bawlin ama kiangah,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>”Tu ni-in biakpiakna ka bawl a, nek ding sa tampi ka nei hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Ka nekpih dingin nang kong zong a, tu-in nang kong mu petmah hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Ka lupna tung a nop mahmah nadingin, Izipt gam puan hoihpente ka phah zo hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Mirrah paknamtui, oloes paknamtui leh kinnamon paknamtui tawh, ka lupna tung a namtui dingin ka bawl khin ta hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Hong pai in, zan thapai-in ki-itna bawlin, ang kikawmin lungnuam ni,
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Bang hang hiam cih leh ka pasal khual gamlapi-ah zin a, tu lai takin inn-ah om lo hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Amah in sum tampi keng a, nipi kal nih bang mateng hong tung lo ding hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Tua ahih manin kamkhum kamneel tawh amah zol a, tangvalpa in tua zolna mang kha hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tua ahih manin a kigo ding bawngtal in a sih nading mun a zuat bangin, sakhi in a awk nading thang zuanin a dian’laklak bangin,
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>thaltang in a lungtang a khak nading munah amah va pai hi. Vasa in a sih nading thang-antah a bawh bangin va bawh a, a lauhuai sung a tung ahih lamtak thei lo hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Ka tate aw, kei lam hong nga un la, ka thugente hong ngai un.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Tua bang numeite’ zolna mang kei un la tua bangte tawh khial kha kei un.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Tua bang numei in mi tampi tak siasakin, sim zawh loh ding mi tampi’ sihna piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Tua bang numei zuihna in sihna gam zuatna hi a, sih baih nading lam zuatna ahi hi.
+  </para>
+  <chapter number="8" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Ngai un! Pilna in hong sam a, thu ngaihsut theihna hong kiko hilo ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Lamdung mualtung tengah, lamka citeng mun khempeuh ah ding a,
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>khuapi lutna lampi gei-ah, mi omna kongpi tual-ah hong kiko a,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>“Mi khempeuh tungah kong thuum a, leitunga om mi khempeuh kong sam hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Ngaihsut kicing nai lote aw, na lungsim uh picing sak un. Mihaite aw, thu ngaihsun un.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Ngai un, thumanpha kong gen ding a, ka gen khempeuh thumaan vive ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Ka thugente a maan bekbek hi a, zuauthu ka deih kei hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Ka gen khempeuh ahi vive hi a, zuauthu, thukawi om het lo hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Thungaihsun theite’ adingin telnop a, thu mutheite’ adingin siang mahmah hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Ngun sangin kong thuhilhnate deihzaw un la, kham hoihpen sangin thutheihna deihzaw un.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Suangmanpha sangin pilna ahi keimah ka manphazaw a, kei tawh nong tehpih theih ding uh a manpha dang om lo hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Pilna ahi keimah in thuthuk muh theihna ka nei a, thu a tel-a theihna leh a kilawm-a ngaihsut theihna ka nei hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Topa zahtakna in thusia muhdahna hi a, kiphatsakna leh kihihsakna, gamtatsia leh thuzuau ka mudah hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Thu geelin ka semkhia a, thutelna nei-in, kei ka thahat hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Kumpite in a gam mite a uk nading, mi ukte in ngeina maan a zat theih nadingin ka huh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Leitunga om mi ukte khempeuh in keima huhna bek tawh uk zo uh a, milian mithupite in keima huhna bek tawh vaihawm zo uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Kei hong itte ka it a, kei hong zong peuhmahte in hong mu uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Keimah in piakkhiat theih ding hauhna leh minphatna, daupaina leh matutsak zawhna ka nei hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Keima kiang panin na ngahte uh, ngun hoihpen sangin hoihzaw a, kham hoihpen sangin zong hoihzaw lai hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Keimah in thuman lampi ka zui a, thutang lampi ka tawn hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Kei hong itte ka hausak a, a inn dimin neih-le-lam ka pia hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>“Topa in kei hong piangsak masapen a, tangtawng-a ama sep lak pan a masapen ka hi hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tangtawng pek lai-in kei hong bawl a, leitung a om ma-in hong bawl masakpen ka hi hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Tuipite a om ma-in kei ka suak a, kei’ suah hunin luituite om nai lo hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Mual liante a kibawl ma-in kei ka suak khin a, mualneute a kibawl ma pekin ka om khin hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Leitung gam khempeuh a bawl ma, lei themkhat beek nangawn a bawlma pekin kei ka om khin hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Amah in vantung bawlin, tuipi kimkotah vanpi mong ding a bawl laitak,
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>amah in vantungah meiite kipsakin, tuipi tuinakte a bawl laitak,
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>tuipi tuite in ama cihna bangin khengin, a luan’ loh nading thu a piak lai takin ka om a, leitung bulpite a ciamteh lai takin,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Na geel siampa bangin amah tawh kikhawlin, keimah in ni simin ama lungdamna ka hi a, ama kiangah om nuam sa-in,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>leitungah ka lungdam a, mihingte lakah nuam ka sa hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>“Tate aw, tu-in ka thugen hong ngai un la, kong gente zui le-uh cin thupha na ngah ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Hong kihilhnate zui-in pilna ngah un la, thudon loin mawk om kei un.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Ka thugenna ngai mipa, ni simin ka kong gei-ah omin, ka inn-ah a ngak mipa in thupha ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Kei hong mu mipa in nuntakna a mu hi a, Topa’ mai-ah maipha ngah hi.
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Ahi zongin kei hong mu lopa in amahmah a kisusia hi a, kei hong mudah peuhmah, a si nuam ahi hi,” hong ci hi.
+  </para>
+  <chapter number="9" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Pilna in a inn lam a, a inn ding khuampi sagih phut hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Amah in pawi bawl dingin sa go-in leenggahzu khaihin, an nek nading sabuai bawl hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Khua sung mun sang khempeuh panin mi sam dingin, amah in a nasem numeite sawl a,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>“Thu thei lote aw, hong pai un,” ci-in samsak a, mihaite kiangah,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>“Hong pai un la, ka huansa ka an ne-in, ka bawlsa leenggahzu hong dawn un.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Thu thei lote taisanin khan’sau un la, pilna lampi zui un,” ci sak hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mihaite thuhilh lecin hong maizumsak ding a, migilote thuhilh lecin hong sugawp ding hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Mihaite thuhilh kei in, hong mudah ding hi. Mipilte thuhilh in, hong it ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mipilte thuhilh lecin pil semsemna-in nei ding a, thuman mite thuhilh lecin a thu theihna khang semsem ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Topa zahtakna in pilna kipatna hi a, Siangtho Pa theihna in thumuhna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Pilna in na khang hong khan ding a, na nuntakna hong sausak ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Pil lecin nangma phattuam nading hi a, pilna don kei lecin nangma sup nading ahi hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Haina in a kamtam, zumna meel thei lo numei tawh kibang a,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>ama kong gei-ah ahi a, khuasung mun sangpen ah ahi zongin tu a,
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>ama kiang a nawkkha, amau’ nasep bek a phawk kimlai mite kiangah,
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>“Thu thei lote aw, hong pai un,” ci-in samin, mihaite kiangah,
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Tui dawnsim, khum diak a, annek sim, lim diak hi,” ci hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua lai-a a paite a sihna thu, tua lai-a lutsate sihna gamthuk sungah a om khitna thu, a khem zawh mite in phawk kha lo uh hi.
+  </para>
+  <chapter number="10" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Solomon’ paunakte in:
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Thuman lo-a ngahna-ah phattuamna om lo a, thumaanna in sih nading pan hong hon hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Topa in mihoihte a gil kialin koih lo a, migilote a duh uh ne sak lo hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Thadahna in zawn’na hi a, thanuamna in hauhna hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>A hun-a an lapa in mipil hi a, an lak hun-a a ihmu-pa in maizumna ngah hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Mihoihte in thupha ngah a, migilote in thusia bekbek gen hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mihoihte kiphawkphawk a, migilote kimangngilh pah hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Mipilte in thuhilhna mang a, a haipaute in lungkhamna tuak hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Thuman mite lungnuamin om hithiat a, thuman lote kiman hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Khialhna kimuhmawh bawlna in buaina piangsak a, hang tak-a hilh ngamna in nopna piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Mihoihte’ kampaute in nuntakna tuinak bang a, migilote in thusia bekbek gen hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Muhdahna in kitotna piang sak a, itna in mawhna khempeuh maisak hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Thu ngaihsun theite’ kam sungah pilna om a, mihaite’ nungzang ah ciangduai kinga hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Mipilte in a pilna uh behlapin, mihaite a pau ciangin thusia tawh kizom pah hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Hauhna in mihaute hu a, zawn’na in mizawngte siasak hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Mihoihte’ thaman in nuntakna hi a, migilote’ thaman in daantatna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Kihilhna man’na in nuntakna lampi zuihna hi a, hilhna man’nop lohna in lauhuai lampi zuihna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Mi a mudahte bekin zuauthu gen a, mi a gensiate in mihai ahi hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Kam tam paute, tampi khial a, pau ip theite mipil hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Mihoihte’ thugente in nguntang bang a, migilote’ ngaihsutna in bangmah man lo hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Mihoihte’ thugente in mi tampi nuamtuam sak a, mihaite in a hai sihpih uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Topa’ thupha in mite hausak a, dahna, gimna tawh piakhawm lo hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mihaite in gamtat siat ding nuam sa uh a, thu ngaihsun theite in pilna gamtatna nuam sa uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Migilote tungah a kihtaktak uh tung a, mihoihte in a deihdeih uh ngah uh hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Huihpi a nun’ ciangin migilote len’mang a, thuman mite lungmuangin om tawntung uh hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Leenggah tuithuk in ha kimsak a, meikhu in mit a sipsak bangin, mi thadah in a cialpa a nasak hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Topa zahtakna in khan’sausak a, migilote khan’ sih hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mihoihte’ lametna in lungdamna hi a, migilote’ lametna in a hawmpi hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Topa in midikte hu a, migilote susia hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Midikte lungmuangin mun khatah teeng tawntung ding uh a, migilote in teen’ nading mun ngah zo lo ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Midikte in pilna thu gen uh a, thuhoih lo a gente’ leei ki-attan ding hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Midikte in a gen ding thuhoih thei a, migilote in thusia bekbek gengen uh hi.
+  </para>
+  <chapter number="11" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Topa in tawikhaina man lo a zangte mudah a, tawikhaina man a zangte tungah lungkim hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Mi kiphasakte in minsiatna ngah pak ding a, lungsim niamkhiatna tawh pilna kingah hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Midikte thuman in gamta uh a, amau’ hoihlohna tawh migilote kisusia hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Hauhna in na sih nading panin hong hu thei lo a, thumanna in na sih ding hong hu thei hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Thumanna in midikte’ nuntakna a nuam zaw-in piangsak a, migilote in amau’ gitloh mah puklawh uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Thumanna in midikte honkhia a, thuman lo mite in amau’ huaihamna mah awkpih uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Migilote a sih ciangin a lametna teng tawh beikhawm a, hauhna suan’na in a mawkna suak hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Lungkhamna a tuah loh nadingun midikte kihu a, migilote tungah lungkhamna tungzaw hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Pasian a ngaihsun lo mite’ thugenna hangin mite in siatna thuak a, midikte’ pilna hangin mite in gupna ngah uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Midikte a tuahphat ciangin khua sungah lungdamna om a, migilote a sih ciangin zong khua sungah lungdamin kikona om hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Thuman mite’ omna hangin khuapi a lian suak a, migilote’ kampauna hangin khuapi kisia hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Simmawhna tawh midang hopihna in haina hi a, mipilte pau loin om dide hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Mi a gensia-siate’ tungah thusim kigen ngam lo a, a muanhuai mite tung bekah thusim kigen ngam hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Thu lamlak ding a nei lo mihingte kipuk uh a, thu lamlak tampi neihna in lungmuan’ na hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Midang khat’ leiba lohsak ding na kiciam leh na kisik ding hi; tua bang thu-ah kihel kei lecin nang adingin hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>A dik numei kizahtak a, dikna nei lo numei in mindaina hi. A thadah mi in sum nei ngei lo a, a hahkat mi in sum hau hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Migi lecin nang adingin ahoih bawl na hi a, gilo lecin nangmahmah a kigimsak na hi bek hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Migilote in a man nei taktak bangmah ngah lo a, thuman-a gamtate in pel loin thaman hoih ngah hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Thu man-a gamtat ding a hanciamte nungta ding a, asia-a gamta teiteite si ding hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Topa in lungsim gilo mite mudah a, a man-a gamtate tungah lungkim hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Migilote in daan a thuak hamtang nading, midikte daan tawh a kipelh nading thei in.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Thu a ngaihsun thei lo numei meelhoihna in, vokpi muk-a om kham nakbah tawh kibang lel hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mihoihte’ deihna thuhoih tawh kizom tawntung a, migilote’ deihna a tun’ ciangin mi khempeuh heh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mi pawlkhat in sum zang ziahziah napi-in hau semsem a, mi pawlkhat in cil mahmah napi, zawng semsem hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>A cingh mite hau semsem ding a, midang a huhte in huhna mah ngah kik ding hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>An man khan’ ding ngakna-in a zuak nuam lote kisamsia a, lei nop hun-a a zuak pahte kiphat hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Thuhoih a hanciamte in pahtakna ngah a, siatna a hanciamte in siatna mah ngah hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Tuk lai-a singteh tam bangin midikte’ hauhna khang ding a, phabi lai-a singteh pulh bangin hauhna suangte kiam ding hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>A innkuan sung a uk khial mite hawmsuak ding a, a haite mipilte’ sila suak tawntung ding hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Midikte’ gah in nuntakna singkung hi a, nuntakna Khate a man mi in mipil ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Mihoihte, hih leitungah thaman kipia ahih leh, migilo leh mawhneite, gimna kipiazaw kan ding hi.
+  </para>
+  <chapter number="12" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Pilna a deihte in kithuhilh ding ut a, kitai ding ut lohna in haina hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Mihoihte in Topa’ maipha ngah a, siatna a gamtate Topa in mawhsak hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Gitlohna in lungmuan’na piangsak lo a, thuman mite lungmuang takin om uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Zi hoih in a pasal’ minthan’na leh lungdamna hi a, a pasal a maizumsak zi in a pasal adingin a dam thei lo guhnatna tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Thuman mite in a kilawm a kituakin hong bawl a, migilote bek in hong khem nuam hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Migilote’ thugente in mi thahnopna bekbek hi a, midikte’ thugente in a lauhuai sunga om mite honkhia hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Migilote in sihna tuakin ci-mang a, thuman mite nungta-in khang kizom hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Mipilte kiphatin kipahtawi a, mihaite kineu-et hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Nektawm ding nei lopi-in milianpi bang-a omna sangin, nuntak nading nasem-a mi mawkmawk hihna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Midikte in a gannote hoihtak don a, migilote in a gannote bawlsia hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Nakpi tak-a lokhote in an hau a, man nei lopi-a hun beisakna in haina hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Migilote’ belh mun muanhuai in leikhal bangin kitamzan a, mihoihte’ zung kip tawntung hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Migilote’ in a zuaugenna uh awkpih a, thuman mite, buaina tawh kipelh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Mite in kamhoih pauna hangin thaman ngah a, a sepna bangun zong thaman ngah hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Mihaite in amau mah thuman kisa tawntung a, mipilte in mi’ thugenna ngai nuam uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Mihaite in a hehna uh langsak pah a, mipilte in a hehna uh iip zo hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Thuman mite in thu taktak mah gen uh a, zuau tecite in khemna thu bek gen uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Ngaihsun lo-a kampauna in temhiam bangin mi liamsak thei a, mipilte’ kampauna in tua bang liamna damsak thei hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Thuman genna kip tawntung a, thuzuau genna tomno sung bek kimang hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Thusia ngaihsunte lungkham a, thuhoih vaihawmte lungdam hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Thumante tungah thusia tung lo a, migilote, lungkhamna tawh kidim hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Topa in zuau gen mite mudah a, mi citakte tungah lungdam hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mipilte in a theihna uh im khinkhian a, mihaite in a haina uh pholaklak hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mi thunuamte a vang lian a, a thadahte sila suak hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Lunghihmawhna in lungkhamna piangsak a, kampau hoih in mi lungdamsak hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Midikte in a gamtatna uh tel-et a, migilote, a gamtatna un lam pialsak hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Thadahte, a tup tung ngei lo a, thanuamte in a deih ngah hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mi thumante’ gamtatna in nuntakna piangsak a, mihaite’ gamtatna in sihna piangsak hi.
+  </para>
+  <chapter number="13" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Ta pil in a pa’ hilhna mang a, a kihisak mi in akhial min pua nuam lo hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Mihoihte in a kamsiamna bangun thaman sang a, mizuaute in siattat ding bek ut uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Pau a ki-ip zo mi in a nuntakna a hu hi a, a mawk paupau mi in amah a kisiasak tawm ahi hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Thadah mi in a deih ngah zo lo a, nasep hahkat mi in a deih khempeuh ngah zo hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Thuman mi in zuauthu deih lo a, a gilo mi in gensiatna leh mindai nading bek pau hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Diktatna in midikte hu a, gitlohna in mawhneite’ pukna hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mi pawlkhatte, zawng napi-in kihau sak uh a, mi pawlkhatte, hau napi-in kizawngsak uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Mihaupa’ sum hauhna in a nuntakna tankhia zo a, mizawngpa in kitat nading bangmah nei lo hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Thuman mite, khuavak bangin taang lela a, migilote meivak bangin mit pak hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Hilh ding ut lo a, kihihsakna in kitotna bek piangsak thei a, hong kithuhilh ding utna in a hoihzaw ahi hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Ol tak-a hauh pakna in kiam kik pah a, haksapi-a hauh tohna in khang semsem hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Lamet tun’lohna in lungsim cinasak a, deihna tangtun’na in lungdamna hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Thu kihilh ding ut lohna in siat ding utna hi a, thu kihilhna zuihna in lungnopna hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Mipilte’ thuhilhna in nuntakna tuinak bang hi a, sihna thang tawh kipelhna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Thu ngaihsut theihna in maipha ngahna hi a, zuautatna in lungkhamna bek piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Thu ngaihsun theite, pilna tawh gamta a, mihaite in a haina tangkoko hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Kamtai ginalo in mi lungkhamsak a, a citak thu puapa in mi lungdam kik sak hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Thu kihilhna zui lo mi in zawn’na leh mindaina ngah a, thu kihilhna a zui mi in minphatna leh pahtawina ngah hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Deihna ngahna in lungsim nuam sak a, siat gamtatna panin mihaite pialkhia nuam lo hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Mipil tawh kikhawl lecin na pil ding a, mihai tawh kikhawl lecin gimna na thuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Tuahsiatna in mawhneite sulzuih kawikawi a, midikte tuahpha kawikawi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Midikte in a tu a tate’ luah ding gamh nei a, mawhneite neihsate ahih leh midikte’ ading hi lel hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Lo thak panin mizawngte’ khamkhop ding an piang kha ding a, ahi zongin thuman lohna hangin tua nangawn maimang thei ding hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>A ta a tai nuam lote in a mudah hi a, a ta a itte in lim takin thuhilhin tai hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Thuman mi in a kham ding nei-in a gil vah a, a gilo mi in nektawm ding nei loin a gil kial hi.
+  </para>
+  <chapter number="14" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Numei pilte in innsung nuntakna khangsak a, numei haite in innsung susia hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Thuman-a gamta mite in Topa zahtak a, a sia-a gamta mite in simmawh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Mihaite a pau ciangin satna thuaklawh uh a, mipilte’ pauna in sat nading pan pengsak hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Bawngtal om kei leh lo panin an tawm bek kila a, bawngtal’ tha tawh an kihau hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>A citak teci in thuman bekbek gen tawntung a, a gina lo teci in zuauthu bekbek gen tawntung hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Mi a simmawh theite in pilna a zon’zon hangin ngah zo lo a, thu ngaihsun theite in olno takin ngah thei uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mihaite tawh kikhawl kei in, amau’ kiang pan pilna na ngah kei ding hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thu ngaihsun theite a pilna in lampi man musak a, mihaite a haina in lam khialsak hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mihaite in a khialh hangun phamawh sa lo uh a, mipilte a khialh ciangun mawh maisak ding deih uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Lungdamna leh lungkhamna eimah bek in i theih hi a, midang kuamah in hong phawkpih kha lo hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Migilote’ inn kisusia ding a, thuman mite’ inn kipin gina semsem ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Mihingte in thuman lampi hi a cih khakte pen, sihna lampi na hi kha thei hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Nuihna in cihmawh seelna zong hi thei a, kigualnop sakna a ven’ciangin dahna hong kilang kik hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Misia in siatna thaman ngah a, mipha in phatna thaman ngah hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Mihaite in a thu zak peuh um pahpah a, mipilte in a gamtat nading ngaihsun cian hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Mipilte in Topa zahtakin siatna panin kihem a, mihaite in thu ngaihsun masa loin gamta pahpah hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>A lungtom mite hai gamtat a, ngaihsutna hoih lo a neite kimudah hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Mihaite in haina bek mah ngah a, mipilte in pilna mah ngah thuah hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Migilote in mihoihte mai-et uh a, maipha a piak nading uh thuum uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Kuamah in mizawngte ngai lo a, mihaute in lawm tampi nei hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Mizawngte a simmawhte a khial hi a, mizawngte’ tungah a cinghte thupha ngah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Na a hoih a semte, mite in muangin zahtak a, asia gamtatna in khialhna lianpi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Gimpi-a nasepna in hauhna hi a, kam bek pau-in tut mawkna in zawn’na ahi hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Pilna in mipilte’ minthan’na lukhu hi a, haina in mihaite’ kizepna bulpi pen ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Thutak a gen teci in nuntakna hu zo a, thuzuau a gen teci in mi lehhek hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Topa a zahtak mi in lungmuanna nei a, a tate’ belh theih ding ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Topa zahtakna in nuntakna tuinak tawh kibang a, sihna thang tawh kipelhsak hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mi tampi a uk kumpipa a minthang a, a uk ding mi om kei leh a mawkna hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>A lungduaite mipil hi a, lungtomna in haina kilatna hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Lungnopna in pumpi cidamsak a, hazatna in guh muatsak natna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Mizawngte bawlsiatna in a piangsak Pasian simmawhna hi a, mizawngte tungah citna in Pasian zahtakna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Migilopa, ama tatsiatna in puksak a, mihoihpa, ama hoihtatna in hu hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Thungaihsun theite’ lungsim sungah pilna teeng a, mihaite in pilna thei kha lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Thumanna in minam minthangsak a, mawhna in minam mindaisak hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>A hoih-a gamta mite tungah kumpipa lungdam a, a gina-a gamta lote daan pia hi.
+  </para>
+  <chapter number="15" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Kam neem-a dawn’na in hehna damsak a, kamkhauh in hehna piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Mipilte in pilna thu gen a, mihaite in haina thu gen hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Topa’ mit in mun khempeuh mu a, misia, mipha, hong encik kim hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Kamkhum in nuntakna piangsak a, kamsia in lung gimsak hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>A pa’ hilhna a ngai nuam lote mihai hi a, hilhna a mang nuamte mipil ahi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Thuman mite’ neihsa kip a, migilote’ hauhna in lungkham guan hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mipilte’ kampauna in pilna khang sak a, mihaite lungsimah thuman lohna bek om hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Topa in migilote’ biakpiakna kihhuai sa a, thuman mite’ thungetna-ah lungdam hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Topa in migilote’ gamtatna kihhuai sa a, thuman a deih mite a it hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>A gamta khial mite, nakpi takin kithuhilh a, kithuhilhna a mang nuam lote in sihna thuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Topa in sihna gam sunga omte nangawn mu thei ahih leh, mihingte ngaihsutna telmuh zawkan ding hilo ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>A kihisak mite in kithuhilhna ngai nuam lo uh a, mipilte kiangah thu dong ngei lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Lungdamna in mai taiisak a, lungkhamna in mai gumsak hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Thungaihsun theite in pilna zong a, mihaite ahih leh theihlohna tawh lungkim hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Mizawngte, a lungkham hi tawntung a, a lungdam mite in nuntakna nuamsa mahmah uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Hau napi-a lungkham sangin, zawng napi-a Topa zahtakna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Kitawngtawng kawm-a sa meh limpen nekna sangin, ki-it diamdiam-a anteh meh nek hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Lungtomna in kitotna piangsak a, lungduaina in kilemna piang sak hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Mi thadahte in mun khempeuh ah haksatna tuak a, mi thumante in haksatna tuak kha lo hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Ta pilte in a pa lungdam sak a, mihaite in a nu simmawh hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Mihaite in a hai mah uh lungdampih a, mipilte ahih leh a manin gamta uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Lim ngaihsut lo-a sepna tawh bangmah piang zo lo a, ngaihsut piaknate tawh ma kitun’ zo hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>A hun mah-a dawn’ pah theihna lungkim huai a, a kilawm kammal tawh dawn’ pah theihna hoihzaw kan hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mipilte in nuntakna lampi zuito uh a, sihna lampi zuisuk lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Topa in mi kiphasakte’ inn phelkhiatsak a, meigongte’ neihsa hutpih hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Topa in migilote’ ngaihsutna kihhuai sa a, midikte’ kampaunate hoih sa hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>A man lo-a sum ngahna in innsung lungkham sak a, sumgolh a deih lote a nuntak sauvei nuam hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mihoihte in a kampau ding ngaihsun phot a, migilote’ paupakna in thusia tawh kizom hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Topa in midikte’ thungetna ngai a, migilote’ thungetna don lo hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Maitaina in lung nuamsak a, thuhoih zakna in lung damsak hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Kithuhilhna zuih theihna in, mipilte’ lak-a kihel theihna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Kithuhilh ding a ut lote amahmah a kisusia hi a, kithuhilh ding a utte pil semsem hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Topa zahtakna in pilna mah hi pah a, kiniamkhiatna in pahtawina hong ngah sak hi.
+  </para>
+  <chapter number="16" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Mite in bangbang a geel zongin, Topa’ deihna bang bekin a piang ding hi zaw hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Mihingte in a gamtatna uh-ah man kisa a, ahi zongin Topa in a khenna khat na om hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Na nasepnate khempeuh ah Topa ap in, tua hi leh na geelna bangin tangtung ding hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Topa in na khempeuh ngimna nei-in bawl a, migilote nangawn siatna thuak dingin a bawl ahi hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Topa in akihisak mite mudah a, daan a thuak hamtang nading uh, thei in.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Thumanna leh cihtakna in mawhmai ngahna hi a, Topa zahtakna in siatna tawh kipelhna hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Topa’ deih bang-a gamtatna in, galte nangawn lawm-a kaih zawhna hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thuman lo-a hauhna sangin, thuman-a tawmno neihna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mihing in thu geel a, ahi zongin Topa’ deihna bangin kisemkhia hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Kumpipa in thuman gen a, thu a khen ciangin khial ngei lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>A maan tawikhaina leh tawitehnate Topa’ aa hi a, tawisuang khempeuh ama bawlsa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Thuman-a gamtatna bek in kumpi kipsak ahih manin, asia-a gamtat ding kumpite ut lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Kumpite in thuman genna deih uh a, thuman a gen mite it uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Kumpipa heh leh mi khatpeuh in sihlawh thei a, mipil khat in kumpipa lungdamsak thei hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Kumpipa maitaii leh nuntakna hi a, ama pahtakna in tuk-guah a zusak meiipi tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Kham sangin pilna hoihzaw a, ngun sangin thu theihna deihhuai zaw hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Mihoihte in siatna tawh a kipelh ding lampi tawn a, a lampi tot limtak-a a ngaihsun mi in a nuntakna a hu ahi hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Kisaktheihna in siatna hong tuak sak a, kiphatsakna in pukna hong piang sak hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Mi kihisak tawh kipawlin van kisutte ngahna sangin, mizawngte tawh kikhawlin mi neu-a om hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Thuhilhna a mang mite, a maa vang ding a, Topa a muang mite, thupha ngah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Lungsim pilte in thu muhna tawh kam pau uh a, amau’ kam khumna, zaknophuai kisa semsem hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Pilna in mipilte’ adingin hin’na tuinak bang hi a, mihaite ahih leh amau’ haina mah in daan thuak sak hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mipilte in thu ngaihsun kawmin kam pau uh a, amau’ pauna zaknophuai semsem hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Kam khum in khuaipizu bang hi a, a kam-ah khum a, guh leh tangte adingin cidamna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Hoih hi, ci-a i ngaihsut khak thu khat pen, sih theih nading thu na hi thei zawsop hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>An duhna in mi na semsak a, gilkialna in nak sepsak semsem zaw hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Migilote in siat nading bek zongzong a, a kampaunate uh na a kangtum thei meikuang tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mihoih lote in kitotna piang sak a, mi gensiate in lawmta ki-it kimlai kimuhdah sak hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>A ngongtat mite in a lawmte zol a, lungkhamna sung tun’pih hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>A mit hong sitsante in thusia a ngaihsun hi a, a neh hong piksante in thusia geel ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>A teekte’ samkaang in minthan’na lukhu hi a, thuman-a nuntakna tawh a ngah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Vangliatna sangin lungduaina hoihzaw a, khuapi khat ukna sangin eima pumpi ki-uk zawhna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Mite in bangbangin ai a san zongin, a piang ding thu in, Topa’ deihna bang bek hizaw hi.
+  </para>
+  <chapter number="17" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Kitawng kawmin pawipi sungah an nekna sangin, lungnuam takin moh keu themkhat nekna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>A pil silapa in a topa’ ta hai tungah aana nei-in, a topa’ gamh pawlkhat a luah hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Kham leh ngunte, mei sungah kize-et a, mihingte’ lungsim, Topa in ze-et hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Migilote in gitlohna thu mah ngaih-in nei a, zuautheite in zuauthu mah ngaih-in nei hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>A zawngte a simmawhpa in amah a Piangsakpa a simmawh hi a, midangte tuahsiatna-ah a lungdam mipa in daan tuak hamtang ding hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tute in puteekte’ minthan’na lukhu hi a, pate in tate’ minthan’na ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Miliante in zuauthu gen ngei lo a, mihaite in na-a kimang kampau ngei lo hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Sumgolh a zangte in ai bangin ngaihsun uh a, a deih khempeuh uh a ngah sak dingin ngaihsun uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mi’ khialhna a maisakte, midangte in it-in lawm hau uh a, mi’ khialhna ciamtehna in lawm taanna hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Mihai khat, zavei a kisatna sangin, mipil khat, khatvei taina in bunzaw hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Thusia bekbek a deih tawntung migilote kiangah, a gilo kamtaipa bangin sihna tung ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Mihaite a hai gamtatna uh i tuah khak sangin, a no a kilaksak vompi hang khat tuak leeng hoihzaw lai hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Thuhoih kimlai thusia tawh a thukte’ inn sungah, cik mahin thusia veng cih om ngei lo hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Kitot i kipat ciangin tui lipi cin’na phung kehsak khak tawh kibang hi; tua ahih manin a nasiat ma-in kitot khawl pak in.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Migilote khahkhongna, leh thuman mite mawhsakna, a nih tuakin Topa in deih lo hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Mihaipa in thu ngaihsut theihna nei lo ahih manin, pilna zon’ nading sum tampi a zat hangin a phattuamna om lo hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Lawm citak in a tawntungin hong it a, i sanggamte in i lungkhamna hong thuakpih dinga piang ahi hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Thu a ngaihsun thei lo mihaite bek, midangte’ leiba lohsak dingin kipia ngam hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Khialh ding a utte, lungkham ding a ut hi a, kihisak-a paupaute, buaina zongzong ahi hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Lungsim hoih lote in lungdamna mu lo a, mi a khem theite in lungkhamna tuak hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Tapa hai in a pa’ lungkhamna hi a, tahai a neipa a lungdam lo hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Mai taii-na in ci damsak a, mai gum tawntungna in guhtui teep kang hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>A ginalo thukhente in sumgolh sang sim uh a, a thukhenna uh ah thuman om nawn lo hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mipilte in ahoih pen-a gamtat nading thei a, mihaite in a cih nading meel uh thei lo hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Ta hai in a pa dahsak a, a pian’na a nu zong lungkhamsak hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>A thuman mi daan piak ding hoih lo a, mihoihte satna in thu-khialhna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Thu a thei taktakte in gengen khol lo a, a paupau khollote thu mu taktak hizaw hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mihaite nangawn pau loin om leh a pil mah-in kingaihsun hi; thu ngaihsun thei na hihna a kilat nadingin pau loin om in.
+  </para>
+  <chapter number="18" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Midang tawh a kipawl thei phalote pen amah bek thupi a kisate hi a, midangte’ cih khempeuh maan a sak khatbeek om lo hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Mihaite in thu a tel theih zawh nading uh kin lo uh a, pil si, a kicih theih nading bek deihna tawh thu gen uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Mawhna bawl leeng maizumna tawh kizom pah a, minsiatna ngah leeng mindaina tawh kizom pah hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Mihingte’ kampau in pilna kipatna suak thei a, tuipi bangin thukin, luitui bangin siang hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Mi mawhte angvanin diksak ding hoih lo a, midikte mawhsak ding thuman lo hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Mihaite in kitot nading a pat ciangin, hong sat un, ci-a a ngenngen ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mihaite a pau ciangin amau’ siat nading mah kampau hi a, amau kampau mah awkpih uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Gensiatna in an a lim mahmah tawh kibang a, thakhatin i sungah kihupsuk hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Na a susia mite a hoih loh zah mahin, a thadahte zong mihoih lo ahi hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Topa’ min in tausang muanhuai tawh kibang a, thuman mite in beelin lungmuangin om thei uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Khuapi kim-a kulhpi in amah a hut bangin, a hauhna in amah a hu dingin mihaupa in ngaihsun kha hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>A kiniamkhiatte in zahtakna ngah uh a, a kihisakte in siat ding a manawh hi ta hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>A thu zakhin nai lopi-a dawn’kikna in, haina leh maizumhuaina ahi hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Mihingte’ lungsim in cinatna thuak zo sak a, mihing lungsim kisia leh cih nading dang om nawn lo hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Thungaihsun theite in a pilna uh behlap a, pilna a ngah nadingun mipilte in a bil uh tawh ngai uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Letsong in a piapa’ adingin lampi hon’sak a, miliante tawh kimusak thei hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Thukhenna zumah, a langpa in a thuk mateng, a gen masapa a thuman tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Thu a gen siam tuaktuak mi nih, zum sungah a kisel ciangin, kiciamna bek in thu khen zo hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Sanggamte huhna in khuapi muanhuai bangin hong hu a, sanggam tawh kitotna in kidon lohna piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Mi khat in a kampauna hangin gilvahna ngah ding a, a thugenna hangin nuntakna ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Kampauna in sihna ahi a, hin’na ahi zongin piangsak thei a, i kampauna banga piangte san’loh phamawh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Zi a mu zote na hoih a mu hi a, Topa’ maipha a ngah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mizawngte a pau ciangin thuumna kam zang a, mihaute in a dawn’ ciangin kihihsakna kam zang hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Lawm pawlkhatte, sauvei kimang lo a, lawm pawlkhatte, sanggam sangin kipzaw hi.
+  </para>
+  <chapter number="19" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Zuau gen-a mihai hihna sangin, citak-a zawn’ khiukheuna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Thu theilopi-a lawpluatna hoih-lo a, mawk nawhtatna in lungkhamna piangsak thei hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Mi pawlkhat in amau’ haitatna hangin gimna ngah hi napi-in, Topa ngawhin mawk heh uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Mihaute in lawm mu thuahthuah a, mizawngte in a neihsun teng nangawn khahsuah suah hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Thuman genlo teci in daan tuak pelmawh ding a, zuau gen mi suakta lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>A cingh mihaupa’ maipha ngah ding ki-ut ciat a, na a piak mi khempeuh ama lawm ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mi khempeuh in a sanggam zawngpa uh mudah ciat a, a lawmte in a taisatna thu lamdang hi lo hi. A nungah zui-in a sap uh hangin amaute kimu zo nawn lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Pilna a zongpa in ama phattuam nading a zong hi a, thu a thei mipa’ sepna mavang ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Thuman lo teci in daan tuak pelmawh ding a, zuau gen mi in sihna thuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Mihaite, a nop lua-a nuntak ding kilawm lo a, silate in, miliante a uk ding kilawm lozaw lai hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Pilna in mi lungduaisak a, mi’ hong hehsaknate kiphawkmawh bawlna in minthan’na hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Kumpipa’ hehna in humpinelkai hawk bangin lauhuai a, ama pahtakna in lopa tunga daitui taak bangin deihhuai hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tapa hai in a pa’ lungkhamna hi a, zi phunphun in a theu thei lo guahciin tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Inn leh neihsate in pate tung panin a kiluah hi a, zipil ahih leh Topa bek in hong pia thei hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>A thadahte lumlum a, a mawk omte a gil kial hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Thukham a zuite a khan’ sau ding a, thukham a zui lote si ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Mizawngte tungah a piate in Topa’ tungah a pia hi a, Topa in a cingin amaute tungah lohkik ding hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Thu hong man’ theih lai-in na ta thuhilh in; na hilh kei leh a siat nading a deih na hi hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Migilopa, ama thuak ding daan mah thuaksak zaw in; honkhia lecin, na hotkhiat kik zelzel kul ding hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Thu kigente ngai-in, hong kihilhte mang lecin, mailam ah mipil na hi ding hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Mihing’ ngaihsutna ah thu tampi om a, ahi zongin Topa’ deihna tawh a kituakte bek kimang ding hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Duhhopna in mindaina hi a, zuau genpa hihna sangin mizawng hihna hoihzaw lai hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Topa a zahtakte in nuntakna nei-in, lungkim takin nuamsa-in om uh a, siatna bangmah tuak kha lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>A thadah mi in a khut tawh ankuang sawk sukin, a kam ah an a bah tohkik ding nangawn ut lo liang hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Thu theilote in satna tawh pilna ngah zo bek a, thu ngaihsunte in taina lel tawh pilna ngah zo uh hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>A pa nawt gawpin, a nu a notkhia tapa in, zumna leh mindaina a piang sak tapa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Thuhilhna a mang nuam lo tapa in, pilna a thei kha lo ding tapa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Mi a susia nuam teci in thuman gen nuam lo a, migilote in gitloh tatna nuam sa uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Mi a thusim lote in ciangduai thuak a, mihaite in satna thuak hi.
+  </para>
+  <chapter number="20" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Leenggahzu in kam tam sakin, khamtheih zu in kitawngsak a, zu khamna in haina ahi hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Kumpipa’ hehna in a lauhuai humpinelkai hawk bang hi a, kumpipa a hehsak khate in sih lawh uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Kitot khak ding pelhna in pahtak ngahna hi a, mihaite bek kitot ding ut uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Lo khawh hun-a a kho nuam lo thadahpa in, tuk anlak hun ciangin bangmah nei lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Mihingte’ ngaihsutna in a thuk sunga om tui tawh kibang a, thuthuk mu theite bekin suak khia thei hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Mi khempeuh in mi citakin kigen kim uh hi; ahi zongin a citak takpi ding mi kimu zo ding ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mi khat thumanin a hoihin a nuntak leh, ama suan-le-khakte mi hampha ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thukhenna tokhom tungah a tu kumpipa in, a mit-in a etna tawh a hoih lote khenkhia thei hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>“Ka lungsim siangtho hi; mawhna ka nei het kei hi,” a ci thei ding kua om hiam?
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tawisuang nam nih leh piciang nam nih zanga khemna, Topa in a deih lohna kibang hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Naupangte nangawn mi citak mihoih ahihna, a gamtatna panun kimukhia thei hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Topa in khuamuh nading mit, leh khuazak nading bil hong guan hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Lumlum lecin na zawng ding a, semsem lecin na hau ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Vanleipa in vanzuakpa kiangah, “Kiman kei, kiman kei,” ci ci a, a paikhiat khit ciangin sum dek siam ing, ci-in mi kiangah kisial hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Pilna tawh kam na pau theih leh, kham leh suangmanpha sangin a manphazaw a nei na hi hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Mi khat in gamdang mi khat’ leiba lohsak dingin kam a haiciam leh, a ciam bangin a neihsa kilaksak takpi ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>A man lo-a kingah an in lim zungzung a, ahi zongin a nung ciangin suangtang hai khak tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Hoih tak-a geelna, midangte ngaihsutna dotna tawh nasepna taangtung hi; geelna kician om lopi-in galsim dingin kipan kei in.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Mi a gensia kawikawite muanhuai thei lo hi; tua banga mihai paute tawh kikhawl kei in.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Na nu leh na pa na samsiat leh, khuamial sunga meivak kisumit na bang ding hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>A baihlam-a hauh pakna in, a tawpna ah phattuamna om lo hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Mite’ hong bawlsiatna thukkik ding ngaihsun kei in, Topa’ hong huh ding ngak in.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tawisuang nam nih a zangte, Topa in mudah a, amah in tawikhaina man lote hoihsa lo hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Topa in mihingte’ gamtat nading uk hi; koici gamtat ding cih mihing in bangci theih ding ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Pasian tungah piak ding na ciam ma-in hoih takin ngaihsun masa in; tua hi kei leh na kinungsik kha ding hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>A pil kumpipa in migilote tengkhia a, khasiat loin daantat gawp hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Topa in mihing lungsim meivak bangin zang a, i sung tawng dong hong entel hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Kumpipa in itna tawh thuman, thutang, citakin a uk lai teng, a kumpi za-ah kip bek hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Khangnote’ thahatna in amau’ minthan’na hi a, khanghamte’ sam kan’na in amau’ thupina lim ahi hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Nakpi tak-a satna in misia kimlai a pha hong suah a, nakpi tak-a vuakna in i sung tawng hoih lohna teng siangsak hi.
+  </para>
+  <chapter number="21" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Topa’ khut sungah kumpipa om a, lo sunga tui lak bangin a deihna peuhah hei kawikawi thei hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Na gamtatna khempeuh nangmah in man na sak hangin, Topa in na lungsim tawng a et telna phawk in.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Topa in biakpiakna sangin, thuman thutang deihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Kihisak-a gamtatna leh kiphatsakna lungsimte in, mawhna hi a, migilo hihna lim ahi hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Lim takin ngaihsunin geelna in hauhna lampi hi a, nawhsa-in lopthop hihna in zawn’na lampi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Zuau genna tawh hauhna in beimang pak a, sihna khuk sung hong tun’pih hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Migilote, a manin gamta nuam lo uh ahih manin, amau’ gamtat siatna mah awkpih uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Mimawhte thukawi-in gamta uh a, midikte a man-in gamta uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Phun bek a thei zi tawh inn sungah teen’ khop sangin, innkhumzang kiu khat-a tang teen’ hoihzaw tham hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Migilote in thusia bekbek deih uh a, a lawmte nangawn zah tuan lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Mi kiphasakte daan a kipiak ciangin mi mawkmawkte in pil lawh a, mipilte a kihilh ciangin thutheihna-in nei uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Midik in migilopa’ inn sung encik a, migilote lawnthalin siasak hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Mizawngte’ huh ngetna a pia nuam lote pen, amau zong cimawhin huhna a nget ciangun kipia lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>A simtham-a letsong piakna in hehna dam sak a, puan nuai-a tawi in sinsona dai sak hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Thutangin na a kisep ciangin midik khempeuh lungdam a, ahi zongin migilote lungkham hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>A kilawm gamtatna panin a pialkhiate, misi honte’ lakah tung hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>A noptat nuamte zawng a, zu ne a, sathau namtui nilhte hau lo hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Midikte’ thuak dingin a bawlsak uh gimnate pen, migilote mah in lehthuak zawsop uh hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>A phun hat zi gilo tawh teen’ khop sangin, gam simtham-a khat guak teen’ hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Mipilpa’ inn sungah neih leh lam a dim a ha-in om a, ahi zongin mihaipa in a ngah zahzah zangkhia pah hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Thuman thutakin gamta tawntung lecin, na khan’ sau-in, pahtawina na ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Mipil khat in mi thahatte’ hut khuapi la zo a, amau’ muanmuan kulhpi nangawn susia zo hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Kampau a ki-ip zote, lungkhamna tawh kipelh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mi kihisak i cihte pen, kiliansakin a kiphasak mite ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Mi thadahpa in na sem nuam lo ahih manin, amahmah a kithat tawm ahi hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Mihoih lote in lungkim hun nei loin deih thuah tawntung a, mihoihte cingh-in, piakhia tawntung uh hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Topa in migilote’ biakpiakna deih lo hi; ngimna hoih lo tawh a piakte uh deih lo kanlai hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>A manlo tecite mangthang ding a, thuman tecite’ kam kiza za ding hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Migilote in mi’ muan theih nadingin khauh pau uh a, midikte ahih leh lungmuangin kampau hiathiat uh hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Pilna, theihna, thugennate in, Topa’ mai-ah bangmah man lo hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Galdo nadingin sakolte a baihsa-in kikoih a, ahi zongin galzawhna pen Topa’ hang hizaw hi.
+  </para>
+  <chapter number="22" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Hauhna sangin min hoihna deihhuai zaw a, kham leh ngun sangin mi’ hong thusimna deihhuai zaw hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>A hau a zawng a kilamdan’na om lo hi; a nih tuak-in Topa’ bawlsa ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Mipilte in a lauhuai thu mu thei-in pelh uh a, mi mawkmawkte in phu suakin thuak uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Kiniamkhiat-a, Topa zahtakna thaman in, hauhna, minthan’na, leh khan’sauna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Migilote’ lampi-ah thang kisiahin so kidawh a, mipilte in tua lampi pelh uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Naupang khat a neu lai-in lampi man tawnsak lecin, a teek dongin lam pial nawn lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Mihaute in mizawngte uk a, leitawi a late in a piate’ sila suak hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thuman lo khaici a vawhte in lungkhamna tuak a, amau’ hehna ciangduai amau’ tung mah tu kik hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>A cingh mite in mizawngte an pia a, amah in thupha ngah kik hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Mi kiphasakte hawlkhia lecin, kitotna leh kisimmawhna bei ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Lungsim siangtho tawh kamsiamna in kumpipa’ lawm hong suaksak hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Topa in thuman mite kem a, ahi zongin thuzuau gente lawnkhia hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Mi thadahte inn-ah lumlum a, “pua pial leeng humpi’n hong hih kha’n teh,” ci uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Numei tunga mawhna in thangzak bang hi a, tua thang ah a awkte tungah Topa heh hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Naupangte a hai gamtat a ngeina hi a, deihsak-a satna in mihoih suaksak thei hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Hauh nop manin mihaute letsong pia leeng kizawn’lawh a, hauh nop manin mizawngte’ neihsa laksak leeng zong kihauhlawh tuan lo hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Na bil uh hong ngatin, mipilte’ thugen ngai un la, ka hong hilh pilna thute na lungsim uh ah lut sak un.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Na lungsim uh ah cing-in zang thei le uh cin, na lung uh dam tawntung ding hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Tua hi leh Topa muan’in na nei ding uh a, tu ni-in note’ phattuam nading kam pau ka suak ding hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Thuhilhna leh pilna thu nam sawmthum, hih lai munah note’ adingin ka gel a,
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>note hong sawlte tungah thuman na gen kik theih nadingun, thuman na theih nading uh ka deihna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Bangmah hong hih zo lo ding cihna tawh nuamtak sa-in, mizawngte’ neihsa mawksut kei in la, zum-ah khia-in mawk bawlsiat kei in.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Bang hang hiam cih leh Topa in amaute pan’pih ding a, amau a bawlsiate tungah phu laksak ding hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>A hehbaih mite tawh kipawl kei in la, a lungtom mite tawh kikhawl kei in.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Amau’ hoih lohnate na zuih khak loh nading na kidop kei leh, nangmah in zong na awk-lawh kha ding hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Midangte’ leiba lohsak dingin kamciamin, leiba tavuan la kha kei in.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>A leiba lohsak zo kei lecin, na lupna nangawn hong kidawh khiatsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Na pu na pate’ phuhsa gi-suang, cik mah hunin khin kei in.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Ama nasepna-ah a siam mahmah mi na thei kha hiam? amah in mi mawkmawkte’ na sem lo ding a, kumpite’ na sem ding hi.
+  </para>
+  <chapter number="23" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Mi liante tawh an nekhawm dingin na tut ciangin, na tutpihpa lim takin en in.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>An ngaklah thei mi na hih leh zong lim takin kidawm in.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Hong thangsiahna hikha thei ding ahih manin, tua an limte lunggulh lua pah kei in.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Hauh nop man bekin sum’ sila suak kei in la, a man loin gamta kha kei in.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Na ngahsa, sumte, mitphiat kalin bei mang thei a, muvanlai bangin thakhatin lengmang thei hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>A cil tentan mite’ an neksak kei in la, a an limte uh duhgawh kha kei in.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>“Ne ne in hong cih hangin,” a cih takpi hi lo hi. Na dangtawng hong sun samzang nek khak tawh kibang ding hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Na neksa teng na luakhia kik ding a, na kamsiam ngah teng maimang ta ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mihaite, pil hopih kei in, a manphatna phawk thei lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Taanglai gi-suang khin kei in la, tagahte’ leitang va keek kei in.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Amaute a Hupa in a tha hat a, nang’ lang khatah amaute pan’pih ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Hong kihilhnate zui-in la, pilna thu hong kigente ngai in.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Naupangte sat ding lunghiang kei in; satna hangin si lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Ciangduai tawh sat lecin, nuntak lawhzaw ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Ka ta aw, mipil suak lecin, ka lungdam mahmah ding hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Thuman na gen ciangin, ka nuam mahmah ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Mawhnei mite eng kha kei in la, Topa na zahtakna zom paisuak in.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua bang hi lecin lametna om a, ci-thei-in na khan’ a sau ding hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Ka ta aw, ka thu ngai in la mipil suak in; lampi man zuih ding ngaihsutpi-in nei in.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Zu ne nete tawh kikhawl kei in la, a uisante tawh kithuah kha kei in.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Zu nete leh a uisante zawng ding uh a, a ne bek-a nitumte in puansia bek silh zo ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Na pian’na na pa’ thu ngai in la, na nu a teek ciangin simmawh bawl kei in.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Thuman, pilna, siamna, thu ngaihsut theihna lei in; tuate zuakkhiat dingin pammaih lua hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Ta hoih a neipa in a lungdam ding a, ta pil a neipa in a ta tungah lungkim ding hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Na nu leh na pa a kipah nadingin gamta in la, na pian’na na nu lungdamsak in.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Ka ta aw, na lungtang kei hong pia in la, ka gamtatnate na mit-in en gige in.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Numei paktatte in kiat theihna gum tawh kibang a, numei ginalote in tangciak theihna hawkguam tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Gutate bangin nang hong buksim a, mi tampi tak siasak uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Kuate in gal nei a, kuate in dahna thuak hiam? Thu om lopi-in kuate liam a, thu om lopi-in kuate a mit san gega hiam?
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Zu ne-a a tut khote, zu a ne nete ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Hai sungah a phuan seuhseuh, gawl sungah a tum suk hit-hit thei, leenggahzu san etin nei kei in.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>A tawpna-ah gulpi bangin hong tu ding a, gul gu nei bangin hong tu ding hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Na mit-ah na lamdang dang hong suak ding a, hoih takin na pau thei nawn kei ding hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Tuipi tunga lum tawh na kibang ding a, a suk-awn a to-awn teembaw dawn-a tuang tawh na kibang ding hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>“Hong vuak hangun ka liam kei a, hong sat hangun ka phawk kei hi. Ka pilvan' ciangin zu ka ne kik ding hi,” na ci ding hi.
+  </para>
+  <chapter number="24" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Migilote eng kei in la, amaute tawh kikhawl kei in.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Amaute in tatsiat ding bek ngaihsun uh a, thusia bekbek genin nei uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Pilna tawh inn kilam a, ngaihsut siamna tawh inn kip hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Thu ngaihsut theihna a omna inn sungah, ahoih amanpha nate a dimin om hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Thahatna sangin pilna hoihzaw a, thakhauhna sangin thutheihna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Geel siamna tawh galte kizo a, ngaihsut siamnate tawh gualzawhna kingah hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Pil kampauna in mihaite’ theih zawh dingin thuk lua a, mihon lakah mihaite in thu gen ngam lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thusia lamsang a deih mite, thusia bawl mi kici hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mihaite’ vaihawmna in khialhna bek piangsak lel a, mi a simmawh theite, midangte in mudah uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Haksakna na tuah ciangin na lung a kiat leh, a gina lo mi na hi hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Thah dinga a kikai khia mipa honkhia in la, sih nading mun a zuan mipa leh kaih in.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Ke’n thei kha kei ing, na cih nop hangin, lungsim a thei Pasian in tel veve a, nang hong encik Pasian in hong tel theihna phawk in; mi khempeuh a gamtatna bangin thukkik ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Ka ta aw, khuaizu khum ahih manin ne in; khuailuzu in i kam-ah khum mahmah hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Pilna in i nuntakna ah khuaizu tawh kibang a, pilna nei lecin mai lamah lametna om a, na khan’ hong sausak ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Migilote’ gamtat bangin, thuman mite’ omna sugawp kei in la, amau’ teen’na inn luhgawp kei in.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Mihoihte, sagih vei dong a puk hangin thokik kik thei a, migilote ahih leh tuahsiatna tuakin kithallot hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Na galte in gimna a ngah ciangin lungdam kei in la, a puk uh ciangin kipak kei in.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Bang hang hiam cih leh, Topa in hong thei-in nang tungah lungkim lo ding a, na galte tungah heh tat nawn lo kha ding hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Migilote hangin na lung nuammawh sak kei in la, amaute eng kha kei in.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Amaute in mai lamah lamet ding bangmah nei lo hi; amaute’ meivak kisukmitsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Ka ta aw, Topa leh kumpipa zahtak khawm in la, amau a langpangte tawh kipawl kha kei in.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tua bang mite thakhat thu-in kisugawp thei ding hi. Pasian leh kumpipa’ pian’sak theih ding gimna, kuamah in genkhol thei lo hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mipilte’ thugen dangte in: Mi langmuh-a thukhenna hoih lo hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mimawh kim lai a diksak thukhenpa, leitunga mi khempeuh in mudahin phuisam ding hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>A mawh mi daan a pia thukhenpa ahih leh, thupha kipia-in a dau pai ding hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>A man tak-a dawn’kikna in, lawm taktak hihna lim ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Na nuntak nading zong masa in la, na an nek ding a kicin’ ciang bekin, na inn ding lamin zi leh ta nei pan in.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Thu kician om lopi-in na vengpa langkhatah teci pang kei in la, ama siat nadingin zuauthu gen kei in.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Kei tunga hong bawl bangin kei zong ka bawl ding a, ama hong hihna bangin ka thuk ding hi, ci kha kei in.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Mi thadahpa’ lo gei-ah ka va pai a, mihaipa’ leenggui lo ka nawk kha hi;
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>ka et ciangin a locing bup-ah kiak dim a, a leitang khempeuh lopa in khuh a, a umna a phungcian’ suangte kicim khin hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Tua bang ka muh ciangin thu ka lungngai a, thu manpha khat ka mukhia hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Tawmkhat ihmutna, tawmkhat lusukna, tawmkhat sung na sem loin khut zepna hangin,
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>i tungah zawn’na hong tung a, cihmawhna in hong khuhcip hi.
+  </para>
+  <chapter number="25" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Judah kumpi Hezekiah’ lai-atte in a tei Solomon’ paunak dangte:
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Pasian in thu a ip manin minthang a, kumpite in thu a gen khiat manin minthang hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Vantung sang lua a, lei sung a thuk luat mah bangin, kumpipa’ ngaihsutna thuk lua-in kithei zo lo hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Ngun a ek teng paaikhia lehang, siksekpa in na hoihpi piangsak thei hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Kumpipa kiang pan migilote nilkhia lehang, thuman-a ama ukna kip thei bek hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Kumpipa mai-ah na om ciangin milian kineih kei in la, miliante’ tutna ding munah tu kha kei in.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Uliante a awn dingin hia lai-ah va tusuk in hong kicih sangin, hih lai-ah hong tuto in, hong kicih ding hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thu khatpeuh na theih ciangin, thukhen zum tun’ pah kei in. Na vengpa in nang’ khialhna hong laktel kik leh, nang’ bang lawh nawn ding na hi hiam?
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Na thuneihpih na vengpa bek mah tawh thu kisel in la, mi khat’ thusim midang tungah genthaang kei in,
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua hi kei leh amah hehin nang hong maizumsak ding a, na minsiatna bei ngei lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>A kilawm hun-a kammal khat paukhiatna in, ngunpeek tunga kham tang khat a kisuang tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Hilhna a sangthei mipa’ adingin a pil thuhilhpa in, kizepna kham bilbah tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Amah a sawlte tungah a citak kamtaipa in, an lak hun-a tuikhal vot tawh kibang a, a tote’ lungsim thak suaksak hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Bangmah a piak lohpi a kisialhpihpa in, guah a zusak tuan lo meiipi leh huihpi nung tawh kibang lel hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Lung duai-a zolzolna tawh gam ukte kizo thei a, kamnem-a pauna tawh aana neite kizo thei hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Khuaizu na nek ciangin a hoih khop zah bek ne in; tua hi kei leh kham lua-in na lua ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Na vengte inn-ah hawh mun lua kei in; hong cimtakin hong mudah kha ding hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>A lawmte’ lang khatah teci man lo a pang mi in, molhtum, namsau, ahih kei leh thaltang hiam tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Haksat hunin a zuautat mi muan-a neih khakna in, ha na, ahih kei leh khebai tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>A dah a lungkham mipa kianga lasakna in, khuadam lai taka puan suahkhiat tawh kibang a, meima ci-al nuh tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Na galte a gil a kial leh an pia in la, a dang a taak leh tui pia in.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tua hi leh amau’ maizum nadingin a bawl na hi a, Topa in nang tungah thaman hong pia ding hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Leilu lam huih in guah a zuksak bangin gensiatna in hehna piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Phun bek a thei zi tawh inn sungah teen’ khop sangin, innkhumzang kiu khat-a tang teen’ hoihzaw tham hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>A dangtak mipa in tuivot lim a sak bangin, gamlapi-a om lawmte kiang pan-a thupha zak nuam kisa hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Mihoih khat in mihoih lote’ gamtatna a zuih khak ciangin, hawktui nin, ahih kei leh tui uih tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Khuaizu tamlua nek ding a hoih loh bangin, phat ding deih luatna in hoih lo hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Ama lungsim a ki-uk zolopa in, dalna kulhpi a nei lo khuapi tawh kibang hi.
+  </para>
+  <chapter number="26" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tuk lai tak-a vukkia, leh an lak hun-a guahzu bangin, pahtawina in mihaite’ adingin a kilawmna om lo hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Thu om lopi-in hong kisamsiatna in bangmah hong cih thei lo a, khawlna mun mel a nei lo a lengsuk a lengto Phialphiah tawh kibang lel hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Sakolte sat ding kisam a, Late kamkaih bulh ding kisam a, mihaite zong satloh phamawh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Mite’ hai thudotna dawngdawng lecin, nang zong amau mah banga a hai na hi hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Mihaite a pil kisa kha ding uh ahih manin, amau’ haina tawh kizui-in dawng in.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Mihai khat kamtai-a a zangpa in, ama khe mah a sattan tawm, siatna a zongpa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Khebaipa’ khe, kiman’na om loin a kikhai mawk bangin, mihaite’ adingin paunak in bangmah man nei lo hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Saili kuangah sailungtang khihcip lehang a phattuamna a om loh mah bangin, mihaite pahtawina in a mawkna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mihaite in paunak thuhilhnate a paukhiat ciangin, zu khampa in a khut-a ling om a khei dinga kipan tawh kibang lel hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Mihai a tuahkhak peuh tha cial-a a neipa in, a tuahkhak peuh a bankap thaltawipa tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Ui in a luak a zuat kik bangin, mihaite a haitat ngei bangin ta kik zel hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>A pil lo kimlai pil a kisapa sangin, mihaite’ adingin lametna om zaw lai hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Thadahpa in, “Lampi-ah humpinelkai om! Kongzingah humpinelkai om!” ci-in lumlum hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Kongkhak in kawmheek tungah a kiheihei lel bangin, mi thadahpa a lupna tungah kiheihei hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Thadahpa in a khut-in ankuang sung sawk suk a, a kam-ah a bahtoh ding nangawn gim zungzung kisa hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>A kilawm-a thu a dawng thei mihing sagih sangin, mi thadahpa ama ngaihsutna-ah pil kisa zaw hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Eite tawh a kisai lo kitotna sunga va kiphumna in, ui ommuang khat a bil-a kaihsak tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>A vengte a khem khit ciangin, ka ciamnuihna hi, a cipa pen,
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>sih theihna gu a baang thaltang tawh a kappa tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Sing om kei leh mei mit a, gensiatna om kei leh kitotna bei hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Meihol in mei am ding piangsak a, sing in mei kuangsak a, migilo in kitotna piangsak hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Gensiatna in a lim mahmah an tawh kibang a, mihingte’ sungtawng pekah tumsuk pahpah hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tungtham bek-a kamkhum pauna in, cimbeng kizut leibel tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Mi simtatte in a kampi bek tawh thuhoih gen a, a lungsim ah zuauthu bek om hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>A lungsim-ah a deihhuai lo thu sagih tak om ahih manin, kam khum tak-a a pau manin um kha kei in.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Ama hoih lohna a ip nop hangin, mi khempeuh in ama gitlohna thei veve hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Mi siahna-in gum a tote, ama gum tawhna sung mah-ah amah leh kiat zawsop a, mi a deng kha dinga suang a khukte, ama suang khuk mah in amah leh khak zaw hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Zuau genna in midik kim lai a mawh bangsak a, tungtham bek-a thugenna in siatna bek piangsak hi.
+  </para>
+  <chapter number="27" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Zing ciang hun-a ding kima-sialh kei in, tu leh tua hun kikal-a piang ding na thei kei hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Midangte’ hong phat loh buang, nang kiphat tawm kei in. Khualmite’ hong phat loh buang, nangma kam-in kiphat tawm kei in.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Suangtum leh sehnel gik mahmah a, ahi zongin mihaite’ pian’sak lungkhamna gikzaw lai hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Hehna leh sinsona siahuai a, ahi zongin hazatna siahuai zaw lai hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Itna i seelbawl sangin, a langtang-a taina hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>I lawmte in hong liamsak khak hangin, i hoih nading hong deihsakna hi a, i galte’ hong ngawng kawina in, hong lehbawlna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>A gilvah mipa in khuaizu nangawn duh nawn lo a, a gilkial mipa in a kha an nangawn lim sa hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Inn panin gamlapi-ah a zinkhia mipa in, a bu panin a leengkhia vasa tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Sathau namtui leh paknamtui in lungnuam sak a, lawmte’ limbawlna in tha hatsak hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Na lawmte daang koih kei in la, na pa’ lawmte dong nangawn lawm bawl in. Na lungkham ciangin na sanggampa va ko kei in, a gamla-a om i sanggampa sangin, i nai-a om i vengpa kimang zaw hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Ka ta aw, pil in, tua hi leh ka lungdam ding a, kei hong mawhsak nuamte in bangmah hong cih thei lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Mipilte in a lauhuai thu mu thei-in pelh uh a, mi mawkmawkte in phu suakin thuak uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Mi khat in gamdang mi khat’ leiba lohsak dingin kam a hai ciam leh, a ciam bangin a neihsa kilaksak takpi ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Mi khat in a kituak lopi-in midang khat limbawl lua liang leh, amah in a sia lam-in na ngaihsun zaw hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Phun bekbek a thei zi in, theu hun mel a nei lo guah ciin tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Tua bang numei kikho thei lo a, a kikham thei lo huihnung, leh i khut-a sathau tawi nop tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Sik in sik mah hiamsak thei a, mi in midang pilsak thei hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Theikung a cingpa in a gah ne a, a topa a kempa in pahtakna ngah hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Tui sung en leeng eima maitang i muh bangin, i lungsim en leeng eima pian’zia kilang hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Mihingte’ lungsim in mi site’ gam tawh kibang a, tamlua cih hun nei thei lo hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Ngun leh khamte, meikhuk-ah kize-et a, mihing ahih leh phatna tawh kize-et hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Mihai khat a sih dek dongin na satsat hangin, a hai ngei mah-in hai veve lai ding hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Na tuuhonte hoih takin thei in la, na bawnghonte hoih takin kem in.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Bang hang hiam cih leh neihsa kip tawngtung lo a, hauhna pen, a khang khangin kizom suak lo hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Lopate ki-at mang khin a, ahi zongin a no hong sel kik hi; mualtung a, po lopa hing khempeuh ki-atin inn-ah kipua a,
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>tuute in na puan ding hong guan a, na keeltal mante in lo cing khat man tawh kikim hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Na keelnawite ahih leh, na innkuan an nek ding, leh na nasem numeite nuntak nadingin kicing ding hi.
+  </para>
+  <chapter number="28" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Kuama delh lopi-in migilote taimang a, mi thumante ahih leh humpinelkai bangin hang uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Gamsung mite a hoih loh ciangin, a ban banin gam uk tampi nei uh a, ahi zongin mipil thu ngaihsun theite in, gamsung thahatsakin kipsak uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Mizawngte a bawlsia aana nei mipa in, lo-a ante a susia gawp guahzu tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Thukham zui lo mite in migilote pakta uh a, thukham zui mite ahih leh migilote tawh kilemlo uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Mi sia-huaite in thutang cih mel thei lo uh a, Topa a biate in ahih leh a kicingin thei uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Hau napi-a mi lungsim kawi hihna sangin, zawng napi-a pauban’ neih lohna hoihzaw hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Thuhilhna a mang mi in ta pil hi a, lawm gina lo tawh a kikhawl mi in a pa mindaisak hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>A meet a pung lakna tawh a hau mipa in, mizawngte a hehpih thei mipa’ adingin sum zong hi lel hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mi khat in thukham a zuih nop kei leh, ama thungetna nangawn Pasian in zak thadahhuai sa hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>A dik mi khat, siatsak ding a hanciampa pen, ama tawhsa gum sung mah-ah kia ding a, a dik mipa in gamh hoih luah ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Mihaupa pen amah pil kisa a, ahi zongin a zawng mipilpa in, a haupa’ haina phawkkhia veve hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Mihoihte in vangliatna a ngah ciangin, mi khempeuh lungdam uh a, migilote a liat ciangin, adangte in gimna thuak uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>A khialhna a im mipa a dau pai lo ding a, a mawhna pulakin a kikheel mipa in hehpihna ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Topa a zahtak tawntung mipa in mi nuamsa hi a, a lung khauh mipa in lungkhamna tuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Mizawngte a uk migilopa in humpinelkai gilkial, leh vompi halungvei tawh kibang hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Ngaihsut siamna a nei lo gam ukpa in a gilo kumpi hi ding a, thuman lo-a ngahna a deih lo mipa in sau veipi uk ding hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Mi that-a a khialpa in, ama hankhuk ding a to hi a, a hankhuk tawh ding kho kei in.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Thuman-a gamta mite lung muangin om ding uh a, a zuautat mite ahih leh puk ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Nakpi tak-a lo khopa hau mahmah a, bangmah-a kimang tum lo a sempa zawng mahmah hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>A citak mipa in thupha tampi ngah ding a, a hau baih nuam mipa in daan tuak pelmawh ding hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Mi langbawlna hoih lo a, ahi zongin letsong neucik khat hangin thukhente gamta khial thei zel hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>A huaiham mi in a hauh nadingin huai mengmeng a, a tawpna-ah a zawn’ ding lam tak phawk kha lo hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mi khat tai-in thuhilh lecin, tungtham-a phatna sangin, a tawpna-ah lungdam zaw ding hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>A nu leh a pa’ neihsa lak sak a, “Khialhna hi kei” a cipa in, guta mah hi veve hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>A huaiham mi in kitotna piang sak a, Topa a muang mi in mihau hi ding hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Ei leh ei kimuan’na in haina hi a, mipilte’ hilhna zuihna in lungmuan’na hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Mizawng a huhte cimawh ngei lo ding a, huhna a pia nuam lote in samsiatna ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Migilote a liat ciangin midangte bucip uh a, amaute a za kiat ciangin midikte in uk kik ding hi.
+  </para>
+  <chapter number="29" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Kihilhhilh napi-a a mang nuam lote, bawl phatkik zawh nawn loh dongin kisia ding hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Midikte in gam a uk ciangin gam mite lungdam a, migilote in a uk ciangin a gam mite thuum uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Pilna a deih mi in a pa lungdamsak a, numei paktat tawh a kikhawl mi in a neihsa teng lawnmang hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Thuman-a a gamta kumpi in a gam kipsak a, sum bek a ngaihsun kumpipa in a gam siasak hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>A man lopi-a mi khat mawk phatna in, a awk nadingin thangsiahna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Migilote, amau’ mawhna sungah awkcip a, midikte ahih leh suakta-in lungdam uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Midikte in mi cimawhte’ ading thu khual a, migilote in tua bang khualna thei lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thu a khual lote in khua sungah buaina lianpi piangsak a, mipilte in tua buaina dai sak thei hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Mipil khat in mihai khat tawh zum-ah thu nei leh, mipilpa tungah hehin zahko a, phattuamna piang tuan lo hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Mi a that nuamte in a thuman mi mudah a, midikte in a thuman mi hu uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Mihaipa a hehna bangin kampau-in gamta gawp a, mipilpa ahih leh ki-ip-in a hehna dam sak hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Kumpipa in zuauthu saang-in na sem leh, a nuai-a ulian khempeuh zong zuau genin nitum ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Mizawngpa leh mi bawlsiapa a kibatna uh khat om hi—Topa in a nih tuak-un mittang guan hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Kumpipa in mizawngte’ thu a manin khensak leh, a ukna kip tawntung ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Ciangduai leh taina in pilna guan’ a, a kikhahkhong ta in a nu maizum sak hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Migilote ulian suak leh siatna khang semsem a, ahi zongin midikte in amau’ mit mahmah tawh, a gilo uliante’ za kiatna mu ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Na ta thuhilhin tai lecin, ama hangin na kipak ding a, na lung hong kimsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Pasian’ lamlahna a kizuih lohna gam-ah, gamsung mite phengtat uh a, Pasian’ thukham a zui mite a lungdam hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Kam-a hilh lel tawh silate pil zo lo a, a theih hangin hong mang tuan lo hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Thu ngaihsun lo-a pheng paupau mipa sangin, mihaipa adingin lametna om zawlai hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Sila khat a neu tunga-a kipan lim takin na khoi hangin, a tawpna-ah nang hong hehsak veve ding hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>A heh pahpahte in kitotna piangsak a, a heh baihte khial thei tawntung hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>A kiphasakte in niamkhiatna thuak ding a, a kiniamkhiatte in pahtawina ngah ding hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Guktakna sunga kipawl mipa, ama adingin thusia zongpa ahi hi. A guktakna pulak leh daan kitat ding a, genkhia kei leh lah kisamsia veve ding hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Midangte kihtakna in hong lunghimawhsak a, Topa muan’na in hong lungmuangsak hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Mi khempeuh in gam ukte’ maipha ngah ding hanciam uh a, ahi zongin Topa kiang pan bekin thutang kingah hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Midikte in migilote mudah a, migilote in midikte mudah hi.
+  </para>
+  <chapter number="30" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Jakeh’ tapa Agur’ thugente. Hih mi lianpa in, “Pasian aw, ka lunggim a, ka cih nading ka thei kei hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Ka hai lua a, mihing ka sun kei hi. Mihing bangin ngaihsut siamna ka nei kei hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Pilna thu ka thei kei a, Pasian’ thu ka theih om lo hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Vantungah kua kah to a, leitungah hong kumsuk kik ahi hiam? Kua in a khut sungah huihte lomcip a, puanin tuite tuncip ahi hiam? Kua in leitung bulpite phut kip ahi hiam? Tua bang mi na theih ngei leh, a tapa’ min bang ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Pasian in a thugen khempeuh a manna laktel a, amah a belte khempeuh tungah kidalna lum ahi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Ama gen lohpi behlap sak kei in; na tua cih leh amah in nang hong tai-in, thuzuau gen na hihna hong kilang ding hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Pasian aw, thu nam nih kong ngen hi. Ka sih ma-in tuate hong pia in.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Zuauna leh khemna ka zat loh nadingin hong huh in la, a hau lua lo, a zawng lua loin hong bawl in la, ka khamkhop zah lian bek an hong pia in.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Hau lua leng, nang hong nialin, “Topa i cih kua hiam?” kong ci kha ding a, zawng lua leuleu leng, mi’ na guk sakin, ka Pasian’ min kong daisak kha zel ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>A topa kiangah sila khat gensia kei in; amah in nang hong gensia-in, gimna na thuak kha ding hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>A pate samsia-in a min a dai sak a, nute a phat lo mi pawlkhat om hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Amaute a nin mahmah kim lai hi napi-in, amau’ muhna-ah siang a kisa mahmah mi pawlkhat om hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Mihoih pha mahmah-a a kingaihsun, a kiliansak mi pawlkhat om hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>A ha uh namsau tawh a kibang, a ha uh temta tawh a kibang, gam sunga mizawngte a netum, mi cimawhte a liaktum mi pawlkhat om hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Vot in tanu nih nei a, khat in, “Hong pia in,” ci a, a khat in zong, “Hong pia in,” mah ci veve hi. “Pha zo ta,” a ci ngei lo thum om a, eh! li hizaw:
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Han khuk, taciing numei, tui a deih tawntung leikeu, leh a kisumit zo lo meikuang ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>A pa a simmawh mipa, a nu’ thu a mang nuam lo mipa, va-ak in a mittang khel khiatsakin, musanete in a sa ne ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Ka theih zawh het loh a lamdang mahmah thu thum om a, eh! li hizaw:
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>van-ah musane a leen’ theihna zia, suangpi tungah gul a pai theihna zia, tuipi tungah teembaw a pai theihna zia leh nungak leh tangval a kingaihna zia ahi hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>A citak lo zi in hih bangin gamta hi: Midang tawh khialin, tua ciangin kisilsiang a, “Bangmah khialhna gamta ke’ng,” ci khem hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Leitungmi khempeuh in a thuak zawh loh thu thum, eh! thu li om a,
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>sila khat kumpi a suah ciang, a hai khat in a duh bangbang a nek zawh ciang,
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>a muhthadahhuai numei khat in pasal a neih ciang, nasem numeino in a tonu’ za a suan ciang ahi hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>A neu mahmah ganhing nam li leitungah om a, ahi zongin a pilpen pente ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Miksite: a hat het lo ganhing hi napi-in, khuakhal sunga a nek ding khol zo uh hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Ngalvangte: a thahat lo ganhing hi napi-in, suang lakah a kua ding uh bawl zo uh hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Kauphete: kumpi nei lo napi-in, a kituak diamdiamin hon tat thei uh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Innhikte: khut sunga tawi zawh ganhing hi lel napi-in, kumpi inn sungah teeng zo uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>A gamtatna i et ciangin a thupi suak mahmah thum, eh! li om a,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Ganhing lak pan a hatpen, kuamah a kihta lo humpinelkai,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>a kihihsak pai kuahkuah aklui, a kihihsak pai gangan keetal, a mite mai-ah a pai lanlan kumpipa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Kiphasakin na haipau ngei a, thusia bawl ding na ngaihsut ngei khak leh, lim takin thu ngaihsun pha in!
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Bawngnawi, meekmeek lehang thawhbat hong suak a, mi khat a nak tupsak lehang si hong luang a, mi phin lehang kitotna hong piang hi.
+  </para>
+  <chapter number="31" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Kumpipa Lemuel, a nu in a thuhilhna:
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Ka it mahmah ka ta aw, thu ngenngen-a kong neih tapa na hi hi. Bang hong gen ding ka hi hiam?
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Na thatang teng numei tungah beisak kei in la, na sum khempeuh numei tungah zang kei in, numei in kumpipa siasak thei hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Lemuel aw, ka thugen hong ngai in. Kumpite in zu nek huai lo a, mi ukte in khamtheihzu a duh ding hi lo hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Zu ne le uh, thukham mangngilh uh a, thukham hei-in mizawngte gim pia kha thei uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>A si dekdekte, khamtheihzu pia in la, a lungkham mahmahte, leenggahzu pia in.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Amaute ne sak lecin a zawn’na uh mangngilhin, a lungkhamna uh phawk nawn lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Thu a gen thei lo mite’ adingin gensak in la, a huh ding om lo mite pan’pih in.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Amau’ ading thu genin a tangin thu khen in la, a zawng-a cimawh mite, amau’ adinga kilawm hamphatna ngah sak in.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Zi hoih in suangmanpha sangin manpha zawpek a, ahi zongin zi hoih ngah ding haksa mahmah hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>A pasal in muang mahmah a, a innsung uh ah annek kitasam ngei lo uh hi,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Amah in a khan’ tawntungin a pasal tungah thupha bawl a, a pasal tungah thusia tun’ngei lo hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Amah in samul leh khau zongin, thanuam takin nasem hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Amah in, sumbukte’ van pua teembaw bangin, gamlapi panin an hong ciahpih hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Phalvak tungin ziingtho a, an nek ding teng lim takin bawlin, a nasem numeite’ sep ding teng vaihawmsak hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Amah in leitang hoih penpen zong a, a thalawhsa sum tawh a leenggui lo ding lei hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>A nik sing ten’in a puanban zial a, thalawp takin a na sem hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Amah in a nasepte a manphatna thei a, zankim zankhang dongin a meivak mit lo hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Amah in khau kheek-in, a puan ding gan tawm hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>A zawng mite tungah amah cingh a, a cimawh mite tungah huhna pia hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>A innkuan bup-un puanlum guan’ zo ahih manin, phalbi tun’ ding lunghimawh lo hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Amah in a puan ding khui tawm a, saihadial puansan vive silh zo hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>A pasal, thukhen upate lakah a tut ciangin, mite’ lakah kizahtak hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Amah in puan khui-in, kawnggakte zong bawl a, sumbukte tungah tuate zuak hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Amah a tha hatin, zong kizahtak a, mailam hun-a ding a lung patau lo hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Amah in pilna tawh thu gen a, kam khum takin pau hiat-hiat hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Amah in a innkuan sung kisapna teng sem a, a tawntungin manlah den hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>A tate in amah it uh a, a pasal in zong pakta mahmah a,
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>“Zi hoih tampi a om tei hangin, nang kan-a hoih kuamah om kei,” ci-in phat hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Ngaihban’na in zuaupi hi thei a, mel hoihna zong maimang thei hi; ahi zongin Topa a zahtak numei in a phat taak khat ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>A sepna khempeuh hangin amah phat un, mi khempeuh in a zahtak dingin a kilawm ahi hi.
+  </para>
+</usx>

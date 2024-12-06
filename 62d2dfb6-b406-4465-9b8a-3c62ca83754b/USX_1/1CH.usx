@@ -1,0 +1,4073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+  <book code="1CH" style="id">1 Chronicles</book>
+  <para style="mt">1 Chronicles</para>
+  <chapter number="1" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Adam’ ta Seth, Seth’ ta Enosh;
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Enosh’ ta Kenan, Kenan’ ta Mahalalel, Mahalalel’ ta
+        Jared;
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Jared’ ta Enok, Enok’ ta Methuselah, Methuselah’ ta
+        Lamek;
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Lamek’ ta Noah, Noah in tapa thum nei a, tuate in
+        Shem, Ham leh Jafeth ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Jafeth’ tapate in: Gomer, Magog, Madai, Javan, Tubal,
+        Meshek, leh Tiras ahi uh a, amau’ min pua-in minam piang ciat hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Gomer’ suante in: Ashkenaz mite, Rifath mite, leh
+        Togarmah mite ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Javan’ suante in: Elishah mite, Tarshish mite, Kittim
+        mite leh Rodanim mite ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Ham’ tapate in: Kush, Izipt, Put, leh Kanaan ahi uh a,
+        amau’ min pua-in minam piang ciat hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Kush’ suante in: Seba mite, Havilah mite, Sabta mite,
+        Raamah mite, leh Sabteka mite ahi uh hi. Raamah’ suante in: Sheba mite, leh Dedan
+        mite ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Kush in Nimrod kici tapa khat nei hi; amah in
+        leitungah a vanglian ding khatin hong kipan hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Izipt in Lud mite, Anam mite, Lehab mite, Naftuh
+        mite,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Pathrus mite, Kasluh mite (Filistia mite’ hong
+        pian’na), leh Kaftor mite’ pian’na pupi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Kanaan in a tacil Sidon, leh Heth,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>leh Jubus mite, Amor mite, Girgash mite,
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Hiv mite, Arka mite, Sin mite,
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Arvad mite, Zemari mite, leh Hamath mite’ pian’napa
+        ahi hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Shem tapate in: Elam, Asshur, Arpakshad, Lud, Aram,
+        Uz, Hul, Gether, leh Meshek ahi uh a, amau min pua-in minam piang ciat hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Arpakshad in Shelah’ pa ahi hi; Shelah in Eber’ pa
+        ahi hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Eber sung pan a piang tapa nihte: khatpa’ min in
+        Peleg ahi hi (bang hang hiam cih leh ama hunin gam kikhen hi), a sanggampa’ min in
+        Joktan ahi hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Joktan in Almodad mite, Shelef mite, Hazarmaveth
+        mite, Jerah mite,
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Hadoram mite, Uzal mite, Diklah mite,
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Ebal mite, Abimael mite, Sheba mite,
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Ofir mite, Havilah mite, leh Jobab mite’ pian’napa
+        ahi hi; hihte khempeuh in Joktan’ suante ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Shem, Arpakshad, Shelah;
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Eber, Peleg, Re-u,
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Serug, Nahor, Terah;
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>tua ciangin Abraham a kici Abram ahi suk uh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Abraham’ tapate in: Isaak leh Ishmael ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Hihte in amau’ khangsimna ahi hi: Ishmael’ tacil in
+        Nebaioth ahi hi; tua ciangin Kedar, Adbe-el, Mibsam,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Mishma, Dumah, Massa, Hadad, Tema,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Jetur, Nafish, leh Kedemah ahi uh hi. Hihte in
+        Ishmael’ tapate ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Abraham’ zineu Keturah’ tapate: Zimran, Jokshan,
+        Medan, Midian, Ishbak, leh Shuah ahi uh hi. Jokshan’ tapate in: Sheba leh Dedan ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Midian’ tapate in: Efah, Efer, Hanok, Abida, leh
+        Elda-ah ahi uh hi. Hihte khempeuh in Keturah’ suan leh khakte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Abraham in Isaak’ pa ahi hi. Isaak’ tapate in Esau’
+        leh Israel ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh
+        Korah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Elifaz’ tapate in: Teman, Omar, Zefi, Gatam, Kenaz,
+        Timna leh Amalek ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Re-u-el’ tapate in: Nahath, Zerah, Shammah, leh
+        Mizzah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>Seir’ tapate in: Lotan, Shobal, Zibeon, Anah,
+        Dishon, Ezer, leh Dishan ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>Lotan’ tapate in Hori leh Homan ahi uh hi; tua
+        ciangin Lotan’ sanggamnu in Timna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>Shobal’ tapate in: Alian, Manahath, Ebal, Shefi, leh
+        Onam ahi uh hi. Zebeon’ tapate in: Ai-ah leh Anah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="41" style="v"/>Anah’ tapa in Dishon ahi hi. Dishon’ tapate in:
+        Hamran, Eshban, Ithran, leh Kheran ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="42" style="v"/>Ezer’ tapate in: Bilhan, Za-avan, leh Ja-akan ahi uh
+        hi. Dishon tapate in: Uz leh Aran ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="43" style="v"/>Israelte tungah kumpi khatpeuh peuh in a uk ma-in
+        Edom gam sungah a uk kumpite in hihte ahi uh hi: Beor’ tapa Bela hi a, ama khuapi
+        min in Dinhabah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="44" style="v"/>Bela a sih ciangin ama tangin Bozrah khuami Zerah’
+        tapa Jobab in uk hi.
+  </para>
+  <para style="p">
+    <verse number="45" style="v"/>Jobab a sih ciangin ama tangin Teman mite’ gam mi
+        Husham in uk hi.
+  </para>
+  <para style="p">
+    <verse number="46" style="v"/>Husham a sih ciangin Moab gam sungah Midian a zopa,
+        Bedad’ tapa Hadad in ama tangin uk hi; ama khuapi min in Avith ahi hi.
+  </para>
+  <para style="p">
+    <verse number="47" style="v"/>Hadad a sih ciangin ama tangin Masrekath khuami
+        Samlah in uk hi.
+  </para>
+  <para style="p">
+    <verse number="48" style="v"/>Samlah a sih ciangin ama tangin Eufrates gun gei-a
+        om Rehoboth khuami Shawl in uk hi.
+  </para>
+  <para style="p">
+    <verse number="49" style="v"/>Shawl a sih ciangin ama tangin Akbor’ tapa Baalhanan
+        in uk hi.
+  </para>
+  <para style="p">
+    <verse number="50" style="v"/>Baalhanan a sih ciangin ama tangin Hadad in uk hi;
+        ama khuapi min in Pai hi a, ama zi’ min in Mehetabel hi a, Mezahab’ tanu ahi Matred’
+        tanu ahi hi.
+  </para>
+  <para style="p">
+    <verse number="51" style="v"/>Tua ciangin Hadad si hi.
+  </para>
+  <para style="p">
+    <verse number="52" style="v"/>Ohilibamath, Elah, Pinon,
+  </para>
+  <para style="p">
+    <verse number="53" style="v"/>Kenaz, Teman, Mibzar,
+  </para>
+  <para style="p">
+    <verse number="54" style="v"/>Magdiel, leh Iram ahi uh hi; hihte in Edom ukpite
+        ahi uh hi.
+  </para>
+  <chapter number="2" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Israel’ tapate in: Reuben, Simeon, Levi, Judah,
+        Issakhar, Zebulun,
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Dan, Josef, Benjamin, Naftali, Gad, leh Asher ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Judah’ tapate in: Er, Onan, leh Shelah ahi uh hi; hih
+        thumte in Kanaan mi Bathshua tawh a neih ahi hi. Tu-in Judah’ tacil Er in Topa’
+        muhna ah gilo a, tua ciangin Topa in amah that hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>A tapa’ zi Tamar in zong amah tawh Perez leh Zerah nei
+        hi. Judah in a vekpi-in tapa nga nei hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Perez tapate in: Hezron, leh Hamul ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Zeran’ tapate in: Zimri, Ethan, Heman, Kalkol, leh
+        Dara, a vekpi-in nga pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Karmi’ tapa in: A ki-ap nate-ah a khial, Israel a
+        nawngkaisak Akhar ahi hi;
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>tua ciangin Ethan’ tapa in Azariah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Ama sung panin a suak Hezron’ tapate in: Jerahme-el,
+        Ram, leh Khelubai ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Ram in Amminadab’ pa hi a, Amminadab in Judah tapate
+        sung pan ulian Nahshon’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Nahshon in Salma’ pa, Salma in Boaz’ pa,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Boaz in Obed’ pa, Obed in Jessi’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Jessi in a tacil Eliab, a nihna Abinadab, thumna
+        Shimea,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>a lina Nethanel, a ngana Raddai,
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>a gukna Ozem, a sagihna David’ pa ahi hi;
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>amau’ sanggamnumeite in Zeru-iah leh Abigail ahi uh
+        hi. Zeru-iah’ tapate in: Abishai, Joab leh Asahel, thum pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Abigail in Amasa nei a, Amasa’ pa in Ishmael mi
+        Jether ahi hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Hezron’ tapa Kaleb in a zi Azubah leh Jerioth-te
+        tawh ta nei hi; ama tapa in: Jesher, Shobab, leh Ardon ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Azubah a sih ciangin Kaleb in Efrath ten’pihin, tua
+        nu in amah tawh Hur nei hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Hur in Uri’ pa hi a, Uri in Bezalel’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Tua khit ciangin kum sawmguk a phak ciangin Hezron
+        in a ten’pih Gilead’ pa Makhir’ tanu luppih hi; tua nu in amah tawh Segub nei hi;
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Segub in Jair’ pa hi a, Gilead gam sungah khuapi
+        sawmnih-le-thum nei hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Ahih hangin Geshur leh Aram in amaute tung panin
+        Havvothjair khua Kenath leh a khuaneute, khua sawmguk la hi. Hihte khempeuh in
+        Gilead’ pa Makhir’ suan leh khakte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Hezron a sih khit ciangin Kaleb in a pa Hezron’ zi
+        Efrath luppih a, tua nu in amah tawh Tekoa khuapi a sat Ashur nei hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Hezron’ tacil Jerahme-el’ tapate in: A tacil Ram,
+        Bunah, Oren, Ozem, leh Ahijah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Jerahme-el in a zi dang khat zong nei a, a min in
+        Atarah ahi hi; amah in Onam’ nu ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Jerahme-el’ tacil Ram’ tapate in: Maaz, Jamin, leh
+        Eker ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Onam’ tapate in: Shammai leh Jada ahi uh hi.
+        Shammai’ tapate in: Nadab leh Abishur ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Abishur’ zi min in Abihail hi a, tua nu in amah tawh
+        Ahban leh Molid nei hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Nadab’ tapate in: Seled leh Appaim ahi uh hi; Seled
+        in ta nei loin si hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Appaim’ tapa in Ishi ahi hi. Ishi’ tapa in Sheshan
+        ahi hi. Sheshan’ tapa in Ahlai ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Tua ciangin Shammai’ sanggampa Jada’ tapate in:
+        Jether leh Jonathan ahi uh hi; Jether in ta nei loin si hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Jonathan’ tapate in: Peleth leh Zaza ahi uh hi.
+        Hihte in Jerahme-el’ suan leh khakte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Tu-in Sheshan in tapa nei loin tanu bek nei hi; ahih
+        hangin Sheshan in Jarha min nei Izipt sila khat nei hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Tua ahih ciangin Sheshan in a sila Jarha tungah a zi
+        dingin a tanu pia hi; tuanu in Attai nei hi.
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Attai in Nathan’ pa hi a, Nathan in Zabab’ pa ahi
+        hi.
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Zabab in Eflal’ pa hi a, Eflal in Obed’ pa hi hi.
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>Obed in Jehu’ pa hi a, Jehu in Azariah’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>Azariah in Helez’ pa hi a, Helez in Eleasah’ pa ahi
+        hi.
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>Eleasah in Sismai’ pa hi a, Sismai in Shallum’ pa
+        ahi hi.
+  </para>
+  <para style="p">
+    <verse number="41" style="v"/>Shallum in Jekamiah’ pa hi a, Jekamiah in Elishama
+        pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="42" style="v"/>Jerahme-el’ sanggampa Kaleb’ tapate in: Zif’ pa ahi
+        a tacil Mareshah ahi hi. Mareshah’ tapa in Hebron ahi hi.
+  </para>
+  <para style="p">
+    <verse number="43" style="v"/>Hebron’ tapate in: Korah, Tappuah, Rekem, leh Shema
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="44" style="v"/>Shema in Raham’ pa hi a, Raham in Jorkean’ pa ahi
+        hi; Rekem in Shammai’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="45" style="v"/>Shammai’ tapa in Maon ahi hi; Maon in Bethzur’ pa
+        ahi hi.
+  </para>
+  <para style="p">
+    <verse number="46" style="v"/>Kaleb’ zineu Efah in Haran, Moza, leh Gazez nei hi;
+        Haran in Gazez’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="47" style="v"/>Jahdai’ tapate in: Regem, Jotham, Geshan, Pelet,
+        Efah, leh Sha-af ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="48" style="v"/>Kaleb’ zineu Ma-akah in Sheber leh Tirhanah nei hi.
+  </para>
+  <para style="p">
+    <verse number="49" style="v"/>Tua ciangin tapa nih nei leuleu a, Madmannah khuapi
+        a sat Sha-af, leh Makbenah khuapi leh Gibea khuapi a sat Sheva ahi uh hi. Kaleb in
+        tanu khat zong nei a, a min Aksah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="50" style="v"/>Hihte in Kaleb’ suan leh khakte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="51" style="v"/>Bethlehem khuapi a sat Salma, leh Bethgader khuapi a
+        sat Haref ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="52" style="v"/>Kiriath-jearim khuapi a sat Shobal in tapa nei hi:
+        Haroeh leh Menuhoth mi a langte’ pian’na ahi hi.
+  </para>
+  <para style="p">
+    <verse number="53" style="v"/>Tua ciang Kiriath-jearim khua sungah a teengte in:
+        Ithri mite, Puth mite, Shumath mite, leh Mishrai mite ahi uh hi; hihte sung panin
+        Zorah mite leh Estaol mite hong piang hi.
+  </para>
+  <para style="p">
+    <verse number="54" style="v"/>Bethlehem khuapi a sat Salma’ suante in: Netofah
+        mite, Atroth-bethjoab, leh Zorah mi ahi Manahath mite a lang ahi hi.
+  </para>
+  <para style="p">
+    <verse number="55" style="v"/>Jabez-ah a teeng laithei minamte in: Tirath mite,
+        Shimeath mite, leh Sukath mite ahi uh hi. Hihte in Rekhab minamte tawh a kiteeng Ken
+        mite ahi uh hi.
+  </para>
+  <chapter number="3" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>David sung panin Hebron ah a piang tapate in: Jezre-el
+        mi Ahinoam tawh a neih a ta cil Ammon; Karmel numei Abigail tawh a neih a nihna
+        Daniel,
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Geshur kumpipa Talmai’ tanu, a nu Ma-akah a hi a
+        thumna Absalom; a nu Haggith ahi a lina Adonijah;
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Abital tawh a neih a ngana Shefatiah; a zi Eglah tawh
+        a neih a gukna Ithream;
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>amah in kum sagih leh kha guk sung a ukna Hebron ah
+        ama sung panin guk suak hi. Tua ciangin amah in Jerusalem ah kum sawmthum-le-thum
+        sung uk hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Ama sung panin Jerusalem ah a suakte in: Shimea,
+        Shibab, Nathan, leh Solomon, Ammiel’ tanu Bathsheba tawh a neih li pha uh hi;
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>tua ciangin Ibhar, Elishama, Elifelet,
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Nogah, Nefeg, Jafia,
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Elishama, Eliada, leh Elifelet, kua pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Hihte in, a zineute’ tapate sim lohin, David’ tapate
+        ahi uh hi: Tamar a kici tanu khat zong nei hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Solomon’ suan leh khakte in: Rehoboam, a tapa
+        Abijah, a tapa Asa, a tapa Jehoshafat,
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>a tapa Joram, a tapa Ahaziah, a tapa Joash,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>a tapa Amaziah, a tapa Azariah, a tapa Jotham,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>a tapa Ahaz, a tapa Hezekiah, a tapa Manasseh,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>a tapa Amon, a tapa Josiah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Josiah’ tapate in: A tacil Johanan, a nihna
+        Jehoiakim, a thumna Zedekiah, a lina Shallum ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Jehoiakim’ suan leh khakte in: A tapa Jekoniah leh
+        Zedekiah ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Babilon ah sal a suak Jekoniah’ tapate in: A tapa
+        Shealtiel,
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Malkhiram, Pedaiah, Shenazzar, Jekamiah, Hoshama,
+        leh Nedabia ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Pedaiah’ tapate in: Zerubbabel leh Shimei ahi uh hi;
+        Zerubbabel’ tapate in: Meshullam leh Hananiah hi a, Shelomith kici tanu khat zong
+        nei hi;
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>tua ciangin tapa dang Hashubah, Ohel, Berekiah,
+        Hasadiah, leh Jushabhesed, nga nei lai hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Hananiah’ tapate in: Pelatiah leh Jeshaiah, Refaiah,
+        a tapa Arnan, a tapa Obadiah, a tapa Shekaniah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Shekaniah in tapa khat leh tupa nga nei a, a tapa in
+        Shemaiah ahi hi. Shemaiah tapate in: Hattush, Igal, Bariah, Neariah, leh Shafat, a
+        vekin guk pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Neariah’ tapate in: Elio-enai, Hizkiah, leh Azrikam,
+        thum pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Elio-enai’ tapate in: Hodaviah, Eliashib, Pelaiah,
+        Akkub, Johanan, Delaiah, leh Anan, sagih pha uh hi.
+  </para>
+  <chapter number="4" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Judah’ tapate in: Perez, Hezron, Karmi, Hur, leh
+        Shobal ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Shobal’ tapa Reajah in Jahath’ pa hi a, Jahath in
+        Ahumai leh Lahad’ pa ahi hi. Hihte in Zorah khua a teeng minamte pu leh pate ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="3-4" style="v"/>Hur in a pa zi Efrathah’ ta upa pen hi a, ama suan
+        leh khakte in Bethlehem khuapi sat uh hi. Hur’ tapa thumte in: Etam, Penuel, leh
+        Ezer ahi uh hi. Etam in tapa thum nei a, tuate in: Jezre-el, Ishma, leh Idbash ahi
+        hi. Tanu khat zong nei a, a min in Hazzelelponi ahi hi. Penuel in Gedor khuapi a
+        satpa hi a, Ezer in Hushah khuapi a satpa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tekoa khuapi a sat Ashur in zi nih, Helah leh Na-arah
+        nei hi;
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Na-arah in amah tawh Ahuzzam, Hefer, Temeni, leh
+        Ha-ahashtari nei hi. Hihte in Na-arah’ tapate ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Helah tawh a tapate in: Zerah, Izhar, leh Ethnan leh
+        Koz ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Koz in Anub leh Zobehah pa hi a, Harum’ tapa Aharhel’
+        suante pupi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Jabez a kici mi khat in a sanggamte sangin pahtawihuai
+        zaw hi; a nu in, “Gimpi-in amah nei ka hih manin,” ci-in a min Jabez phuak hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Jabez in Israel Pasian tungah thu ngen a, “Kei
+        thupha hong pia-in ka gamgi hong keeksak in. Kei hong ompih in la, kei hong gimsak
+        loh nadingin siatna panin hong kem in!” a ci hi. Tua ciangin Pasian in ama ngetna
+        pia hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Shuhah’ sanggampa Khelub in Mehir’ pa hi a, Mehir in
+        Eshton’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Eshton in Bethrafa, Paseah, leh Tehinnah, tapa thum
+        nei a, Tehinnah in Irnahash khuapi satpa ahi hi. Hih mite’ suan leh khakte, Rekah
+        munah teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Kenaz’ tapate in: Othiel leh Seraiah ahi uh hi;
+        Othniel’ tapate in: Hathath leh Meonothai ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Meonothai in Ofraih’ pa ahi hi; Seraiah in Joab’ pa
+        hi a, Joab in Geharashim khuapi satpa ahi hi. Tua khua a teeng mite khutsiamte vive
+        ahih manin tua min kiphuak hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Jefunneh’ tapa Kaleb’ tapate in: Iru, Elah, Na-am
+        ahi uh hi: Elah’ tapa in Kenaz ahi hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Jehallelel’ tapate in: Zif, Zifah, Tiria, leh Asarel
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="17-18" style="v"/>Ezrah’ tapa lite in: Jether, Mered, Efer, leh
+        Jalon ahi uh hi. Mered in Faro’ tanu Bithiah ten’pih a, tanu Miriam leh tapa Shammai
+        leh Ishbah nei hi. Ishbah in Eshtemoa khuapi satpa ahi hi. Mered in Judah minam
+        numei khat zong ten’pih a, tua tawh tapa thum nei hi. Tuate in: Gedor khuapi a satpa
+        Jered, Soko khuapi a satpa Heber, leh Zanoah khuapi a satpa Jekuthiel ahi hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Hodiah in Naham’ sanggamnu ten’pih a, amau’ suante
+        in Keilah khua-ah a teeng Garm mite leh Eshtemoa khua-ah a teeng Ma-akath minamte
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Shimon’ tapate in: Amnon, Rinnath, Benhanan, leh
+        Tilon ahi uh hi. Ishi’ tapate in: Zoheth leh Benzoheth ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Judah’ tapa khat ahi Shelah’ tapate in: Lekah khuapi
+        a sat Er, Mareshah khuapi a sat La-adah, leh Beth-ashbea khua-ah saihadial puan a
+        gan minamte ahi uh hi:
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>tua ciangin Jokim, leh Kozeba khuapi sungah a teeng
+        mite; tua ciangin Joash leh Saraf hi uh a, amaute gel in Moab numeite ten’pihin
+        Bethlehem khua ah teeng uh hi. (Hih pen tuanthu lui pekpek ahi hi.)
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Hihte in beelseekte hi a, Netaim khua leh Gederah
+        khua ah a teengte ahi uh hi; ama na a sem dingin kumpipa tawh tua khuate ah teeng
+        khawm uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Simeon’ tapate in: Nemuel, Jamin, Jarib, Zerah, leh
+        Shawl ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Shawl tapa Shallum, a tapa Mibsam, a tapa Mishma ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Mishma’ suante in A tapa Hammuel, a tapa Zakkur, a
+        tapa Shimei ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Shimei in tapa sawm-le-guk leh tanu guk nei hi; ahih
+        hangin a sanggamte in ta tampi nei lo uh a, Judah minamte a pun’ bangin Simeon
+        minamte pung lo uh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Amaute Beersheba, Moladah, Hazarshual,
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Bilhah, Ezem, Tolad,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Bethuel, Hormah, Ziklag,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Bethmarkaboth, Hazarsusim, Bethbiri, leh
+        Sha-ariam-ah teeng uh hi. Hihte in David’ uk hun mateng amaute’ khuapite ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Tua ciangin amau’ khuaneute in Etam, Ain, Rimmon,
+        Tokhen, leh Ashan, khuapi nga,
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Baal ciang dong hih khuapite kiim-a om a khuaneute
+        khempeuh tawh ahi hi. Hihte in amau’ ten’na hi a, amaute in khangsimna ciamtehna nei
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Meshobab, Jamlek, Amaziah’ tapa Joshah,
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Joel, Asiel’ tapa Seraiah, a tapa Joshibiah, a tapa
+        Jehu,
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Elio-enai, Ja-akobath, Jeshohaiah, Asa-iah, Adiel,
+        Jesimiel, Benaiah,
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Shemaiah’ tapa Shimri, a tapa Jedaiah, a tapa Allon,
+        a tapa Shifi’ tapa Ziza—
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>a min-a a kilo hih mite in amau’ beh ciatah uliante
+        hi uh a, amau’ beh ciat nakpi takin khang hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>A tuuhonte uh adingin lonona zong dingin kuam
+        nisuahna lam pang, Gedor lutna lamah khual zin uh a,
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>leihoih, lonona, leh gam zai-in, gamdai-in, a nopna
+        mun mu uh hi; bang hang hiam cih leh tua lai-ah a teeng masate in Ham mite ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="41" style="v"/>A min-in a kiciamteh hih mite, Judah kumpipa
+        Hezekiah’ hun sungin hong pai-a, amau’ puanbukte leh tua lai-ah a om Meunim mite
+        susia-in tu ni dongin amaute beisak uh a, amau’ tuuhonte’ adingin tua lai-ah lonona
+        om ahih manin amau’ munah amaute teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="42" style="v"/>Tua ciangin amaute pawl khat, Simeon mi zanga, Seir
+        Mual-ah pai uh a, amaute in Ishi’ tapate Pelatiah, Neariah, Refaiah, leh Uzziel
+        makai-in nei uh hi;
+  </para>
+  <para style="p">
+    <verse number="43" style="v"/>amaute in Amalek mi a suakta a om laite susia uh a,
+        tu ni dongin tua munah amaute teeng uh hi.
+  </para>
+  <chapter number="5" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Israel’ tacil Reuben’ tapate (amah in tacil ahih
+        hangin amah in a pa’ zineute khat luppih ahih manin ama innluahza pen Israel’ tapa
+        Josef tungah kipia a, tua ahih ciangin innluahza tawh kizui-in khangsimna ah amah
+        kiciamteh lo hi;
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Judah in a sanggamte lakah a thahat suakin ama sung
+        panin ulian khat a om hangin innluahza pen Josef’ aa ahi hi);
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Israel’ tacil Reuben’ tapate in: Hanok, Pallu, Hezron,
+        leh Karmi ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Joel’ tapate in: A tapa Shemaiah, a tapa Gog, a tapa
+        Shimei,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>a tapa Mikah, a tapa Reaiah, a tapa Baal,
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>a tapa Be-erah hi a, Assiria kumpipa Tilgath-pilneser
+        in amau’ minam makai Be-erah manin sal-in a puakkhiatpa ahi hi; amah in Reuben mite
+        a ukpipa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Tua ciangin amau’ khangsimna a kiciamteh ciangin a
+        innkuan kuanin ama behte in: Ukpi Jeiel, Zekhariah,
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>leh Joel mite beh sung panin Shema tapa Azaz, a tapa
+        Bela ahi hi. Nebo leh Baalmeon ciang dong Aroer-ah a teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Gilead gam sungah amau’ bawngte khangin tampi pha ahih
+        manin Eufrates gun hih lam pang sehnel gam lutna ciang dong nisuahna lamah zong amah
+        teeng hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua ciangin Saul’ hun lai-in amaute in Hagri mite
+        do-in zo uh hi; tua ciangin Gilead nisuahna lam gam khempeuh-a amau’ puanbukte
+        luahin a sungah teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Bashan gam Salekah dongah Reubente’ gal khatah a
+        teeng Gad minamte in:
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Ukpi Joel, a zom Shafam, Janai leh Shafat in
+        Bashan-ah beh makai ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua ciangin amau’ beh makai dangte in: Mikhael,
+        Meshullam, Sheba, Jorai, Jakan, Zia, leh Eber, sagih pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Hihte pen Buz’ tapa Jahdo, a tapa Jeshishai, a tapa
+        Mikhael, a tapa Gilead, a tapa Joroah, a tapa Huri, tapa Abihail’ suante ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Guri’ tapa Abdiel’ tapa Ahi in amau’ behte sungah
+        ukpi ahi hi;
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>amaute Gilead gam sung, Bashan gam leh a khuapite
+        sung, leh Sharon gam sung lonona a kiten’ theihna ciang dongah teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Hihte khempeuh Judah kumpi Jotham’ hun sung, leh
+        Israel kumpi Jeroboam’ hun sungin khangsimna-ah kiciamteh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Reuben mite, Gad mite, leh Manasseh minam a langte
+        in mi thahat, lum leh namsau kuahin thal a tawi, gal a siam, nasem dingin a
+        baihsa-in a om mi tul sawmli leh tulli leh zasagih leh sawmguk nei hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Amaute in Hagri mite, Jetur mite, Nafish mite, leh
+        Nodab mite zo uh hi;
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>amaute a do dingin huhna a ngah uh ciangin Hagri
+        mite leh amau tawh a pawl khempeuhte amaute’ khut sungah kipia hi; bang hang hiam
+        cih leh gal kidona sungah amaute in Pasian’ tungah ko uh a, amaute in amah muang
+        ahih manin amah in amaute’ thuumna pia hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Amaute in amau’ ganhingte mat sak uh hi: a kalaoh uh
+        tul sawmnga, tuu tul zanih leh tul sawmnga, la tulnih, leh mi tul zakhat hing mat uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tua gal in Pasian’ gal ahih manin mi tampi tak
+        kithatin puk hi. Tua ciangin amaute sal a suah dong uh amau’ munah teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Manasseh minam a langte gam sungah teeng uh hi;
+        amaute Bashan panin Baalhermon, Senir, leh Hermon Mual tungah tam pha mahmah uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Amau’ beh lutangte in: Efer, Ishi, Eliel, Azriel,
+        Jeremiah, Hodaviah, leh Jahdiel, a thahat galhangte, mi minthangte, a beh lutangte
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Ahih hangin amaute in a pate uh Pasian’ thu palsat
+        uh a, Pasian in amaute’ mai-ah a suksiat tua gam mite’ pasiante bia uh hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Tua ahih ciangin Israel’ Pasian in Assiria kumpipa
+        Pul’ lungsim, Tilgath-pilneser a kici Assiria kumpipa’ lungsim hansuah a, amah in
+        amaute, Reuben mite, Gad mite, leh Manasseh minam a langte pua khia-in, amaute
+        Halah, Habor, leh Gozan gun-ah paipihin tu ni dongin tua lai-ah om uh hi.
+  </para>
+  <chapter number="6" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Levi’ tapate in: Gershom, Kohath, leh Merari ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Amram’ tate in: Aaron, Moses, leh Miriam ahi uh hi.
+        Aaron’ tapate in: Nadab, Abihu, Eleazar, leh Ithamar ahi uh hi,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Eleazar suan leh khakte in: A tapa Finehas, a tapa
+        Abishua,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>a tapa Bukki, a tapa Uzzi,
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>a tapa Zerahiah, a tapa Meraioth,
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>a tapa Amariah, a tapa Ahitub,
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>a tapa Zadok, a tapa Ahima-az,
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>a tapa Azariah, a tapa Johanan,
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>leh a tapa Azariah, (Solomon in Jerusalem ah a lam
+        inn sungah siampi a sempa) ahi hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Azariah’ tapa Amariah, a tapa Ahitub,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>a tapa Zadok, a tapa Shallum,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>a tapa Hilkiah, a tapa Azariah,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>a tapa Seraiah, a tapa Jehozadak ahi hi;
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Topa in Nebukhadnezzar’ khut tawh Judah leh
+        Jerusalem sal-in a mat ciangin Jehozadak salin pai hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Levi’ tapate in: Gershom, Kohath, leh Merari ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Tua ciangin Gershom’ tapate in: Libni leh Shimei ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Merari tapate in: Mahli leh Mushi ahi uh hi. Hihte
+        in amau’ beh tawh kizui-in Levi minamte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Gershom sung pan: a tapa Libni, a tapa Jahath, a
+        tapa Zimmah,
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>a tapa Joah, a tapa Iddo, a tapa Zerah, a tapa
+        Jeatherai ahi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Kohath’ suante in: a tapa Amminadab, a tapa Korah, a
+        tapa Assir,
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>a tapa Elkanah, a tapa Ebiasaf, a tapa Assir,
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>a tapa Tahath, a tapa Uriel, a tapa Uzziah, leh a
+        tapa Shawl ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Elkanah, tapate in: Amasai leh Ahimoth ahi hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Ahimoth’ suante in: A tapa Elkanah, a tapa Zofai, a
+        tapa Nahath,
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>a tapa Eliab, a tapa Jeroham, a tapa Elkanah, a tapa
+        Samuel ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Samuel tapa in: a tacil Joel, a nihna Abijah ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Merari’ suante in: Mahil, a tapa Libni, a tapa
+        Shimei, a tapa Uzza,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>a tapa Shimea, a tapa Haggiah, leh a tapa Asaiah ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Topa’ inn sungah thuciamna singkuang a tawlngak khit
+        ciangin tua sungah lasak nasep a ukin David in a koih mite in hihte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Solomon in Jerusalem ah Topa’ inn a lam ciang dong
+        amaute in kikhopna puanbuk ahi biakbuk mai-ah lasak na sem uh hi; amaute in a nasep
+        uh a hunhun a banbanin, sem uh hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Hih nasep a semte khangsimna in a nuai-a bang ahi
+        hi. Kohath mite beh sung panin: Heman in la makaipi hi a, Joel’ tapa ahi hi. Heman
+        khang simna in a pupi Israel lam manawhin kileh sim to hi. Heman a pa Joel, a pa
+        Samuel,
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>a pa Elkanah, a pa Jehoram, a pa Eliel, a pa Toah,
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>a pa Zuf, a pa Elkanah, a pa Amasai
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>a pa Elkanah, a pa Joel, a pa Azariah, a pa
+        Zefaniah,
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>a pa Tahath, a pa Assir, a pa Ebiasaf, a pa Korah,
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>a pa Izhar, a pa Kohath, a pa Levi, a pa Israel, ahi
+        hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>Asaf in lasa pawl a nihna a makaipa hi a, ama
+        khangsimna a pupi Levi lam manawhin kileh simto hi. Tuate in: Asaf, a pa Berekhiah,
+        a pa Shimea,
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>a pa Mikhael, a pa Baaseiah, a pa Malkhijah,
+  </para>
+  <para style="p">
+    <verse number="41" style="v"/>a pa Ethni, a pa Zerah, a pa Adaiah,
+  </para>
+  <para style="p">
+    <verse number="42" style="v"/>a pa Ethan, a pa Zimmah, a pa Shimei,
+  </para>
+  <para style="p">
+    <verse number="43" style="v"/>a pa Jahath, a pa Gershom, a pa Levi, ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="44" style="v"/>Merari-te beh sung panin Ethan in lasa pawl a thumna
+        a ukpa hi a, ama khang simna in a pupi Levi lam manawh in kileh simto hi. Tuate in:
+        Ethan, a pa Kishi, a pa Abdi, a pa Malluk,
+  </para>
+  <para style="p">
+    <verse number="45" style="v"/>a pa Hashabiah, a pa Amaziah, a pa Hilkiah,
+  </para>
+  <para style="p">
+    <verse number="46" style="v"/>a pa Amzi, a pa Bani, a pa Shemer,
+  </para>
+  <para style="p">
+    <verse number="47" style="v"/>a pa Mahli, a pa Mushi, a pa Merari, a pa Levi hi a,
+  </para>
+  <para style="p">
+    <verse number="48" style="v"/>Levi mi a sanggamte uh Pasian’ inn biakbuk nasep
+        dang khempeuh a sem dingin a kisehte ahi hi.
+  </para>
+  <para style="p">
+    <verse number="49" style="v"/>Ahih hangin Aaron leh a tapate in Pasian’ nasem
+        Moses’ thupiaksate khempeuh bangin siangtho pen mun nasepnate khempeuh leh Israel
+        mite adingin kilemna a bawl dingin meihal biakna tau tung leh paknamtui biakna tau
+        tungah piakna bawl uh hi.
+  </para>
+  <para style="p">
+    <verse number="50" style="v"/>Aaron’ suan leh khakte in: Aaron a tapa Eleazar, a
+        tapa Finehas, a tapa Abishua,
+  </para>
+  <para style="p">
+    <verse number="51" style="v"/>a tapa Bukki, a tapa Uzzi, a tapa Zerahiah,
+  </para>
+  <para style="p">
+    <verse number="52" style="v"/>a tapa Meraioth, a tapa Amariah, a tapa Ahitub,
+  </para>
+  <para style="p">
+    <verse number="53" style="v"/>a tapa Zadok, a tapa Ahima-az ahi hi.
+  </para>
+  <para style="p">
+    <verse number="54" style="v"/>Amau’ gamgi huam sungah amau’ ten’na tawh kizui-in
+        amau’ omna munte in: Kohathte beh sung pan Aaron’ suante tungah a kipia, amau’
+        adingin a tanh uh om a,
+  </para>
+  <para style="p">
+    <verse number="55" style="v"/>Judah gam sungah Hebron leh a kiim lononate amaute
+        tungah pia uh a,
+  </para>
+  <para style="p">
+    <verse number="56" style="v"/>ahih hangin khuapi lote leh a khuaneute Jefunneh’
+        tapa Kaleb tungah pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="57" style="v"/>Aaron’ suante tungah amaute in a piak bukna khuapite
+        in: Hebron, Libnah a lonona gamte tawh, Jattir, Eshtemoa a lonona gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="58" style="v"/>Hilen a lonona gamte tawh, Debir a lonona gamte
+        tawh,
+  </para>
+  <para style="p">
+    <verse number="59" style="v"/>Ashan a lonona gamte tawh, leh Bethshemesh a lonona
+        gamte tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="60" style="v"/>tua ciangin Benjamin minamte’ gam sung panin Geba a
+        lonona gamte tawh, Alemeth a lonona gamte tawh, leh Anathoth a lonona gamte tawh ahi
+        hi. Amau’ innkuan khempeuh’ khuapite in sawm-le-thum ahi hi.
+  </para>
+  <para style="p">
+    <verse number="61" style="v"/>Kohath mi a om laite tungah aisaana tawh Manasseh
+        minam a langte’ gam sung panin khuapi sawm kipia hi.
+  </para>
+  <para style="p">
+    <verse number="62" style="v"/>Gershom-te beh tungah a innkuan-a kizui-in
+        Issakhar-te’ gam, Asher-te’ gam, Naftali-te’ gam, leh Bashan-a om Manasseh-te’ gam
+        sung panin khuapi sawm-le-thum kipia hi.
+  </para>
+  <para style="p">
+    <verse number="63" style="v"/>Merari-te beh tungah a innkuan-a kizui-in Reuben-te’
+        gam, Gad-te’ gam, leh Zebulun-te’ gam sung panin khuapi sawm-le-nih kipia hi.
+  </para>
+  <para style="p">
+    <verse number="64" style="v"/>Tua ahih ciangin Israel mite in hih bangin Levi mite
+        tungah khuapite a lononate tawh pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="65" style="v"/>Amaute in Judahte’ gam, Simeonte’ gam, leh
+        Benjaminte’ gam sung panin zong a min-a kilo hih khuapite amaute tungah pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="66" style="v"/>Tua ciangin Kohathte beh pawl khat in Efraim minamte
+        gam sung panin amau’ gam khuapite ngah uh hi.
+  </para>
+  <para style="p">
+    <verse number="67" style="v"/>Amaute tungah a kipia bukna khuapite in: Efraim mual
+        tung gam sungah a om Shekhem a lonona gamte tawh, Gezer a lonona gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="68" style="v"/>Jokmean a lonona gamte tawh, Bethhoron a lonona
+        gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="69" style="v"/>Aijalon a lonona gamte tawh, Gathrimmon a lonona
+        gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="70" style="v"/>leh Manasseh minam a langte’ gam sung panin Aner a
+        lonona gamte tawh, leh Bileam a lonona gamte tawh hi a, hihte in Kohathte beh a om
+        laite’ ading ahi hi.
+  </para>
+  <para style="p">
+    <verse number="71" style="v"/>Manasseh minam a langte gam sung panin Gershomte beh
+        tungah a kipiate in: Bashan gam sunga Golan a lonona gamte tawh leh Astaroth a
+        lonona gamte tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="72" style="v"/>tua ciangin Issakharte’ gam sung panin: Kedesh a
+        lononte gamte tawh, Daberath a lonona gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="73" style="v"/>Ramoth a lonona gamte tawh, leh Anem a lonona gamte
+        tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="74" style="v"/>Asherte’ gam sung panin: Mashal a lonona gamte tawh,
+        Abdon a lonona gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="75" style="v"/>Hukok a lonona gamte tawh, leh Rehob a lonona gamte
+        tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="76" style="v"/>tua Naftali-te’ gam sung panin: Galile gam sunga om
+        Kedesh a lonona gamte tawh, Hammon a lonona gamte tawh, leh Kiriathaim a lonona
+        gamte tawh ahi hi.
+  </para>
+  <para style="p">
+    <verse number="77" style="v"/>Merari-te beh a om laite tungah Zebulunte’ gam sung
+        panin a kipiate in: Rimmono a lonona gamte tawh, Tabor a lonona gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="78" style="v"/>Jordan nisuahna lam, Jerikho kiang Jordan gal khat
+        sung pan: pawn-a om Bezer a lonona gamte tawh, Jahzah a lonona gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="79" style="v"/>Kedemoth a lonona gamte tawh, leh Mefa-ath a lonona
+        gamte tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="80" style="v"/>tua ciangin Gad-te’ sung panin: Gilead gam-a om
+        Ramoth a lonona gamte tawh, Mahanaim a lonona gamte tawh,
+  </para>
+  <para style="p">
+    <verse number="81" style="v"/>Heshbon a lonona gamte tawh, leh Jazer a lonona
+        gamte tawh ahi hi.
+  </para>
+  <chapter number="7" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron,
+        li pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tola’ tapate in: Uzzi, Refaiah, Jeriel, Jahmai, Ibsam,
+        leh Shemuel-te hi a, amau’ beh sung panin innkuan lutangte hi a, Tola-te beh in
+        amau’ khangin a galhangte ahi uh hi. David’ hun lai takin mihing tul sawmnih leh
+        tulnih leh zaguk pha hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Uzzi’ tapa in Izrahiah ahi hi. Izrahiah leh a tapate
+        in: Mikhael, Obadiah, Joel, leh Isshiah, mi nga, a vekpi-in ukpite ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>amaute’ ban-ah a pate uh innkuan kuanin khang simna-ah
+        a kiciamtehna tawh kizui-in galsim dingin galkap honte mi tul sawmthum leh tulguk om
+        hi; bang hang hiam cih leh amaute in zi tampi leh tapa tampi nei uh hi;
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Issakhar’ minam sungah a om, khang simna ah a
+        kiciamteh, a galhang a thahat amau beh mi a vekpi-in tul sawmgiat leh tul sagih ahi
+        hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Benjamin’ tapate in: Bela, Bekher, leh Jediael, thum
+        pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Bela’ tapate in: Ezbon, Uzzi, Uzziel, Jerimoth, leh
+        Iri, nga pha uh a, amau beh sungah innkuan lutang, a thahat galhangte ahi uh hi;
+        amau’ khangsimna a kiciamtehna-ah tul sawmnih leh tulnih leh sawmthum-le-li pha uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Bekher’ tapate in: Zemirah, Joash, Eliezer, Elio-enai,
+        Omri, Jeremoth, Abijah, Anathoth, leh Alemeth ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Hihte khempeuh in Bekher’ tapate ahi uh hi; amau’
+        khang tawh kizui-in a khangsimna a kiciamtehna ah, amau’ beh sungah innkuan lutang,
+        a thahat a galhang mihing tul sawmnih leh zanih ahi hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Jedial’ tapa in Bilhan ahi hi. Bilhan’ tapate in:
+        Jeush, Benjamin, Ehud, Khena-anah, Zethan, Tarshish, leh Ahishar ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Hihte khempeuh in amau’ beh sungah innkuan lutang hi
+        uh a, a thahat a galhang, Jediael’ suante gal dona-ah nasem dingin a baihsa-in a om
+        mihing tulsawm leh tulsagih leh zanih pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Tua ciangin Shuppim leh Huppim in zong hih minamte
+        sung mah hi a, Dan in Hushim kici tapa khat nei hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Naftali’ tapate in: Jahziel, Guni, Jezer, leh
+        Shallum hi a, Bilhan sung pan-a piangte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Manasseh’ tapate in: A zineu Aram numei tawh a neih
+        Asriel leh Makhir ahi hi. Makhir in Gilead’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Tua ciangin Makhir in Huppim leh Shuppim ading zi la
+        hi. Ama sanggamnu’ min in Ma-akah ahi hi. Makhir’ tapa a nihna’ min in Zelofehad ahi
+        hi; Zelofehad in a tanu bek nei hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Tua ciangin Makhir’ zi Ma-akah in tapa nih nei a, a
+        min Peresh leh Sheresh ahi hi; tua ciangin Peresh’ tapate in Ulam leh Rakem ahi hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Ulam’ tapa in Bedan ahi hi. Hihte in Manasseh’ tapa
+        Makhir’ tapa Gilead’ suante ahi hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua ciangin Gilead’ sanggamnu Hammolekheth in
+        Ishhod, Abiezer, leh Mahlah nei hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Shemida’ tapate in: Ahian, Shekhem, Likhi, leh Aniam
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Efraim’ suante in: A tapa Shethelah, a tapa Bered, a
+        tapa Tahath, a tapa Eleadah, a tapa Tahath,
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>a tapa Zabad, a tapa Shuthelah ahi hi. Efraim in
+        tapa dang nih nei a, tuate in Ezer leh Elead ahi uh hi. Gath khua mite’ bawng sut
+        dingin a kuan lai-in Gath mite in amau tegel na that uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tua ciangin a pa Efraim ni tampi sung kap a, amah
+        hehnem dingin a sanggamte hong pai uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tua ciangin Efraim in a zi luppih a, amah gai-in
+        tapa khat nei hi; ama inn sungah siatna tung ahih manin amah in a min Beriah a phuak
+        hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Ama tanu in She-erah hi a, Bethhoron nuainung leh a
+        tungnung leh Uzzenerah khua a lamnu ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Tua ciangin Refah kici tapa khat nei a, ama suante
+        in: Resef, a tapa Telah, a tapa Tahan,
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>a tapa Ladan, a tapa Ammihud, a tapa Elishama,
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>a tapa Mun, a tapa Joshua ahi hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Amau’ neihsa gam leh a ten’nate uh in Beth-el leh a
+        khuapite, leh nisuahna lamah Na-aran, leh nitumna lamah Gezer leh a khuapite,
+        Shekhem leh a khuapite’ leh Azzah leh a khuapite ahi hi;
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Manasseh’ suante in Bethshean leh a khuapite,
+        Ta-anak leh a khuapite, Megiddo leh a khuapite, Dor leh a khuapite uk uh hi. Hihte
+        sungah Israel’ tapa Josef suante teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Asher’ tapate in: Imnah, Ishvah, Ishvi, Beriah, leh
+        a sanggamnu uh Serah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Beriah’ tapate in: Heber leh Malkhiel hi a, Malkhiel
+        in Birzaith’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Heber in Jaflet, Shomer, Hotham, leh a sanggamnu uh
+        Shua-te’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Jaflet’ tapate in: Pasak, Bimhal, leh Ashvath ahi uh
+        hi. Hihte in Jaflet’ tapate ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>A sanggampa Shomer’ tapate in: Rohgah, Jehubbath,
+        leh Aram ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>A sanggampa Hotham’ tapate in: Zofah, Imna, Shelesh,
+        leh Amal ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Zofah’ suante in: Suah, Harnerfer, Shual, Beri,
+        Imrah,
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Bezer, Hod, Shamma, Shilshah, Ithran, leh Be-era ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>Jether’ suante in: Jefunneh, Pispa, leh Ara ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>Ulla’ suante in: Arah, Hanniel, leh Rizia ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>Hihte khempeuh in Asher’ suan, beh lutangte a
+        kipakta, a thahat galhangte, uliante a ukte ahi uh hi. Gal sungah nasem dingin
+        khangsimna ah a kiciamteh amau a phazah in mihing tul sawmnih leh tulguk ahi hi.
+  </para>
+  <chapter number="8" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Benjamin in a tacil Bela, a nihna Ashbel, a thumna
+        Aharah,
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>a lina Nohah, leh a ngana Rafa-te’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Bela’ tapate in: Addar, Gera, Abihud,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Abishua, Na-aman, Ahoah,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Gera, Shefufan, leh Huram, ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Ehud’ tapate in (amaute in Geba a, teeng leh lutangte
+        hi uh a, amaute Mnanhath-ah galmatin kipua hi):
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Na-aman, Ahijah, leh Uzza leh Ahihub’ pa Heglam a kici
+        Gera ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Shaharaim in a zite ahi Hushim leh Baara a mak khit
+        ciangin Moab gam sungah tapate nei hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Amah in a zikik Hodesh tawh a neih a tapate in: Jobab,
+        Zibia, Mesha, Malkam,
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Jeuz, Sakhia, leh Mirmah ahi uh hi. Hihte in amau’
+        beh sungah innkuan lutangte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Amah in Hushim tawh zong a neih a tapate in: Ahitub
+        leh Elpa-al ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Elpa-al’ tapate in: Eber, Misham, leh Ono leh Lod a
+        khuapite tawh a sat Shemed,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>leh Beriah leh Shema (Gath a, teengte a taisak
+        Aijalon a, a teeng beh lutangte);
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>leh Ahio, Shashak, leh Jeremoth ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Zebadiah, Arad, Eder,
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Makhael, Ishpah, leh Joha in Beriah’ tapate ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Zebadiah, Meshullum, Hizki, Heber,
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Ishmerai, Izliah, leh Jobab in Elpa-al’ suante ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Jakim, Zikri, Zabdi,
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Elienai, Zillethai, Eliel,
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Adaiah, Beraiah, leh Shimrath in Shimei’ suante ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Ishpan, Eber, Eliel,
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Abdon, Zikri, Hanan,
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Hananiah, Elam, Anthothijah,
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Ifdeiah, leh Penuel in Shashak’ suante ahi uh hi,
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Shamsherai, Shehariah, Athaliah,
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Ja-areshiah, Elijah, leh Zikri in Jehoham’ suante
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Hihte in amau’ khang tawh kizui-in beh lutangte, a
+        ukpite ahi uh hi. Hihte Jerusalem ah teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Gibeon khuapi a satpa Jeiel in Gibeon ah teeng a,
+        ama zi’ minin Ma-akah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Ama tapa upa pen in: Abdon, tua ciangin Zur, Kish,
+        Baal, Nadab,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Gedor, Ahio, Zekher,
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>leh Mikloth (amah in Shimeah’ pa) ahi hi. Tu-in
+        amau’ suan leh khakte zong Jerusalem a, amau’ behte’ gal khatah amau’ behte mah tawh
+        teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Ner in Kish’ pa, Kish in Saul’ pa ahi hi. Saul in
+        Jonathan, Malkhishua, Abinadab leh Eshba-al’ pa ahi hi;
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>tua ciangin Jonathan’ tapa in Meribba-al ahi hi;
+        Meribba-al in Mikah’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Mikah’ tapate in: Pithon, Melek, Tarea, leh Ahaz ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Ahaz in Jehoaddah’ pa ahi hi; Jehoaddah in Alemeth,
+        Azmaveth, leh Zimri’ pa ahi hi. Zimri in Moza’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Moza in Binea’ pa ahi hi; Binea’ tapa Rafah, a tapa
+        Eleasah, a tapa Azel ahi hi.
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>Azel in tapa guk nei a, hihte in amau’ min ahi hi.
+        Azrikam, Bokheru, Ishmeal, Sheariah, Obadiah, leh Hanan ahi uh hi. Hihte khempeuh in
+        Azel’ tapate ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>Azel’ sanggampa Eshek’ tapate in: a tacil Ulam, a
+        nihna Jeush, leh a thumna Elifelet ahi hi.
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>Ulam’ tapate in a thahat galhangte, thaltawite, tapa
+        tampi leh tupa tampi a neite hi a, mi za leh sawmnga pha uh hi. Hihte khempeuh in
+        Benjamin minamte ahi hi.
+  </para>
+  <chapter number="9" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tua ahih ciangin Israel khempeuh khangsimna ah
+        kiciamteh hi; Israel Kumpite’ Laibu sungah hihte kigelh hi. Amau’ thuman’lohna
+        hangin daan piakna-in Babilon ah salin Judah mite kipaipih hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tu-in amau’ neihsa amau’ khuapite’ sungah a teeng kik
+        masate in Israel nautangte, siampite, Levi mite, leh biakinn nasemte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Tua ciangin Judah, Benjamin, Efraim, leh Manasseh mi
+        pawl khat Jerusalem ah teeng uh a, tuate in:
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Judah’ tapa Perez’ tapate sung panin Bani’ tapa Imri,
+        a tapa Omri, a tapa Ammihud, a tapa Uthai in a makai ahi hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tua ciangin Judah’ tapa Shelah mite sung panin:
+        Innkuan lutang Asaiah in a makai ahi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Judah’ tapa Zerah’ mite sung panin: Jeuel in a makai
+        ahi hi. Judah minam sung panin innkuan zaguk leh sawmkua ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Benjamin mite sung panin: Hassenuah’ tapa Hovadiah, a
+        tapa Meshullum, a tapa Sallu ahi hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua ciangin Jehoram’ tapa Ibneiah, Mikri ta Uzzi, a
+        tapa Elah, leh Ibnijah ta Reuel, a tapa Shefatiah, a tapa Meshullam ahi hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Benjamin minamte sung panin innkuan za kua leh
+        sawmnga-le-guk ahi hi. Hih min kilote khempeuhte in amau’ beh ciatah beh lutangte
+        ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Siampite’ sung panin: Jedaiah, Jehoiarib, Jakhin,
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>leh Pasian’ inn sung a ukpipa Ahitub’ tapa Marioth,
+        a tapa Zadok, a tapa Meshullam, a tapa Hilkiah’ tapa Azariah:
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>leh Malkhijah’ tapa Pashhur, a tapa Jehoram’ tapa
+        Adaiah, leh Immer’ tapa Meshillemith, a tapa Meshullam, a tapa Jahzarah, a tapa
+        Adiel’ tapa Ma-asai ahi hi;
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>hihte banah amau’ behte, a beh lutangte, Pasian’
+        innah nasep nadingin a siam mahmah mihing tulkhat leh zasagih leh sawmguk ahi hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Levi mite sung panin: Marari’ tapate sung pan
+        Hashabiah, a tapa Azikam, a tapa Hasshub’ tapa Shemaiah;
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>leh Bakbakkar, Heresh, Galal, leh Asaf tapa Zikri, a
+        tapa Mika’ tapa Mattaniah;
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>leh Jeduthun’ tapa Galal, a tapa Shemaiah’ tapa
+        Obadiah, leh Netofah mite’ khuaneute sungah a teeng Elkanah’ tapa Asa’ tapa
+        Berekhiah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Kulhkongpi cingte in: Shallum, Akkub, Talmon, leh
+        Ahiman hi a, Shallum in amau’ makaipa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tu dongin Kumpipa’ Kulhkongpi nisuahna lam pangah a
+        omte ahi uh hi. Hihte in Levi mite omna kongcingte ahi ngei uh hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>A pu a pate un lutna mun a cing, Topa’ phual a ukte
+        ahih mah bangin Korah’ tapa Ebiasaf, a tapa Kore’ tapa Shallum, leh a behte ahi
+        Korah mite in nasepna a uk, puanbuk kong a cingte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Eleazar’ tapa Finehas in a beisa hun sungah amaute
+        in ukpa ahi hi; Topa in amah ompih hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Meshellemiah tapa Zekhariah in kikhopna puanbuk
+        lutna ah kongcingpa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Sangkil-ah kongcing-in a kitel hih mite khempeuh in
+        zanih leh sawm-le-nih ahi hi. Amaute a khuaneute uh-a khangsimna ah kiciamteh uh hi.
+        David leh thu-mupa Samuel in amau’ panmun-ah amaute phut hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tua ahih ciangin amaute leh a suan a khakte un Topa’
+        inn kulhkongpite a uk, puanbuk inn a cingte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Kongpi cingte in a pang li, nisuahna, nitumna,
+        leilu, leh leitaw lamah om uh hi;
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>tua ciangin amau’ khuaneute sungah a om a behte uh
+        hih mite tawh a om dingin a hun hunin ni sagih simin hong pai ding uh a kisam ahi
+        hi;
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>bang hang hiam cih leh Levi mi ahi kongpi a cing
+        ukpi lite in inn sungte leh Pasian’ inn van manpha koihnate a uk ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Pasian’ inn kiimah amaute giak uh hi; bang hang hiam
+        cih leh amaute tungah vilna nasep leh zingsang simin kong a hon’ dingin nasep kiguan
+        hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Amaute pawlkhat in biakinn sunga kizang um-le-beelte
+        uk uh hi; bang hang hiam cih leh tua nazatte hong kitumpih ciang hita leh a
+        kilakkhiat ciang hita leh a mal zah a sim ding uh kisam hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Amau adang pawl khatte tutphah sabuaite leh a kituam
+        koih um-le-beel, an neelte, leenggahzute, sathaute, paknamtuite, leh a namtui nate
+        zong a en dingin kiseh hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Siampite’ ta adangte in a namtui nate hel dingin
+        bawl uh a,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>tua ciangin Korah mi Shallum’ tacil, Levi mite lak
+        pan Mattiah in biak nading moh pheengte bawl ding hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Kohath mi amau’ behte pawlkhat in zong sabbath simin
+        koih ding Ompihna Anlum uk uh hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Tu-in hihte in lasate, Levi mi beh lutangte, nasep
+        dangte panin pengin biakinn deite sungah a teengte ahi uh hi; bang hang hiam cih leh
+        amaute in sun leh zanin na sem uh hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Hihte in Jerusalem ah a teeng amau’ khang tawh
+        kizui-in makaite, Levi mi beh lutangte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Gibeon-ah Gibeon khuapi a satpa Jeiel teeng a, ama
+        zi’ min in Ma-akah hi-in,
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>a tapa upa pen in Abdon, tua ciangin Zur, Kish,
+        Baal, Ner, Nadab,
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Gedor, Ahio, Zekhariah, leh Mikloth ahi hi;
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>tua ciangin Mikloth in Shifeam’ pa ahi hi; amau’
+        suan leh khakte zong Jerusalem a, a behte uh gal khatah a behte uh tawh teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>Ner in Kish’ pa, Kish in Saul’ pa ahi hi. Saul in
+        Jonathan, Malkhishua, Abinadab, leh Eshbaal’ pa ahi hi;
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>Jonathan’ tapa in Meribbaal ahi hi; Meribbaal in
+        Mikah’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="41" style="v"/>Mikah tapate in: Pithon, Melek, Tahrea, leh Ahaz ahi
+        uh hi;
+  </para>
+  <para style="p">
+    <verse number="42" style="v"/>Ahaz in Jarah’ pa hi a, Jarah in Alemeth, Azmaveth,
+        leh Zimri’ pa ahi hi; Zimri in Moza’ pa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="43" style="v"/>Moza in Binea’ pa ahi hi; a tapa Refaiah, a tapa
+        Eleash, a tapa Azel ahi hi.
+  </para>
+  <para style="p">
+    <verse number="44" style="v"/>Azel in tapa guk nei a, amau’ minte in: Azrikam,
+        Bokheru, Ishmael, Sheraiah, Obadiah, leh Hanan ahi uh hi; hihte in Azel’ tapate ahi
+        uh hi.
+  </para>
+  <chapter number="10" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tu-in Filistiate in Israel mite sim uh hi; Filistiate
+        mai-ah Israel mite tai uh a, Gilboa Mual tungah tuk zeizai uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Filistiate in Saul leh a tapate pha uh hi; tua ciangin
+        Filistiate in Saul’ tapate Jonathan leh Abinadab leh Malkhishua that uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Gal kidona in Saul neh mahmah a, thaltawite in amah
+        pha hi; thaltawite in amah liamsak hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua ciangin Saul in a galvan puapa kiangah, “Na namsau
+        dok in la tua tawh kei hong sun let in, tua hi kei leh hih dawi bia mite hong pai-in
+        kei hong khel bawl kha ding uh hi,” a ci hi. Ahih hangin a galvan puapa in hih ngam
+        lo hi; bang hang hiam cih leh amah lau mahmah hi. Tua ahih ciangin Saul in ama
+        namsau la-in tua tungah puk hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>A galvan puapa in Saul a sihna a muh ciangin amah zong
+        ama namsau tungah pukin si hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua bangin Saul si hi; amah leh a tapa thumte leh a
+        innkuan khempeuh si khawm uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Kuam sungah a om Israel mite khempeuh in galkapte tai
+        khinin Saul leh a tapate a sihna a muh uh ciangin amaute in a khuapite uh nusia-in
+        tai uh hi; tua ciangin Filistiate hong pai-in khuate sungah teeng uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>A zing ciangin, Filistiate in a kithatte’ nate a
+        hawkkhia dingin hong pai ciangin Saul leh a tapate Gilboa Mual tungah a sihna mu uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua ciangin amaute in ama nate hawkkhia in, a lutang
+        leh a galhiam la uh a, a milimte uh leh mite kiangah hih thu thak a ko dingin
+        Filistiate gam khempeuh ah kamtaite sawl uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Amaute in amau’ pasian’ biakinn sungah ama galhiam
+        koihin Dagon biakinn sungah ama lutang suang uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Ahih hangin Jabeshgilead mi khempeuh in Saul tungah
+        Filistiate’ hihsa thu khempeuh a zak uh ciangin
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>a thahat mi khempeuh ding-in Saul’ luanghawm leh a
+        tapate’ luanghawmte sut khia-in Jabesh ah paipih uh hi. Tua ciangin amaute in Jabesh
+        a, tawsaw nuai-ah amaute’ guh vui uh a, ni sagih sung an tang uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua ahih ciangin a thuman’lohna hangin Saul si hi;
+        amah in Topa’ thupiakna a zuih lohna, leh vankah khat thu dongin a lamlah ding a
+        zon’na,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>leh Topa tung panin lamlahna a zon’ lohna ah Topa
+        tungah a thuman lo ahi hi. Tua ahih ciangin Topa in amah that a, Jessi’ tapa David
+        tungah kumpi gam hei hi.
+  </para>
+  <chapter number="11" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tua ciangin Israel mi khempeuh David kiang Hebron ah
+        kikhawm uh a, “En in, kote in nangma guh leh nangma sa ka hi uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>A hun beisa, Saul kumpi ahih sung nangawnin Israel a
+        kuankhiatpih leh a ciahpih in nangmah na hi hi; Topa na Pasian in nangma kiangah,
+        ‘Nangmah in ka mi Israelte a cingpa na hi ding a, ka mi Israelte tungah ulian na hi
+        ding hi,’ hong ci hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Tua ahih ciangin Israel upate khempeuh kumpipa kiang
+        Hebron ah hong pai uh hi; tua ciangin David in Topa mai Hebron ah amaute tawh
+        thuciamna khat bawl a, Samuel’ tung tawnin Topa’ thugen bangin amaute in Israel
+        kumpi-in David sathau nilh uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua ciangin Jebus mite a ten’na, Jebus a kici
+        Jerusalem ah David leh Israel mi khempeuh hong pai uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Jebus ah a teeng mite in David kiangah, “Hih lai-ah
+        nang nong pai kei ding hi,” a ci uh hi. Ahi zongin David in David khuapi a kici Zion
+        mun muanhuai la hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>David in, “Jebus mite a va sim masa peuhpeuh in ukpi
+        leh ukpa hi ding hi,” a ci hi. Tua ciangin Zeruiah’ tapa Joab kuanto masa a, tua
+        ahih ciangin amah in ukpi suak hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Tua ciangin mun muanhuaina sungah David teeng hi; tua
+        ahih ciangin tua khua in David khuapi kici hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua ciangin amah in Millo panin a kualin khuapi lam
+        hi; Joab in khuapi sung a om lai mun teng puahkik hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Vanglianpen Topa in amah tawh om ahih manin David lian
+        semsem hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tu-in hihte in Israel tawh kisai-in Topa’ thugen
+        bangin amah kumpi-in a bawl dingin Israel khempeuh tawh ama kumpi gam sungah amah
+        nakpi takin a huh David’ mi a thahat a ukpite ahi hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>David’ mi a thahatte a kiciamtehna in: Hakmoni mi
+        Jashobeam in mi thumte a ukpi ahi hi; amah in a teipi tawh mihing zathum do a, hun
+        khat sungin that khin hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Tua ciangin a thahat mihing thumte lak panin amah a
+        zompa in Ahoah-te beh Dodo’ tapa Eleazar ahi hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Filistiate galdo dingin a kikaihkhop lai takin amah
+        in Pasdammin ah David tawh om hi. Tua lai-ah mangbuhham a dimna leitang khat om a,
+        Filistiate kiang pan mite tai hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Ahih hangin amah in tua leitang laizangah panmun
+        la-in hu a, Filistiate that hi; tua ciangin Topa in zawhna lianpi tawh amaute
+        honkhia hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Refaim kuamah Filistia galkapte in giahphual a sat
+        lai takun Adullam leihawm David kiang suangpi ah ukpi sawmthumte sung panin mihing
+        thum paisuk uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Tua hunin mun muanhuai sungah David om hi; Filistia
+        khua cingte Bethlehem ah om uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Tua ciangin David in, “Kulhkongpi gei-a Bethlehem
+        tuikhuk panin mi khat in tui dawn ding kei hong pia leh!” ci-in lunggulhna tawh pau
+        hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua ciangin a thahat mihing thumte in Filistiate’
+        giahphual phulin kulhkongpi gei-a om Bethlehem tuikhuk panin tui tawi uh a, a tui
+        la-in David kiangah paipih uh hi. Ahih hangin David in tua tui dawn lo hi; amah in
+        Topa adingin sung a,
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>“Ka Pasian’ mai-ah hih bangin ka gamta het kei ding
+        hi. Hih mihingte’ nuntakna sisan tui dawn ding ka hi hiam? Bang hang hiam cih leh
+        amaute in a nuntakna uh khamin kei kiangah hong paipih uh hi,” a ci hi. Tua ahih
+        ciangin amah in dawn lo hi. A thahat mi thumte in hih nate sem uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Tu-in Joab’ sanggampa Abishai in sawmthumte lakah a
+        ukpi ahi hi. Amah in a teipi tawh mihing zathum doin amaute that a, mihing thumte’
+        banah min khat ngah hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Amah in mihing sawmthumte sung panin a minthang pen
+        hi a, amaute a ukpa suak hi; ahih hangin amah in mihing thumte ban lo hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Jehoiada’ tapa Benaiah in Kabze-el khuami gal a
+        hang, na lianpite a sempa ahi hi; amah in Moab galhang minih vat lum hi. Amah zong
+        paisukin vuk a kiat ni khatin leihawm sunga om humpinelkai khat that hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Amah in Izipt mi khat, a tha gol, pi sagih leh a
+        lang a sang khat that hi. Iziptpa in a khut sungah siamgante’ siamlawngpi cia a pha
+        teipi khat nei hi; ahih hangin Benaiah ciangkhut khat tawh ama kiangah paisuk a,
+        Iziptpa’ khut sung panin a teipi sut khia-in ama teipi mah tawh amah that hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Jehoiada’ tapa Benaiah in hih nate sem a, a thahat
+        mi thumte banah min khat ngah hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Mihing sawmthumte lakah amah minthang a, ahih hangin
+        amah in mi thumte ban lo hi. Tua ciangin David in amah a cingte a ukin koih hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Galkap lak panin a thahat mite in Joab’ sanggampa
+        Asahel, Bethlehem khuami Dodo’ tapa Elhaan,
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Harod khuami Shammoth, Pelon khuami Helez,
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Tekoa khuami Ikkesh’ tapa Ira, Anathoth khuami
+        Abiezer,
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Hushah khuami Sibbekai, Ahoah-te beh Ilai,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Netofah khuami Maharai, Netofah khuami Baanah’ tapa
+        Heled,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Benjamin mite sung panin Gibeah khuami Ribai’ tapa
+        Ithai, Pirathon khuami Benaiah,
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Ga-ash mualkuam mi Hurai, Betharabah khuami Abiel,
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Baharum khuami Azmaveth, Sha-albon khuami Eliahba,
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Gizon khuami Hashem, Harar khuami Shagee’ tapa
+        Jonathan,
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Harar khuami Sakher’ tapa Ahiam, Ur’ tapa Elifal,
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Mekherah khuami Hefer, Pelon khuami Ahijah,
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Karmel khuami Hezro, Ezbai’ tapa Na-arai,
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>Nathan’ sanggampa Joel, Hagri’ tapa Mibhar,
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>Ammon mi Zelek, Zeruiah’ tapa Joab’ galhiam puapa
+        Be-eroth khuami Naharai,
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>Ithri mi Ira, Ithri mi Gareb,
+  </para>
+  <para style="p">
+    <verse number="41" style="v"/>Hit mi Uriah, Ahlai’ tapa Zabad,
+  </para>
+  <para style="p">
+    <verse number="42" style="v"/>Reuben mite’ makai khat ahi, Reuben mi Shiza’ tapa
+        Adina, leh amah tawh mihing sawmthum,
+  </para>
+  <para style="p">
+    <verse number="43" style="v"/>Ma-akah’ tapa Hanan, leh Mithni mi Joshafat,
+  </para>
+  <para style="p">
+    <verse number="44" style="v"/>Ashterath khuami Uzzia, Aroer khuami Hotham’ tapate
+        Shama leh Jeiel,
+  </para>
+  <para style="p">
+    <verse number="45" style="v"/>Shimri’ tapa Jediael, leh Tiz khuami a sanggampa
+        Joha,
+  </para>
+  <para style="p">
+    <verse number="46" style="v"/>Mahavah khuami Eliel, leh Elna-am’ tapate Jeribai
+        leh Joshaviah, leh Moab mi Ithmah,
+  </para>
+  <para style="p">
+    <verse number="47" style="v"/>Zobah khuami Eliel, Obed, leh Jaasiel ahi uh hi.
+  </para>
+  <chapter number="12" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tu-in Kish’ tapa Saul’ hangin a ut utin a tat theih
+        loh lai takin Ziklag a, David kiangah hong paite in hih mite ahi hi; gal sungah amah
+        a huh a thahatte lakah amaute a kihelte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Amaute in thaltawite hi uh a, tak lam khut ahi a, vei
+        lam khut tawh ahi zongin thaltang leh suangte lawn thei uh hi: amaute in Saul’ behte
+        Benjamin mi ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>A ukpi in Ahiezer hi a, tua ciangin Joash ahi hi,
+        amaute gel in Gibeah khuami Shema-ah’ tapate ahi uh hi; Azamveth’ tapate Jeziel leh
+        Pelet zong ahi hi; Anathoth khuami Berakah leh Jehu zong ahi hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Gibeon khuami Ishmaiah in mihing sawmthumte lakah a
+        thahatpa leh sawmthumte a makaipa ahi hi; Gederah khuami Jeremiah, Jahaziel,
+        Johanan, leh Jozabad zong ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Harif mi Eluzai, Jerimoth, Bealiah, Shemariah, leh
+        Shefatiah zong ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Korah mi Elkanah, Issaiah, Azarel, Joezer, leh
+        Jashobeam zong ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Tua ciangin Gedor khuami Jeroham tapate Joelah leh
+        Zebadiah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Gad minam sung panin gamlak a, mun muanhuai a, David
+        kiangah a thahat a siam galhangte, lum leh teipi zat a siam, a maitang uh
+        humpinelkai maitang bangin, mual tunga om sakhi bangin a manlang mi hong paite in:
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>A ukpi Ezer, a nihna Obadiah, a thumna Eliab,
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>a lina Mishamannah, a ngana Jeremiah,
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>a gukna Attai, a sagihna Eliel,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>a giatna Johanan, a kuana Elzabad,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Hih Gad mite in galkap uliante hi a, a neuzawte in
+        zakhat val, a golzawte in tulkhat val uk uh hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Hihte in Jordan a piau khempeuh a dimlet laitak kha
+        masa sungin Jordan kantanin kuam sunga om mite nisuahna lam leh nitumna lamah a
+        taisak mite ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Tua ciangin Benjamin mi leh Judah mi pawlkhat David
+        kiang mun muanhuai ah hong pai uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Amaute dawntuah dingin David pai khia-in amaute
+        kiangah, “Kei kiangah kilawmtatna tawh keimah huh dingin hong pai na hih uh leh note
+        tawh ka lungsim kihual khawm ding hi; ahih hangin keimah in bangmah khialhna nei lo
+        napi-in ka langte tungah kei a lehhek dingin hong pai na hih uh leh, i pu i pate’
+        Pasian in thei hen la, note hong tai hen,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua ciangin mihing sawmthum a ukpipa Amasai tungah
+        Pasian Kha Siangtho hong tung a, amah in, “Kote in nangma’ aa hi ung, David aw; nang
+        tawh om ung, Jessi’ tapa aw! Nopna, nopna nang tungah om hen la, nang hong huhte
+        tungah nopna om ta hen!
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Saul a do dingin Filistiate tawh David a kuan lai
+        takin Manasseh mi pawlkhat tai-in David beel hi. (Ahi zongin David in Filistiate huh
+        thei lo hi; bang hang hiam cih leh Filistiate a ukte in thu kikupna khat nei uh a,
+        “Eite’ makaite’ siat nadingin a topa Saul kiangah David tai ding hi,” ci-in amah
+        sawl khia uh hi.)
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>David Ziklag ah a pai lai takin Manasseh sung panin
+        tai-in amah a beelte in: Adnah, Jozabad, Jediael, Mikhael, Jozabad, Elihu, leh
+        Zillethai, Manasseh sungah mi a tul-in a ukte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Amaute in mi’ na a sut thei mite panin David huh uh
+        hi; bang hang hiam cih leh amaute in a thahat a vanglian mi hi uh a, galkap sungah a
+        ukte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Pasian’ galkap hon bangin galkap hon tampi a phak
+        dongin a ni ni-in David huh dingin mi hong pai pai hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Hihte in Topa’ thugen bangin Saul’ kumpi gam ama
+        tungah a hei dingin Hebron a, David kiangah a pai galkap a khen phazah ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Judah mi lum leh tei a pua galkap tulguk leh zagiat
+        ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Simeon mite sung panin galdo dingin a thahat a
+        vanglian mihing tulsagih leh zakhat ahi hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Levi mite sung panin tulli leh zaguk ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Aaron’ suante ulian Jehoiada, leh amah tawh mi
+        tulthum leh zasagih ahi hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>A thahat a vanglian a khangto Zadok, leh ama beh
+        sung panin galkap a ukte mi sawmnih-le-nih ahi hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Tua hun ciang dong mi a tamzaw Saul tawh a kipawl,
+        Saul’ behte ahi Benjamin mite sung panin mihing tulthum ahi hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Efraim mite sung panin a thahat a vanglian, amau’
+        beh sungah a minthang mi tul sawmnih leh zagiat ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Manasseh minam a lang sung panin, hong pai-in David
+        kumpi-in a bawl dingin a min a kilo mihing tulsawm leh tulgiat ahi hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Issakhar sung panin Israel in bang a sep dingin
+        kilawm cih a thei, hun pai zia a thei ukpi zanih leh amau’ ukna nuai-ah a om amau’
+        behte khempeuh ahi hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Zebulun sung panin David huh dingin lungsim a
+        kikhat, hun khempeuh ah gal a kap thei galdo nadingin galhiam khempeuh a nei mihing
+        tul sawmnga ahi hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Naftali sung galkap a ukte tulkhat leh amaute tawh a
+        om lum leh tei a tawi mihing tul sawmthum leh tulsagih ahi hi.
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>Dan mite sung panin gal do dingin a kitawi mihing
+        tul sawmnih leh tulgiat leh zaguk ahi hi.
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Asher sung panin galdo dingin a baihsa-in a om hun
+        khempeuhah gal a kap thei mihing tul sawmli ahi hi.
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Jordan gal khat a, om Reuben mite leh Gad mite leh
+        Manasseh minam a langte sung panin galhiam khempeuh tawh a kithawi mihing tul zakhat
+        leh tul sawmnih ahi hi.
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>Galkap mi ahi; galsim ding a kithawi hih mite
+        khempeuh, Israel tungah David kumpi-in koih ding ngaihsutna takpi tawh Hebron ah
+        hong pai uh hi; tua mah bangin Israel a om laite khempeuh in zong David kumpi-in a
+        bawl ding uh ngaihsutna kikhat uh hi.
+  </para>
+  <para style="p">
+    <verse number="39" style="v"/>A sanggamte un amaute’ adingin na vaihawm khol uh
+        ahih manin amaute tua lai-ah David tawh nithum sung an ne tui dawnin omkhawm uh hi.
+  </para>
+  <para style="p">
+    <verse number="40" style="v"/>Israel sungah lungdamna om ahih manin a vengte uh
+        Issakhar leh Zebulun leh Naftali ciang dong panin zong hong pai-in late leh kalaote
+        leh la-sakolte leh bawngtalte tawh an hong pua-in, an tampi tak, thei mohte,
+        leenggahkeu bawkte, leh leenggahzu leh sathau, bawngtalte leh tuute hong puak uh hi.
+  </para>
+  <chapter number="13" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>David in a tul-a ukte leh a za-a ukte leh makai
+        khempeuh tawh kikupna khat nei hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin David in Israel a kikhawm khempeuhte
+        kiangah, “Note in kilawm na sak uh a, Topa i Pasian’ deihna ahih leh, amaute eite
+        kiangah hong pai khop theih nadingun Israel gam sungah a om lai i sanggamte leh
+        lonona gam a nei khuapi sunga om siampite leh Levi mite kiangah mi sawl ni.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Tua ciangin thuciamna singkuang eite kiangah la kik
+        ni; bang hang hiam cih leh Saul’ hun lai-in i don kei hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua thu mi khempeuh in hoih sa ahih manin tua bangin
+        hih ding a kikhawm khempeuh thukim uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tua ahih ciangin Kiriath-jearim panin Pasian’
+        thuciamna singkuang a ciahpih dingin David in Izipt gam Shihor lui panin Hamath
+        lutna ciang dong Israel khempeuh khawm hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua ciangin David leh Israel khempeuh, kherubte tungah
+        a tu Topa’ min tawh a kilo Pasian’ thuciamna singkuang a paipih to dingin,
+        Kiriath-jearim a kici Baalah ah paito uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Amaute in Abinadab’ inn panin leeng thak khat tungah
+        Pasian’ thuciamna singkuang pua uh a, Uzza leh Ahio in leeng hawl uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua ciangin David leh Israel khempeuh in Pasian’
+        mai-ah la leh laiza lasakna leh harp lasakna leh khuangneute leh daltuahte leh
+        peengkulte leh a tha neih zah uh tawh gualnopna bawl uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Amaute Khido’ ancilna phual a tun’ uh ciangin
+        bawngtalte muktu ahih manin Uzza in thuciamna singkuang len dingin a khut va zan kha
+        hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua ciangin Uzza tungah Topa heh hi; amah in a khut
+        tawh thuciamna singkuang su-kha ahih manin Topa in amah vat hi; tua ciangin Pasian’
+        mai tua lai-ah amah si hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Uzza tungah Topa hehin daan pia ahih manin David
+        zong a heh suak hi; tua mun in tu ni dongin Perez-uzza kici hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Tua ni-in David in Pasian kihta hi; amah in,
+        “Pasian’ thuciamna singkuang kei kiang innah bangci ciahpih theih ding ka hi hiam?”
+        a ci hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua ahih ciangin David in a inn David khuapi ah
+        thuciamna singkuang ciahpih lo a, Gath mi Obededom’ innah va koih hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Tua ciangin Pasian’ thuciamna singkuang Obededom’
+        innkuan tawh kha thum sung om hi; Topa in Obededom’ innkuan leh a neih khempeuh
+        thupha pia hi.
+  </para>
+  <chapter number="14" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tua ciangin Tai-ar kumpipa Hiram in David kiangah
+        kamtaite leh taamtaak singte, ama adingin inn khat a lamsak dingin lei-le-suang inn
+        lam siamte leh khutsiamte zong puak hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin David in Israelte tungah kumpi-in Topa in
+        amah a kipsak khitna leh ama mi Israelte’ hangin ama kumpigam nakpi takin a lianin a
+        kibawlna phawktel hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>David in Jerusalem ah zi nei thuahin tapate leh tanute
+        nei hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Jerusalem ah a neih a tate’ min in: Shammua, Shobab,
+        Nathan, Solomon,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Ibhar, Elishua, Elpelet,
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Nogah, Nefeg, Jafia,
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Elishama, Beel-i-ada, leh Elifelet ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Israel khempeuh tungah kumpi-in David sathau a
+        kinilhna thu Filistiate in a zak uh ciangin David zong dingin Filistiate khempeuh
+        kuanto uh hi; David in tua thu za-in amaute do dingin kuankhia hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tu-in Filistiate hong pai-in Refaim kuam sung luh uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua ciangin David in Pasian thu dong a, “Filistiate
+        doin ka kuanto ding hiam? Keima khut sungah amaute nong pia ding hiam?” a ci hi. Tua
+        ciangin Topa in ama kiangah, “Kuanto in, nangma khut sungah amaute kong pia ding
+        hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Tua ciangin Baalperazim ah David paito a, amah in
+        tua lai-ah amaute zo hi; tua ciangin David in, “Tuikhang in a phulkhap bangin Pasian
+        in keima khut tawh ka galte phulkham hi,” a ci hi. Tua ahih ciangin tua mun a min in
+        Baalperazim kici hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Filistiate in tua lai-ah a pasiante uh nusia uh a,
+        David’ thupiakna tawh tuate mei sungah kihal hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua ciangin Filistiate in kuam sung luh kik lai uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>David in Pasian thu a dot kik ciangin Pasian in ama
+        kiangah, “Amaute’ nungah na kuanto kei ding hi; kual pai in la lungli kungte gal
+        khat lam panin amaute hih in.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Lungli kungte’ dawnah kalsuan huging na zak ciangin
+        galsim dingin pai in; bang hang hiam cih leh Filistia galkapte a vat dingin nangma
+        mai-ah Pasian kuan khin hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Pasian in amah a thupiak bangin David gamta a,
+        amaute in Gibeon panin Gezer ciang dong Filistia galkapte vat gawp uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Tua ciangin David minthan’na in gam khempeuh zel a,
+        Topa in minam khempeuh tungah amah kikihtakna tungsak hi.
+  </para>
+  <chapter number="15" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>David in ama adingin David khuapi sungah innte lam hi;
+        amah in Pasian’ thuciamna singkuang’ adingin mun khat bawlin puanbuk khat lamsak hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin David in, Topa’ thuciamna singkuang a pua
+        ding leh ama na a sem tawntung dingin Topa in amaute teel ahih manin Levi mite sim
+        loh kuamah in Pasian’ thuciamna singkuang pua thei lo ding hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Tua ciangin amah in a bawlsa, ama om nading munah
+        Topa’ thuciamna singkuang a paipih to dingin David in Jerusalem ah Israel khempeuh
+        khawm hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua ciangin David in Aaron’ suante leh Levi mi a
+        khopte in:
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Kohath-te beh sung panin a ukpi Uriel, a behte za leh
+        sawmnih tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Merari-te beh sung panin a ukpi Asaiah, a behte zanih
+        leh sawmnih tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Gershom-te beh sung panin a ukpi Joel, a behte za leh
+        sawmthum tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Elizafan-te beh sung panin a ukpi Shemaiah, a behte
+        zanih tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Hebron-te beh sung panin a ukpi Eliel, a behte
+        sawmgiat tawh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Uzziel-te beh sung panin a ukpi Amminadab, a behte
+        za leh sawm-le-nih tawh ahi hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Tua ciangin David in siampite Zadok leh Abiathar,
+        leh Levi mite Uriel, Asaiah, Joel, Shemaiah, Eliel, leh Amminadab sam a,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>amaute kiangah: Note in Levi mite beh lutangte na hi
+        uh hi; ama adingin ka bawlsakna munah Israel Pasian, Topa thuciamna singkuang na
+        paipih toh theih nadingun note leh na Levi mipihte uh nomau mah kisiansuah tawm un.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>A masa lai-in no Levi mite na om kei uh a, a kisehsa
+        bang danin kem lo i hih manin eite tungah Topa i Pasian hong hehin daan hong pia hi,
+        a ci hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Tua ahih ciangin Israel Pasian, Topa’ thuciamna
+        singkuang a paipih to dingin siampite leh Levi mite amau mah kisiansuah tawm uh hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Tua ciangin Topa’ kamgenna tawh kizui-in Moses’
+        thupiak bangin Levi mite in a liangko uh tungah zawlte tawh Topa’ thuciamna
+        singkuang pua uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Lungdamna aw gin’sak nadingin, la sakna nate, harp
+        lasakna leh laiza lasaknate leh daltuahte nakpi takin tumin la a sa dingin Levi
+        ukpite in a mipihte uh a seh nading David in thu pia hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Tua ahih ciangin Levi mite in Joel’ tapa Heman seh
+        uh hi; tua ciangin a behte sung panin Berekhiah’ tapa Asaf; Merari minam sung panin
+        a behte uh Kushaiah’ tapa Ethan;
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>tua ciangin amaute tawh pawl nihna-in a behte uh
+        Zekhariah Ja-aziel, Shemiramoth, Jehiel, Unni, Eliab, Banaiah, Maaseiah, Mattithiah,
+        Elifelehu, leh Mikneiah, leh kongcingte Obededom leh Jeiel seh uh hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Lasate Heman, Asaf, leh Ethan-te in sumngo daltuahte
+        a tum ding ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Zekhariah, Aziel, Shemiramoth, Hehiel, Unni, Eliab,
+        Ma-asseiah, leh Benaiah-te in a paisuak-aw-in harp lasaknate a tum ding uh ahi hi;
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>ahih hangin Mattihiah, Elifelehu, Mikneiah,
+        Obededom, Jeiel, leh Azaziah-te in laiza lasaknate a un-aw-in makai ding ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Levi mite sungah la makai Khenaniah in la uk ding
+        hi; bang hang hiam cih leh amah in thei hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Berekhiah leh Elkanah-te in thuciamna singkuang
+        ading kongcingte hi ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Siampite Shebaniah, Joshafat, Nethanel, Amasai,
+        Zekhariah, Benaiah, leh Eliezer-te in Pasian’ thuciamna singkuang mai-ah peengkulte
+        tum ding uh hi. Obededom leh Jehiah-te zong thuciamna singkuang’ adingin kongcingte
+        hi ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Tua ahih ciangin David leh Israel upate, leh a tul-a
+        a ukte, Obededom’ inn panin lungdamna tawh Topa’ thuciamna singkuang a paipih to
+        dingin pai uh hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Pasian in Topa’ thuciamna singkuang a pua Levi mite
+        huh ahih manin amaute in bawngtal sagih leh tuutal sagih biakna-in pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>David in saihadial puan tualpi silh a, tua mah
+        bangin thuciamna singkuang a pua Levi mite khempeuh, leh lasate, leh lasate a uk
+        Khenaniah-te in zong silh uh hi; tua ciangin David in siampi puan khat silh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Tua ahih ciangin Israel khempeuh in sakite leh
+        peengkulte, leh daltuahte’ awging tawh kizui-in otna tawh Topa’ thuciamna singkuang
+        paipih to uh a, harp lasaknate leh laiza lasaknate tawh nakpi takin la sa uh hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Topa’ thuciamna singkuang David khuapi hong tun’ lai
+        takin Saul’ tanu Mikhal in kongvangneu panin na en a, Kumpi David laamin a
+        gualnuam-a om a mu hi; tua ciangin amah in a lungsim sungah David neu-et hi.
+  </para>
+  <chapter number="16" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tua ciangin amaute in Pasian’ thuciamna singkuang hong
+        tumpih uh a, David in ama adingin a lamsak puanbuk sungah koih uh hi; tua ciangin
+        meihal biakna leh thu-nuama biaknate Pasian’ mai-ah pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>David in meihal biaknate leh thu-nuama biaknate a piak
+        a man khit ciangin amah in Topa’ min tawh thupha pia a,
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Israel mi numei leh pasal khempeuhte tungah anlum lum
+        khat, sa bak khat, leh leenggahkeu bek khat ciat hawm hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua tham loin amah in Topa’ thuciamna singkuang mai-ah
+        na semin thu ngen ding, lungdamna ko ding, leh Israel Pasian, Topa a phat dingin
+        Levi mite pawlkhat seh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Asaf in a ukpi hi a, amah zomah a nihnate in
+        Zekhariah, Jehiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Banaiah, Obededom, leh
+        Jeiel, harp lasaknate leh laiza lasaknate a tum dingte ahi uh hi; Asaf in daltuahte
+        a tum ding hi a,
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>siampite Benaiah leh Jahaziel-te in Pasian’ thuciamna
+        singkuang mai-ah peengkulte a tum paisuak ding uh ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Tua ciangin tua ni-in David in Asaf leh a Levi mipihte
+        in Topa’ tungah lungdamkohna la a sak ding seh masa hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Topa’ tungah lungdamna ko-in, ama min lo un la, ama
+        sepnate mite lakah kitheisak un!
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Amah la sak un, phatna la amah sak un la, a lamdang
+        ama septe khempeuh gen un!
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Ama min siangtho hangin nuamin diang un la, Topa a
+        zong mite lungdam ta hen!
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Topa leh ama hatna zong un la, ama ompihna zong den
+        un!
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Ama hihsa a lamdang nasepte phawk un la, ama hih a
+        lamdangte, a genkhiat thukhennate phawk un,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Ama nasem Abraham’ suante, Jakob’ suante, ama teel
+        tuamte aw!
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Amah in Topa eite’ Pasian hi a, ama thukhennate
+        leitung khempeuh ah om hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Amah in a thuciamna phawk tawntung hi, khang tulkhat
+        adingin a thupiakna kammal,
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Abraham tawh a bawl thuciamna, Isaak tungah kiciamin
+        a khapna,
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Jakob tungah thukhamin amah in a kipsak, Israel
+        tungah tawntung thuciamna-in a kipsak,
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>“Nangma tungah Kanaan gam hong pia-in, gamhluah
+        dingin na tanh dingin kong pia ding hi,” a cihte phawk tawntung hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Amaute a mi-in tawmin, gen taak loin, peemta hi uh
+        a,
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>minam khat pan nam khatah vak kawikawi-in, kumpigam
+        khat pan gamdang khatah a pai lai-in,
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>amah in amaute kuamah nengniam sak lo hi; amaute’
+        hangin amah in kumpite tai a,
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>“Ka sathau nilhte lawng kei un, ka kamsangte tungah
+        siatna hih kei un!” ci hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Leitung khempeuh aw, Topa la sak un! A ni ni-in ama
+        hotkhiatna thu gen un.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Minamte lakah ama minthan’na gen khia un la, a
+        lamdang ama septe mi khempeuh lakah gen un!
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Bang hang hiam cih leh Topa lian a, nakpi takin phat
+        ding ahi hi; pasian khempeuh sangin amah lamdang sak zawk ding ahi hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Bang hang hiam cih leh minam dangte’ pasiante
+        khempeuh milim hi lel a, ahih hangin Topa in vantungte a bawlpa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Pahtawina leh minliatna in amah umcih a, thahatna
+        leh lungdamna in amah kimkot hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Leitung mi khempeuh aw, Topa thei tel un la, Topa’
+        minthan’na leh a thahatna thei tel un!
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Ama’ min in ngah dingin a kilawm zah ciang dong
+        minthan’na Topa tungah pia un; biakna paipih un la, ama mai-ah pai un! Biakna puan
+        silhin Topa bia un;
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>leitung mi khempeuh aw, ama mai-ah ling un; hi hi,
+        leitung kip a, kilok ngei lo ding hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Vantung kipak hen la, leitung lungdam hen, minamte
+        lakah, “Topa maang hi!” amaute in ci ta uh hen.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Tuipi leh a sunga om khempeuh awng hen la, gamlak
+        leh a sunga om khempeuh diang hen!
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Tua ciangin gamlak singte in lungdamin Topa mai-ah
+        la sa ding uh hi, bang hang hiam cih leh leitung thukhen dingin amah hong pai hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Amah hoih ahih manin Topa tungah lungdamna ko un;
+        bang hang hiam cih leh a itna kip a tawntungin a kho hi!
+  </para>
+  <para style="p">
+    <verse number="35" style="v"/>“Kote hong khahkhia in, ka kihotkhiatna Pasian aw,
+        minamte lak panin hong kaikhawmin hong honkhia in, na min siangtho tungah lungdamna
+        kong koh theih nading uh, leh nangmah phatna ah ka minthan’ nadingun,
+  </para>
+  <para style="p">
+    <verse number="36" style="v"/>Israel Pasian, Topa in thupha ngah ta hen, a
+        tawntung pan a tawntung dongin!” zong ci lai un, a ci hi. Tua ciangin mi khempeuh
+        in, “Amen!” ci-in Topa phat uh hi.
+  </para>
+  <para style="p">
+    <verse number="37" style="v"/>Tua ahih ciangin David in ni sim-a a kisam bangin
+        thuciamna singkuang mai-ah na a sem tawntung dingin Asaf leh a Levi mipihte Topa’
+        thuciamna singkuang mai-ah nusia a,
+  </para>
+  <para style="p">
+    <verse number="38" style="v"/>Obededom leh a behte sawmguk-le-giatte zong nusia
+        hi; Jeduthun’ tapa Obededom leh Hosah-te in kongpi cing dingte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="39-40" style="v"/>Tua ciangin amah in Topa’ thukham sungah a
+        kigelh ama thupiak khempeuh bangin, zingsang leh nitakin meihal biakna tau tungah
+        Topa’ adingin meihal biaknate a pia tawntung dingin, Gibeon a, om mual dawn-a Topa’
+        biakbuk mai-ahsiampi Zadok leh a sanggam siampite nusia hi.
+  </para>
+  <para style="p">
+    <verse number="41" style="v"/>Ama itna kip kho tawntung ahih manin, amaute tawh
+        Heman leh Jeduthun, leh Topa tungah lungdamna a ko dingin a kiteel; a minin a kilo
+        khia a om laite om hi.
+  </para>
+  <para style="p">
+    <verse number="42" style="v"/>Heman leh Jeduthun in la aw dingin peengkulte leh
+        daltuahte nei uh a, biakna la sak nadingin lasakna nate nei uh hi. Jeduthun’ tapate
+        kulhkongpi cing dingin kiseh hi.
+  </para>
+  <para style="p">
+    <verse number="43" style="v"/>Tua ciangin mi khempeuh in a inn ciat uhah ciah uh
+        a, David zong a innkuan thupha pia dingin a innah a ciah hi.
+  </para>
+  <chapter number="17" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tu-in David a innah a teen’ ciangin amah in kamsang
+        Nathan’ kiangah, “En in, keimah in taamtaak inn hoih sungah ka teeng a, ahih hangin
+        Topa thuciamna singkuang in puanbuk nuai-ah om hi,’’ a ci hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin Nathan in David kiangah, “Pasian in nang
+        tawh om ahih manin na lungsim a, om khempeuh hih in,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Ahih hangin tua zan mahin Nathan’ kiangah Topa’ thu
+        hong tung a,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>“Pai in la, ka nasempa David kiangah gen in. ‘Topa in
+        hih bangin ci hi: Nangmah in teen’ nadingin kei adingin inn na lam kei ding hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Bang hang hiam cih leh Israelte ka paipih toh a, kipan
+        tu ni dongin inn sungah ka teeng kei a, puanbuk khat pan puanbuk khat, omna khat pan
+        omna khatah ka pai kawikawi hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Israel khempeuh tawh ka painasa mun khempeuh ah, keima
+        mite tuu bangin a cing dingin ka sawl thukhente khatpeuh peuh tungah, “Bang hangin
+        lamsak lo na hi hiam?” ci-in kam khat beek ka gen hiam?’ ci hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Tua ahih ciangin tu-in ka nasempa David kiangah hih
+        bangin na ci ding hi, ‘Vanglianpen’ Topa in hih bangin ci hi, ka mi Israel tungah
+        ulian a hi dingin lonona, tuu na zuihna panin nang kong la hi;
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>na paina peuhpeuh ah nang tawh kong om khin a, na mai
+        panin na galte khempeuh ka susia hi; leitung miliante khat min bangin nang adingin
+        min khat kong bawlsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="9-10" style="v"/>Amau’ innah amaute a teen’ theih nading leh a
+        kinawngkai sak nawn loh nadingin ka mi Israelte’ adingin mun khat sehin amaute ka
+        phut ding hi; ka mi Israelte tungah thukhente ka seh-a kipanin a nidanga bangin mi
+        ngongtatte in amaute beisak nawn lo ding uh hi; tua ciangin keimah in na galte
+        khempeuh ka nuaisiah ding hi. Tua tham loin Topa keimah in nang a lianin hong
+        bawlin, suan leh khak na neih nading thu nang tungah kong gen hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Na nuntakna bei-in na pate kiang na zuat ciangin
+        nangma nungah na tapate khat ka khangsak ding a, ama kumpi gam ka kipsak ding hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Amah in kei adingin inn khat hong lamsak ding a,
+        keimah in ama kumpi tokhom ka kipsak paisuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Keimah in ama pa ka hi ding a, amah in Keima tapa hi
+        ding hi; nangma hun ma-a sem Saul tung panin ka lak khiat bangin ama tung panin ka
+        itna kip ka la khia kei ding a,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>ka inn sung leh ka kumpi gam sungah amah kipsak
+        paisuakin ama kumpi tokhomkip paisuak ding hi,’ci hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Hih kammalte khempeuh tawh kizui, leh hih mangmuhna
+        khempeuh tawh kizui-in Nathan in David kiangah gen hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Tua ciangin Kumpi David tumin Topa’ mai-ah tu a,
+        “Topa Pasian aw, nangmah in hih ciang dong kei nong tun’ pih nadingin keimah in kua
+        hi a, ka innkuanpihte in bang hi lel ahi hiam?
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Hih a beisa thu in nangma mit-ah na neu khat ahi hi,
+        Pasian aw; nangmah in a hong tung ding hunpi khat sung tangding na nasempa’ suan leh
+        khak tawh kisai thu zong na gen khin a, mai lam a, khang dingte thu kei nong lak
+        khin hi, Topa Pasian aw!
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Na nasempa nong pahtawina ah David in nang tungah
+        bang gen ding nei nawn ahi hiam? Bang hang hiam cih leh nangmah in na nasempa na
+        thei hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Topa aw, na nasempa’ hang, leh nangma lungsim bangin
+        hih na liante khempeuh na kitheihsakna ah hih liatna khempeuh na hih hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Ka bil-un ka zakna uh tawh kizui-in Topa aw, nangmah
+        tawh a kibang kuamah om lo a, nang simloh Pasian om lo hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Izipt panin na hotkhiatna mite mai-ah minamte
+        hawlkhiatna tawh nang adingin a lian a lauhuai min khat na bawlna, Pasian pai-in ama
+        mi dingin a hotkhiatna mi Israelte tawh a kibang leitungah minam dang kua om ahi
+        hiam?
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Na mi Israelte a tawntungin nangma mi ahi dingin na
+        bawl hi; tua ciangin Topa aw, nangmah in amaute’ Pasian na suak hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tu-in Topa aw, na nasempa leh a suan a khakte tawh
+        kisai-in na gensa thu a tawntungin kip hen la, na gensa bangin hih in;
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>tua ciangin, ‘Israel Pasian, Vanglianpen Topa in
+        Israelte’ Pasian hi,’ ci-in nangma min a tawntungin kipin kiliansak ding a, na
+        nasempa David’ ukna nangma mai-ah kip tawntung ding hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Bang hang hiam cih leh nang ka Pasian in keima
+        suante kumpi-in nong bawlsak nading na nasempa tungah nong lak khin zo hi; tua ahih
+        ciangin na sempa in na mai-ah thu nget ding han’na lungsim nei hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Tu-in Topa aw, nangmah in Pasian na hi a, na nasempa
+        tungah hih na hoih na ciam khin hi;
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>tua ahih ciangin tu-in nangma mai-ah a kizop
+        tawntung theih nadingin na nasempa’ suan leh khakte thupha na piak ding nang hong
+        lungkim ta in; bang hang hiam cih leh Topa aw, nangmah in thupha na piaksate a
+        tawntungin thupha ngah ahi hi,” a ci hi.
+  </para>
+  <chapter number="18" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Hih thu khit ciangin David in Filistiate zoin nuaisiah
+        a, Filistiate’ khut sung panin Gath leh a khuaneute la hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin amah in Moab mite zo a, Moab mite David’
+        nasem suakin siah hong puak uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Zobah leh Hamath gam kumpipa Hadadezer-in Eufrates gun
+        kuam gamte ngah kik nuamin kuan ahih manin, David in amah doin zo hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua ciangin David in ama tung panin leeng galkap
+        tulkhat, sakol tuang galkap tulsagih, leh khe galkap tul sawmnih la hi; tua ciangin
+        David in leengkai sakol galkap khempeuh a zagui atsat sak a, ahih hangin leeng za
+        khat’ adingin a kicing siit hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Zobah kumpipa Hadadezer huh dingin Damaskas-a Siria
+        mite hong pai ciangin David in Siria mite tul sawmnih leh tulnih that hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua ciangin David in Siria gam Damakas ah khuacingte
+        koih hi; tua ciang Siria mite David’ nasem suak uh a, siah puak uh hi. David a paina
+        peuhpeuh ah Topa in gual zawhna pia hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Tua ciangin David in Hadadezer’ nasemte in a puak kham
+        kibawl lumte la-in Jerusalem ah ciahpih hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua ciangin Hadadezer khuapite Tibhath leh Kun panin
+        David in sumngo tampi tak la hi; Solomon in tuate tawh sumngo tuikuangpi leh
+        khuampite leh sumngo um-le-beelte a bawl hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>David in Zobah kumpipa Hadadezer’ galkap buppi a
+        zawhna thu Hamath kumpipa To-u in a zak ciangin,
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Hadadezer simin a zawhna hangin a hopih ding leh a
+        lungdampih dingin Kumpi David kiangah a tapa Hadoram sawl hi; bang hang hiam cih leh
+        Hadadezer in To-u tawh kido zel hi. Amah in kham ngun, leh sumngo tawh kibawl na
+        namkim khempeuh puak hi;
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Kumpi David in hihte zong, Edom, Moab, Ammon mite,
+        Filistiate, leh Amalek, minam khempeuh kiang panin a puak khiat ngun leh kham tawh
+        Topa’ tungah ap khawm hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Tua ciangin Zeru-iah’ tapa Abishai in Ci Kuamah Edom
+        mite tulsawm leh tulgiat that hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua ciangin amah in Edom ah khuacingte koih hi; tua
+        ciangin Edom mite khempeuh David’ nasem suak uh hi. Topa in David a paina peuhpeuh
+        ah gualzawhna pia hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Tua ahih ciangin David in Israel khempeuh tungah uk
+        hi; amah in a mite khempeuh tungah thuman leh thutang zang hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Zeru-iah’ tapa Joab in galkapte a uk ahi hi; Ahilud’
+        tapa Jehoshafat in thuciamtehpa ahi hi;
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Ahitub’ tapa Zadok leh Abiathar’ tapa Ahimelek in
+        siampite ahi uh hi; Shavsha in lai-atpa ahi hi;
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Jehoiada’ tapa Benaiah in Khereth mite leh Peleth
+        mite tungah a uk ahi hi; David’ tapate in kumpipa’ nasepna-ah maang liante ahi uh
+        hi.
+  </para>
+  <chapter number="19" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Hih thu khit tawl khat ciangin Ammon mite’ kumpipa
+        Nahash si a, a tapa in ama tangin uk hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin, David in, “Ama pa kei tungah thuman takin
+        hong gamta ahih manin Nahash’ tapa Hanun tungah thuman takin ka gamta ding hi,” a ci
+        hi. Tua ahih ciangin David in a pa huhau-in amah a hehnem dingin kamtaite sawl hi.
+        Tua ciangin David’ nasemte amah a hehnem dingin Ammon mite’gam Hanun’ kiangah hong
+        pai uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Ahih hangin Ammon mite’ uliante in Hanun’ kiangah,
+        “David in nang kiangah hehnemte hong sawlna hangin na pa a pahtawi hi, ci-in
+        ngaihsun na hi hiam? A phekleh ding leh a lumlet ding leh gam sung ensim dingin ama
+        nasemte na kiangah hong pai hilo ahi hiam? a ci uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua ahih ciangin Hanun in David’ nasemte manin a
+        khamul uh metsak a, a kawngciang uhah a puante at khiatsakna tawh amaute daisakin
+        sawl khia hi; tua ciangin amaute kihem uh hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Hih mite tawh kisai thu David kiangah a kigen ciangin
+        amah in amaute a dawntuah dingin mi sawl hi; bang hang hiam cih leh hih mite nakpi
+        takin maizum uh a, ciah ngam lo uh hi. Tua ciangin kumpipa in, “Na khamul uh a khan’
+        kik mateng Jerikho ah om un la, tua ciangin hong ciah un,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Ammon mite in David’ muhdahin amau mah a kibawl tawmna
+        uh a muh uh ciangin Hanun leh Ammon mite in Mesopotamia, Aramma-akah, leh Zobah
+        panin leeng galkapte leh sakol galkapte cial nadingin ngun talen tul khat puak uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Amaute in leeng galkap tul sawmthum leh tulnih leh
+        Ma-akah gam kumpipa a galkap tawh cial uh a, amaute hong pai-in Medeba khua kiangah
+        phual sat uh hi. Tua ciangin a khuapite uh panin Ammon mite kikhawmin galdo dingin
+        hong kuan uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>David in tua thu a zak ciangin Joab leh mi thahat
+        galkap khempeuh sawl hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua ciangin Ammon mite hong kuan khia-in khuapi lutna
+        ah galdo dingin hong pang uh a, a hong kuan kumpite pen amau teng mah gamlakah om uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Gal in a nung leh a mai panin a pan’na Joab in a
+        theih ciangin Israel mi kitengkhia mi pawlkhat teel a, Siriate a do dingin pangsak
+        hi;
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>a om lai a mite amah in a sanggampa Abishai’ ukin
+        koih a, Ammon mite a do dingin amaute kipangsak hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Tua ciangin amah in, “Siria mite ka lelh tuak leh
+        nangmah in kei nong huh ding hi; ahih hangin Ammon mite nang na lelh tuak leh keimah
+        in nang kong huh ding hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Hang in, i mite ading leh i Pasian’ khuapite’ ading
+        pasal tat ni; Topa in ama hoihsak bangin hong hih ta hen,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Tua ahih ciangin Joab leh amah tawh a om mite in a
+        do dingin Siria mite kiang nai hong naih uh hi; tua ciangin ama mai-ah amaute tai uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Siria mite a taina Ammon mite in a muh uh ciangin
+        tua mah bangin amaute zong Joab’ sanggampa Abishai’ mai-ah tai uh a, khuapi sungah
+        lut uh hi. Tua ciangin Jerusalem ah Joab hong ciahkik hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Ahih hangin Siria mite in amaute Israel in a zawhna
+        a muh uh ciangin, amaute in kamtaite sawlin Eufrates galkhat a, om Siria galkapte
+        sam uh a, Hadadezer’ galkapte a ukpa Shofak a makai-in om hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>David kiangah hih thu a kigen ciangin, amah in
+        Israel khempeuh khawmin Jordan galkah a, amaute kiangah pai-in amaute a do dingin
+        galkapte khawm hi. David in Siria mite do dingin gal pangsak a, Siria mite tawh kido
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua ciangin Israelte mai-ah Siria mite tai uh hi;
+        tua ciangin David in Siria mite leeng hawl galkap mihing tulsagih, leh khe galkap
+        tul sawmli that a, amau’ galkap ukpa Shofak zong that hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Tua khit ciangin Hadadezer’ nasemte in amaute
+        Israelte in a zawh khitna a muh uh ciangin amaute in David tawh kilemna bawl uh a,
+        ama khut nuai suak uh hi. Tua ahih ciangin Siria mite in Ammon mite huh nuam nawn lo
+        uh hi.
+  </para>
+  <chapter number="20" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Kumpite in khuakhal sungin galsimin kuankhia zel uh
+        hi. Tua hun hoih khuakhal hong tun’ ciangin Joab in galkapte pai khiatpihin Ammon
+        mite’ gam sugawp a, hong pai-in Rabbah khua umcih hi. Ahih hangin Jerusalem ah David
+        om hi. Tua ciangin Joab in Rabbah khua vatin lumlet hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin David in amau’ kumpipa’ kumpi lukhu ama
+        tung panin lak khiatsak hi; tua lukhu kham talen khat gikin a sungah suangmanpha
+        khat a omna amah in thei hi; tua hi a, David in tua lukhu ama lu tungah khu hi. Tua
+        ciangin amah in tua khuapi panin van kinusiate tampi tak pai khiatpih hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Tua ciangin amah in tua sunga om mite pai khiatpihin
+        sing-atnate leh tuzumte leh heite tawh na a sem dingin koih hi; tua bangin Ammon
+        mite’ khuapite khempeuh ah David in hih hi. Tua ciangin David leh mi khempeuh
+        Jerusalem ah ciah uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Hih thu khit ciangin Gezer ah Filistiate tawh kidona
+        hong om hi; tua ciangin Hushah khua mi Sibbekai in mithagolte’ suan leh khakte khat
+        ahi Sippi that hi; tua ciangin Fillistiate kinuaisiah hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tua ciangin Filistiate tawh kidona om kik leuleu hi;
+        tua hi a, Jair’ tapa Elhanan in a teipi kung siamlawngpi cia a pha, Gath khuami
+        Goliath’ sanggampa Lahmi that hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua ciangin a khut lang tuakah khutme guk a nei, a khe
+        lang tuakah zong kheme guk mah a nei, a vekpi-in sawmnih-le-li a nei, mi thalian
+        khat a omna Gath ah gal om kik hi; amah zong mi thagolte’ sung pana hong piang ahi
+        hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Amah in Israel a to ciangin David’ sanggampa Shimea’
+        tapa Jonathan in amah that hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Hihte in Gath a, mithagolte sung pana hong piang ahi
+        uh hi; David leh a nasemte’ khutin amaute puk uh hi.
+  </para>
+  <chapter number="21" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Satan in Israel langpan’ a, Israel mi phazah a sim
+        dingin David hanthawn hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ahih ciangin David in Joab leh galkap a ukte
+        kiangah, “Pai un, Be-ersheba panin Dan ciang dong Israel mi phazah va sim un la,
+        amaute a phazah ka theih nadingin kei kiangah thu hong zasak un,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Ahih hangin Joab in, “Topa in a mite a zah za khatin
+        behlap ta hen! Ka to kumpipa aw, amaute khempeuh ka topa’ nasemte hilo ahi uh hiam?
+        Tua ahih ciangin bang hangin ka topa in hih kisam sa na hi hiam? Bang hangin Israel
+        tungah mawhna tun’ ding na hi hiam?” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Ahih hangin kumpipa in Joab thu-zawh hi. Tua ahih
+        ciangin Joab kihem khia-in Israel sung khempeuh ah pai a, tua ciangin Jerusalem ah
+        hong ciahkik hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tua ciangin Joab in David kiangah galkap thei ding mi
+        phazah pia hi. Israelte khempeuh sungah galkap thei ding mihing awn khat leh sang
+        khat om a, Judah sungah galkap thei ding mi tul zali leh tul sawmsagih om hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Ahih hangin Joab in kumpipa’ thupiakna hoih sa het lo
+        ahih manin a simna ah Levi minam leh Benjamin minamte hel lo hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Ahih hangin hih thu ah Pasian lungkim lo a, amah in
+        Israel vat hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua ciangin David in Pasian kiangah, “Hih na ka sepna
+        ah nakpi takin ka khial hi. Ahih hangin tu-in nang tungah kong thuum hi, na nasempa’
+        mawhna hong maisak in; bang hang hiam cih leh a haihuai mahmahin ka gamta khin hi,”
+        a ci hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua ciangin Topa in David’ thu-mupa Gad tungah thu gen
+        a,
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>“Pai in la, David kiangah, ‘Topa in hih bangin ci
+        hi; ‘Nangma tungah thu thum kong pia hi; nang tungah kong hih theih nadingin tuate
+        khat teel in,’ ci hi, ci in,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Tua ahih ciangin David kiangah Gad hong pai-in ama
+        tungah, “Topa in hih bangin ci hi, ‘Na lak ding khat teel in;
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>kialpi kum thum sung; ahih kei leh na langte in nang
+        hong simgawp lai takin na galte’ mai-ah kha thum sung galtaina; ahih kei leh gam
+        sungah pulnatna leh Topa’ vantung mi in Israel sung khempeuh ah suksiatna ni thum
+        sung a piangsak Topa’ namsau,’ ci hi. Tu-in kei hong sawlpa kiangah ka ciahpih ding
+        dawn’ nading khentel in,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua ciangin David in Gad kiangah, “Keimah in
+        lungkhamna lianpi khat ka tuak hi; ama hehpihna lian mahmah ahih manin Topa’ khut
+        sungah hong puksak in; ahih hangin mihing’ khut sungah hong puksak kei in,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Tua ahih ciangin Topa in Israel tungah pulnatna khat
+        tung sak hi; Israel mi tul sawmsagih puk hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Tua ciangin Pasian in a susia dingin Jerusalem ah
+        vantungmi sawl hi; ahih hangin amah in a suksiat ding lai takin Topa in mu a, tua
+        thusia ah amah kisik hi; tua ciangin amah in a susia vantungmi kiangah, “Pha zo hi;
+        tu-in na khut khawlsak in,” a ci hi. Jebus mi Ornan’ ancilna gei-ah Topa’ vantungmi
+        a din’ laitak ahi hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Tua ciangin David khuadak to a, leitung leh vantung
+        kikalah Topa’ vantungmi ding-in a khut sungah a kidoksa namsau khat omin Jerusalem
+        tungah a zan mu hi. Tua ciangin David leh a upate puanhampi silhin mai puk uh hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Tua ciangin David in Pasian kiangah, “Mi phazah a
+        sim dingin thu a piapa in keimah hilo ka hi hiam? Khialin a gitloh gamtat mahmahpa
+        in keimah ka hi hi. Ahih hangin hih mite in bang gamta khial ahi uh hiam? Topa ka
+        Pasian aw, kong thuum hi, keimah leh ka innkuan daan hong pia in; ahih hangin na
+        mite tungah gimna tungsak kei in,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Tua ciangin David paito-in Jebus mi Ornan’ ancilna
+        phual tungah Topa adingin biakna tau khat a lam nading a gen dingin Topa’ vantungmi
+        in Gad sawl hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Tua ahih ciangin Topa’ min tawh a gen Gad’ kammal
+        bangin David paito hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Amah tawh a om a tapa lite bu uh a, Ornan in mangbuh
+        a cilcil lai takin a khuadak leh Topa’ vantungmi mu hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Ornan kiangah David hong tun’ ciangin, Ornan khuadak
+        a, David mu-in ancilna panin hong paikhia a, a mai lei lam ngatin David tungah
+        zahtakna bawl hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Tua ciangin David in Ornan kiangah, “Mite kiang
+        panin gimna a ven’ theih nading Topa’ ading biakna tau ka lam theih nadingin na
+        ancilna mun hong pia in—a man a cingin piak dingin hong pia in,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tua ciangin Ornan in David kiangah, “La in, ka to
+        kumpipa in hoih na sak bangin hih in; thei in, meihal biaknate a, zat dingin
+        bawngtalte, a sing dingin ancilna singte, leh an tawh biak nadingin a mangbuhte kong
+        pia hi. A vekpi-in kong pia hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Ahih hangin Kumpi David in Ornan kiangah, “Hi lo hi,
+        a man a cing tawh kong lei ding hi; Topa’ adingin nangma’ aa ka la kei ding a, keima
+        sum bei loin meihal biaknate zong ka pia kei ding hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Tua ahih ciangin David in Ornan tungah a mun lei
+        nadingin kham shekel zaguk a gik a pia hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Tua ciangin David in tua lai-ah Topa’ adingin biakna
+        tau khat lamin meihal biaknate leh thu-nuama biaknate bawlin Topa’ tungah thu ngen
+        a, tua ciangin amah in a thungetna a piakna-in a meihal biakna a hal dingin vantung
+        panin meikuang pia suk hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Tua ciangin Topa’ thupiakna tawh vantungmi in a
+        namsau a pai sungah siat kik hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Tua hunin, Jebus mi Ornan’ ancilna phual ah Topa in
+        ama nget a piakna David in a muh ciangin amah in tua lai-ah a biak piaknate bawl hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Bang hang hiam cih leh Moses in gamlakah a bawl
+        Topa’ biakbuk leh meihal biakna tau pen tua hunin Gibeon mualdawn ah om lai hi;
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>ahih hangin amah in Topa’ vantungmi’ namsau kihta
+        ahih manin Pasian’ tungah thu a dong dingin tua lai-ah David pai ngam lo hi.
+  </para>
+  <chapter number="22" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tua ciangin David in, “Hih lai-ah Topa Pasian’ inn om
+        ding a, hih lai-ah Israel’ ading meihal biakna tau om ding hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Israel gam sunga om gamdang mite a kaihkhop nadingun
+        David in thu pia a, tua ciangin amah in Pasian’ inn lam nadingin suang seeksate a
+        bawl dingin suang seekte koih hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>David in kongpi kongkhak a, zat dingin siktukkilh leh
+        gak nadingin sik tampi koihin, teh zawh lohin sumngo tampi tak zong koih a,
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>taamtaak singte sim zawh hi lo hi; bang hang hiam cih
+        leh Sibon khuamite leh Tai-ar khuamite in David kiangah taamtaak tampi tak puak uh
+        hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Bang hang hiam cih leh David in, “Ka tapa Solomon
+        khangno-in pumpi tawh sinna om nai lo a, Topa’ adingin a kilam ding inn in gam
+        khempeuh ah minthan’na leh pahtawina ah alian mahmah ding ahi hi; tua ahi ciangin
+        keimah in tua inn dingin ka kiging khol ding hi,” a ci hi. Tua ahih ciangin David in
+        a sih ma-in na tampi tak koih khol hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua ciangin amah in a tapa Solomon sam a, Israel
+        Pasian, Topa adingin inn khat a lam ding gen hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>David in Solomon kiangah, “Ka ta aw, Topa ka Pasian’
+        min dingin inn khat lam ding ka lungsimah om hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Ahih hangin kei tungah Topa’ thu hong tung a, ‘Nangmah
+        in mi tampi thatin gal lianpipi na sim hi; nangmah in keima mai leitungah sisan tua
+        zahta luangsak na hih manin ka min dingin inn na lam kei ding hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>En in, nangma sung panin tapa khat hong piang ding hi;
+        amah in kilemna mi hi ding hi. Keimah in a kimkot a, a galte khempeuh panin ama
+        tungah kilemna ka pia ding hi; Ama min in Solomon hi ding a, ama hun sungin Isreal
+        tungah kilemna leh daihna ka pia ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Amah in keima min dingin inn khat lam ding hi. Amah
+        in ka tapa hi-in keimah in ama pa ka hi ding a, Israel sungah ama kumpi tokhom ka
+        kipsak paisuak ding hi,’ hong ci hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Tu-in ka ta aw, amah in nangma thu a gensa bangin
+        Topa na Pasian’ inn na lamna ah na tangtun’ theih nadingin Topa in nang hong ompih
+        ta hen.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Amah in Israel tungah nang hong uksak ciangin Topa
+        na Pasian’ thukham na zuih theih nadingin Topa in ngaihsut pilna leh thutelna nang
+        tungah hong pia ta hen.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tua ciangin Israelte’ adingin Topa in Moses a piak
+        thukhamte leh biakna ngeina kipte zuih ding na kidop nak leh na maa vang ding hi.
+        Thakhauh in la, hang in. Lau kei in; lungkia kei in.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Gimna lianpi tawh Topa’ inn dingin kham talen tul
+        zakhat, ngun talen awn khat, leh teh zawh lohin sumngo leh sik ka koih khin zo hi;
+        bang hang hiam cih leh tam mahmah hi; sing leh suang zong ka koih zo hi. Nangmah in
+        hihte na behlap ding hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Nangmah in na a sem ding mi tampi na nei hi:
+        suangseekte, lei-le-suang inn lam siamte, khutsiamte, leh sim zawh lohin siamna nam
+        khempeuh a nei,
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>kham, ngun, sumngo, leh sik sep a siamte na nei hi.
+        Kithawi in la, sem in! Topa in nang hong ompih ta hen!” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>David in zong Israel makaite khempeuh in a tapa
+        Solomon a huh nading thu pia a,
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>“Topa na Pasian uh note tawh om hilo ahi hiam? Amah
+        in na kiim khempeuh uhah kilemna hong pia hilo ahi hiam? Bang hang hiam cih leh amah
+        in gam sungah teeng mite keima khut sungah hong pia khin hi; Topa leh ama mite
+        mai-ah gam sung khempeuh kinuai-siah hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Tu-in Topa na Pasian uh a zong dingin na ngaihsutna
+        uh leh na lungsim uh kipsak un. Topa’ min dingin a kilam inn sungah Topa’ thuciamna
+        singkuang leh Pasian’ um-le-beel siangthote a kipaipih theih nadingin kithawi un la,
+        Topa Pasian’ biakinn lam un,” a ci hi.
+  </para>
+  <chapter number="23" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tu-in David teekin kum tampi pha a, amah in Israel
+        tungah kumpi-in a tapa Solomon koih hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>David in Israel makai khempeuh leh siampi leh Levi
+        mite khawm hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Levi mite kum sawmthum panin a tungsiah teng kisim a,
+        a vekpi-in pasal tul sawmthum leh tulgiat pha hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>David in, “Hihte tul sawmnih leh tulli in Topa’ inn
+        sungah nasep uk ding a, tulguk in mangte leh thukhente hi ding a,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>tulli in kongcingte, leh tulli in phatna ding a, ka
+        bawlsa lasaknate tawh Topa’ tungah phatna pia ding uh hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua ciangin David in Levi mite a beh behin pawl thum
+        suah a, tuate in: Gershon pawl, Kohath pawl, leh Merari pawl ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Gershon’ tapate in Ladan leh Shimei ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Ladan’ tapate in: A ukpi Jehiel, leh Zetham, leh Joel,
+        thum pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Shimei’ tapate in: Shelomoth, Haziel, leh Haran, thum
+        pha uh hi. Hihte in Ladan’ beh lutangte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua ciangin Shimei’ tapate in: Jahath, Zina, Jeush,
+        leh Beriah ahi uh hi. Hih lite in Shimei’ tapate ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Jahath a ukpi hi-in, Zina a nihna ahi hi; ahih
+        hangin Jeush leh Beriah-te in tapa tampi nei lo uh ahih manin innkuan khat kisuak
+        sakin sim khatin kisim khawm hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel,
+        li pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Amram’ tapate in: Aaron leh Moses ahi uh hi. Amah
+        leh a tapate in Topa’ mai-ah paknamtui a hal tawntung ding leh ama na semin ama min
+        tawh thupha a piak tawntung theih nadingin a siangtho pen nate a ap dingin Aaron
+        kituam koih hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Ahih hangin Pasian’ mipa Moses’ tapate ahih leh Levi
+        minamte lakah kisim hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Moses’ tapate in: Gershom leh Eliezer ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Gershom’ tapate lakah Shebuel in a ukpi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Eliezer’ tapate lakah Rehabiah in a ukpi ahi hi;
+        Eliezer in tapa dang nei lo a, ahih hangin Rehabiah’ tapate tam mahmah hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Kohath’ tapa nihna Izhar’ tapate lakah Shelomoth in
+        a ukpi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Kohath’ tapa thumna Hebron’ tapate lakah: Jeriah a
+        ukpi, Amariah a nihna, Jahaziel a thumna leh Jekameam a lina ahi hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Kohath’ tapa lina Uzziel’ tapate lakah: Mikah a
+        ukpi, leh Issiah a nihna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Merari’ tapate in: Mahli leh Mushi ahi hi. Mahli’
+        tapate in: Eleazar leh Kish ahi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Eleazar in tapa nei loin si a, tanu bek nei hi;
+        amau’ tanau, Kish’ tapate in amaute ten’pih uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Mushi’ tapate in: Mahli, Eder, leh Jeremoth, thum
+        pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Hihte in Topa’ inn nasepna ah na a sem ding, kum
+        sawmnih panin a tungsiah, a mi mi-in a minin a mi phazah zui-in a kiciamtehna bangin
+        beh lutangte, a beh behin Levi’ suante ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Bang hang hiam cih leh David in, “Israel Pasian,
+        Topa in a mite tungah kilemna pia zo hi; tua ciangin amah in Jerusalem ah om
+        tawntung hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Tua ahih ciangin Levi mite in puanbuk hita leh tua
+        tawh kisai nasep nading nate khat peuhpeuh hita leh a puak ding uh kisam nawn lo
+        hi,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Bang hang hiam cih leh David’ thupiakna a nunung pen
+        tawh a kisim hihte in kum sawmnih panin a tungsiah Levi mi a phazah ahi hi—
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>“ahih hangin amaute’ nasep in Topa’ inn nasepna ah
+        Aaron’ suante huhin, inntualte leh inndeite kemin, biakna na khempeuh a siangtho sak
+        ding, leh Pasian’ inn nasepna ah hih ding khat peuhpeuh a sem ding ahi uh hi;
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Ompihna Anlum, an tawh biak nadingin annel, silngo
+        sawh loh anlum moh, a ki-em piakna, sathau tawh a kihel piakna, leh a tam tehna,
+        ahih kei leh a lian tehna nasep khempeuh zong a huh ding ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Tua ciangin amaute zingsang simin ding ding uh a,
+        lungdamna koin Topa phatin, nitakin zong tua mah bangin hih ding uh a,
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>a mal zah a kisam bangin sabbath nite, khadet nite,
+        leh pawi nite-in Topa tungah meihal biakna a kipiak peuhpeuh ciangin a tawntungin
+        Topa mai-ah om ding uh hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Tua bangin Levi mite in kikhopna puanbuk leh biakinn
+        kemin, Topa’ inn nasepna ah amau’ behte ahi Aaron’ suante huh ding uh hi,” a ci hi.
+  </para>
+  <chapter number="24" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Aaron’ suante a kisehkhennate in hihte ahi hi. Aaron’
+        tapate in: Nadab, Abihu, Eleazar, leh Ithamar ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Ahih hangin a pa uh sih ma-in Nadab leh Abihu si-in ta
+        nei lo uh ahih manin Eleazar leh Ithamar-te siampi suak uh hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Eleazar’ suan Zadok, leh Ithamar’ suan Ahimelek’ huhna
+        tawh David in amau’ nasepna ah a kiseh bangin Aaron’ suante a koih hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Ithamar’ suante lak sangin Eleazar’ suante lakah ukpi
+        tam om zaw ahih manin, amaute in Eleazar’ suante pawl sawm-le-guk suahin, Ithamar’
+        suante pawl giat suah hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Eleazar’ suante leh Ithamar’ suante lakah biakinn
+        uliante leh Pasian’ uliante om tuak uh ahih manin amaute in a kibangin aisaanna tawh
+        amaute koih uh hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua ciangin Levi mi Nethanel’ tapa ahi lai-atpa
+        Shemaiah in Kumpipa, leh uliante, leh siampi Zadok, leh Abiathar’ tapa Ahimelek, leh
+        siampite leh Levi mi beh lutangte’ omna ah amaute ciamteh hi; Eleazar’ suante’
+        adingin khat kiteelin, tua ciangin Ithamar’ suante adingin khat kiteel a, kilaih sak
+        niloh uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Aisaanna a masa pen Jehoiarib tung, a nihna Jedaiah
+        tung,
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>a thumna Harim tung, a lina Seorim tung,
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>a ngana Malkhijah tung, a gukna Mijamin tung,
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>a sagihna Hakkoz tung, a giatna Abijah tung,
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>a kuana Jeshua tung, a sawmna Shekaiah tung,
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>a sawm-le-khatna Eliashib tung, a sawm-le-nihna
+        Jakim tung,
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>a sawm-le-thumna Huppah tung, a sawm-le-lina
+        Jeshebeab tung,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>a sawm-le-ngana Bilgah tung, a sawm-le-gukna Immer
+        tung,
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>a sawm-le-sagihna Hezir tung, a sawm-le-giatna
+        Happizzez tung,
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>a sawm-le-kuana Pethahiah tung, a sawmnihna Jehezkel
+        tung,
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>a sawm-nih-le-khatna Jakhin tung, a sawmnih-le-nihna
+        Gamul tung,
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>a sawmnih-le-thumna Delaiah tung, a sawmnih-le-lina
+        Ma-aziah tungah tu hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Hihte in Israel’ Topa Pasian in amah a thupiak
+        bangin a pupi uh Aaron in amaute’ adingin a kipsakna ngeina bangin Topa’ inn sungah
+        pai dingin amau’ nasep uh ahi a kiseh nasep nei uh hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Tua ciangin Levi’ suante a om laite lakah: Amram’
+        suante sung panin Shubael’ suante Jehdeiah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Rehabiah’ suante sung panin Isshiah a ukpi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Izhar’ suante sung panin Shelomoth’ suante Jahath
+        ahi hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Hebron’ suante lakah: Jeriah a ukpi, Amariah a
+        nihna, Jahaziel a thumna, Jekameam a lina ahi hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Uzziel’ suante sung panin Mikah’ suante Shamir ahi
+        hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Mikah’ sanggampa in Isshiah ahi hi; Isshiah’ suante
+        sung panin Zekhariah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Merari’ suante in: Mahli, Mushi, leh Ja-aziah ahi
+        hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Merari’ suante Ja-aziah’ sung panin Beno, Shoham,
+        Zakkur, leh Ibri ahi hi.
+  </para>
+  <para style="p">
+    <verse number="28-29" style="v"/>Mahli in tapa nih, Eleazar leh Kish nei hi.
+        Eleazar in tapa nei lo a, Kish in Jerahme-el a kici tapa khat nei hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Mushi’ tapate in: Mahli, Eder, leh Jerimoth ahi uh
+        hi. Hihte in a beh tawh kizui-in Levi’ suante ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Hihte in zong a behte uh ahi Aaron’ suante mah
+        bangin kumpi David, Zadok, Ahimelek, leh siampite leh Levi mi beh lutangte’ muhna ah
+        beh lutangte leh a nau pasalte ciat in a kibangin ai saanna tawh nasepna tavuan la
+        uh hi.
+  </para>
+  <chapter number="25" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>David leh nasepna ah a ukpite in zong laiza lasaknate,
+        harp lasaknate, leh daltuahte tawh mai lam thu a genkhol dingin Asaf, Heman, leh
+        Jeduthunte’ tapate pawlkhat nasepna-a dingin koih tuam uh hi. Na a semte leh amau’
+        nasepte in:
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Asaf’ tapate sung panin: kumpipa’ makaihna nuai-ah mai
+        lam thu a genkhol Asaf’ makaihna nuai-ah Asaf tapate Zakhur, Josef, Nethaniah, leh
+        Asharelah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Jeduthun sung panin Jeduthun’ tapate in: lungdamkohna
+        leh Topa phatna-in laiza lasakna tawh mai lam thu a gen khol a, a pa uh Jeduthun’
+        makaihna nuai-ah Gedaliah, Zeri, Jershaiah, Shimei, Hashabiah, leh Mattibiah, guk
+        pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Heman sung panin Heman’ tapate in: Bukkiah, Mattaniah,
+        Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamtiezer,
+        Joshbekashah, Mallothi, Hothir, leh Mahazioth ahi hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Hihte khempeuh in Pasian thuciamna bangin amah a
+        pahtawi dingin kumpipa’ thu-mupa Heman’ tapate ahi hi; bang hang hiam cih leh Pasian
+        in Heman tungah tapa sawm-le-li leh tanu thum pia hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Amaute khempeuh Pasian’ inn nasep nadingin Topa’ inn
+        sungah daltuahte, harp lasaknate, leh laiza lasaknate tawh la lam sangah a pate uh
+        ukna nuai-ah om uh hi. Asaf, Jeduthun, leh Hemante in kumpipa’ thupiakna nuai-ah om
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>A Levi mipihte uh tawh Topa’ ading lasakna lamah sinna
+        a nei a siam mi a vekpi in zanih leh sawmgiat-le-giat ahi hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua ciangin a neu a lian, sia leh a sinte a kibangin,
+        amaute in amau’ nasep ding uh aisaan uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Asaf behte adingin ai masa Josef tungah tu hi; a nihna
+        Gedaliah, leh a sanggamte leh a tapate, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>a thumna Zakkhur, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>a lina Izzri, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>a ngana Nethaniah, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>a gukna Bukkiah, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>a sagihna Jesharelah, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>a giatna Jeshaiah, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>a kuana Mattaniah, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>a sawmna Shimei, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>a sawm-le-khatna Azarel, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>a sawm-le-nihna Hashabiah, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>a sawm-le-thumna Shubael, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>a sawm-le-lina Mattithiah, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>a sawm-le-ngana Jeremoth, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>a sawm-le-gukna Hananiah, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>a sawm-le-sagihna Joshbekashah, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>a sawm-le-giatna Hanani, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>a sawm-le-kuana Mallothi, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>a sawmnihna Eliathah, leh a tapate leh a sanggamte,
+        sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>a sawmnih-le-khatna Hothir, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>a sawmnih-le-nihna Giddalti, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>a sawmnih-le-thumna Mahazioth, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi;
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>a sawmnih-le-lina Romamtiezer, leh a tapate leh a
+        sanggamte, sawm-le-nih tung tu hi.
+  </para>
+  <chapter number="26" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Kongcingte a kiseh khennate in: Korah behte sung
+        panin, Asaf innkuan sung panin Kore’ tapa Meshelemiah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Meshelemiah’ tapate in: Zekhariah a tacil, Jediael a
+        nihna, Zebadiah a thumna, Jathniel a lina,
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Elam a ngana, Jehohanan a gukna, Elieho-enai a sagihna
+        ahi hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Tua ciangin Obededom’ tapate in: Shemaiah a tacil,
+        Jehozabad a nihna, Joah a thumna, Sakar a lina, Nethanel a ngana,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Ammiel a gukna, Issakhar a sagihna, Peullethai a
+        giatna ahi hi; bang hang hiam cih leh Pasian in Obededom thupha pia hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Ama tapa upa pen Shemaiah sung panin zong a beh sungah
+        ukte ahi tapate suak hi; bang hang hiam cih leh amaute in siamna lian a nei mite ahi
+        uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Shemaiah’ tapate in: Othni, Refael, Obed, Elzabad leh
+        a sanggamte siamna a nei ahi Elihu, leh Semakhiah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Hihte khempeuh in Obededom’ tapate leh amau’ tapate
+        leh a sanggamte uh tawh, nasepna dingin siamna a nei mikician ahi uh hi; Obededom
+        sung panin sawmguk-le-nih pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua ciangin Meshelemiah in siamna a nei tapate leh
+        sanggamte, sawm-le-giat nei hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua ciangin Merari’ innkuan sung panin Hosah’ tapate
+        in: Shimri a ukpi (amah tacil ahih loh hangin a pa in a ukpi-in amah bawl hi),
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Hilkiah a nihna, Tebaliah a thumna, Zekhariah a lina
+        ahi hi. Hosah’ tapate leh a sanggamte khempeuh sawm-le-thum pha uh hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Innkuan pasal lutangte kongcingte ahi uh hi; amaute
+        in a sanggamte uh tawh Topa’ inn sungah nasep nei uh hi;
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>amaute in a neu a lian a kibangin a pate uh innkuan
+        kuanin amau’ kongpi ding ai saan uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>Nisuahna lam adingin ai, Shelemiah tungah tu hi. A
+        tapa, a pil thulamlakpa Zekhariah’ adingin zong ai saan uh a, leilu lam-a dingin ama
+        ai pha hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Obededom adingin leitaw lamah hong suak a, a tapa
+        tungah vankoihna inn kipia hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Shuppim leh Hosah adingin lampi a pai tohna,
+        Shallekheth kongpi san, nitumna lamah kia hi. Galvil leh galvil kimaituah hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Vankoihna inn kongah nih nih-in a om mah bangin ni
+        simin nisuahna lamah guk omin, ni simin leilu lamah li omin, ni sim mah-in leitaw
+        lamah li om hi;
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>tua ciangin nitumna lam a, om lampi inn adingin a
+        lampi ah li omin a lampi innah nih om hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Hihte in Korah mite leh Merari’ tapate lakah
+        kongcingte a kiseh khenna ahi hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Tua ciangin Levi mite sung panin Ahijah in Pasian’
+        inn van manpha koihleh a ki-ap letsong koihnate uk hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Gershom-te beh sung panin Ladan in innkuan tampi a
+        pian’ khiatna mi khat hi a, Jehiel innkuante zong ama sung panin a piang ahi hi.
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Jehiel’ tapate, Zetham leh a sanggampa Joelte in
+        Topa’ inn van manpha koihnate uk uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Amram mite, Izhar mite, Hebron mite, leh Uzziel mite
+        sung panin—
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Moses’ tapa Gershom-te beh sung panin Shebuel in van
+        manpha koihna a ukte’ lakah a ukpi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Gershom sanggam Eliezer’ suan Shelomoth tawh zong
+        beh kinai ahi hi. Eliezer’ sung panin a tapa Rehabiah, a tapa Jeshiah, a tapa Joram,
+        a tapa Zikri, a tapa Shelomoth ahi hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Hih Shelomoth leh a sanggamte in, kumpi David, leh
+        beh lutangte, leh a tul tul leh a za za-a uk uliante, leh galkap a ukte in a ap uh
+        ahi, a ki-ap letsongte a kikoihna khempeuh uk uh hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Gal sungah a ngah vankinusiate sung panin Topa’ inn
+        puah nadingin amaute in letsongte ap uh hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Thu-mupa Samuel, leh Kish’ tapa Saul, Ner’ tapa
+        Abner, leh Zeru-iah’ tapa Joab in a apsate khempeuh zong, a ki-ap letsong khempeuh
+        Shelomoth leh a sanggamte’ kepna sungah om hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Izhar mite sung panin Khenaniah leh a tapate pen
+        Israel adingin uliante leh thukhente-in a pualam nasepna ah kiseh hi.
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Hebron mite sung panin Hashabiah leh a sanggamte,
+        siamna a nei mihing tulkhat leh zasagih in Jordan nitumna lam Israel tungah Topa’
+        nasepna khempeuh leh kumpipa’ nasemna ah uk uh hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Hebron mite sung panin Jerijah in a ukpi ahi hi.
+        (David’ uk a kum sawmlina kumin kikantelna bawl uh a, Gilead gam sung Jazer ah
+        amaute sung panin siamna lian a nei mihing kimu hi.)
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>Kumpi David in Jerijah leh a sanggamte, siamna a nei
+        mihing tulnih leh zasagih, a beh sungah lutang ahite, Pasian tawh a kisai na
+        khempeuh leh kumpipa’ vaite ah, Reuben mite, Gad mite, leh Manasseh a langte tungah
+        a uk dingin a seh hi.
+  </para>
+  <chapter number="27" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tu-in Israel mite, beh lutangte, a tul leh a za-a a
+        ukte, leh khen khatah mi tul sawmnih leh tulli a om, kum tawntung kha khat khit kha
+        khat hong tungin a kuankhia a khente tawh kisai-in na khempeuh ah kumpipa’ na a sem
+        a uliante in:
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Zabdiel’ tapa Jashobeam in a kha masa sungin a khen
+        masa a uk ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Amah in Perez’ suan leh khak hi a, a kha masa sungin
+        galkap a ukte khempeuh a ukpi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Ahoah-te beh Dodai in a kha nihna sunga a khen a ukpi
+        ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>A kha thumna adingin a uk a thumna-pa, siampi
+        Jehoiada’ tapa Benaiah in a ukpi ahi hi; ama khen sungah tul sawmnih leh tulli om
+        hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Hihpa in mihing sawmthumte sungah a thahat, mihing
+        sawmthumte a uk Benaiah ahi hi; ama tapa Ammizabad in ama khen a ukpa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Joab sanggampa Ashahel in a kha lina adingin a lina hi
+        a, ama nungah amah a liah dingin a tapa Zebadiah om hi; ama khen sungah tul sawmnih
+        leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>A kha ngana adingin a uk a ngana-pa in Izrah-te beh
+        Shamhuth ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>A gukna, a kha gukna adingin Tekoa khua mi Ikkesh’
+        tapa Ira ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>A sagihna, a kha sagihna adingin Efraim’ suante sung
+        panin Pelon khua mi Helez ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>A giatna, a kha giatna adingin Jerah mi sung panin
+        Hushan khua mi Sibbekai ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>A kuana, a kha kuana adingin Benjamin mi sung panin
+        Anathoth khuami Abiezer ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>A sawmna, a kha sawmna adingin Zerah mi sung panin
+        Netofah khua mi Maharai ahi hi; ama khen sungah tul sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>A sawm-le-khatna, a kha sawm-le-khatna adingin
+        Efraim suante’ sung panin Pirathon khuami Benaiah ahi hi; ama khen sungah tul
+        sawmnih leh tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>A sawm-le-nihna, a kha sawm-le-nihna adingin Othniel
+        suante’ sung panin Netofah khuami Heldai ahi hi; ama khen sungah tul sawmnih leh
+        tulli om hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Israel minamte tungah a ukpite in: Reuben mite’
+        adingin Zikri’ tapa Eliezer ahi hi; Simeon mite’ adingin Ma-akah’ tapa Shefatiah ahi
+        hi;
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Levi adingin Kemuel’ tapa Hashabiah ahi hi; Aaron
+        adingin Zadok ahi hi;
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Judah’ adingin David, sanggamte’ sung panin Elihu
+        ahi hi; Issakhar’ adingin Mikhael’ tapa Omri ahi hi;
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Zebulun’ adingin Obadiah’ tapa Ishmaiah ahi hi;
+        Naftali adingin Azriel’ tapa Jeremoth ahi hi;
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Efraim mite’ adingin Azaziah’ tapa Hoshea ahi hi;
+        Manasseh minam a langte’ adingin Pedaiah’ tapa Joel ahi hi;
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Gilead gam sunga Manasseh minam a langte adingin
+        Zekhariah’ tapa Iddo ahi hi; Benjamin adingin Abner’ tapa Ja-asiel ahi hi;
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>Dan adingin Jeroham’ tapa Azarel ahi hi. Hihte in
+        Israel minamte’ makaite ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Israel mite vantung aksi zahin a tamin a bawl nading
+        Topa in thuciam khin ahih manin David in kum sawmnih nuaisiah a pha mite sim lo hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Zeru-iah’ tapa Joab in sim ding kipan a, ahih hangin
+        zo man lo hi; bang hang hiam cih leh hih thu hangin Israel tungah Pasian’ hehna hong
+        tung a, Kumpi David’ khang tangthu sungah tua a kisimte kikhum lo hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Kumpipa’ van manpha a ukte in: Kumpipa’ van manpha
+        koihnate ah Adiel’ tapa Azmaveth ahi hi; tua ciangin gam sunga van manpha koihnate,
+        khuapi sungate, khuaneute leh tausangte, sunga omte tungah Uzziah’ tapa Jonathan ahi
+        hi;
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>tua ciangin lo kho dingin lo nasep a sem mite tungah
+        Khelub’ tapa Ezri ahi hi;
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>tua ciangin leenggui lote tungah Ramah khuami Shimei
+        ahi hi; tua ciangin leenggui lo panin a piang leenggahzu koihnate’ adingin Shifmoth
+        khuami Zabdi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Shefelab gam sunga om Oliv leh theiba kungte tungah
+        Gederah khuami Baalhanan ahi hi; tua ciangin sathau koihnate tungah Joash ahi hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Sharom gam sungah a gamta ganhonte tungah Sharon
+        khuami Shitrai ahi hi; kuam sunga om ganhonte tungah Adlai’ tapa Shafat ahi hi;
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>Kalaohte tungah Ishmael mi Obil ahi hi; tua ciangin
+        la a nute tungah Meronoth khuami Jehdeiah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="31" style="v"/>Tuuhonte tungah Hagri mi Jaziz ahi hi. Hihte
+        khempeuh in Kumpi David’ neihsa a kemte ahi uh hi.
+  </para>
+  <para style="p">
+    <verse number="32" style="v"/>David’ pano Jonathan in thu thei mi leh lai thei mi
+        ahih manin thu-lam-lakpa ahi hi; amah leh Hakmoni’ tapa Jehiel in kumpipa’ tapate
+        cing uh hi.
+  </para>
+  <para style="p">
+    <verse number="33" style="v"/>Ahithofel in kumpipa’ thu-lamlakpa hi a, Arkhi mi
+        Hushai in kumpipa’ lawmpa ahi hi.
+  </para>
+  <para style="p">
+    <verse number="34" style="v"/>Ahithofel a sih ciangin Benaiah’ tapa Jehoiada leh
+        Abiathar in laih uh hi. Joab in kumpipa’ galkapte a ukpa ahi hi.
+  </para>
+  <chapter number="28" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>David in Jerusalem-a Israelte lakah zaneite, minamte
+        sungah zaneite, kumpipa’ na a sem a khente sungah uliante, a tul tul a, a ukte, a za
+        za-a a ukte, neihsa khempeuh leh kumpipa’ ganhingte leh a tapate a kemte pen, kumpi
+        inn a, zaneite, a thahat mite, leh gal a hang tawntungte khempeuh tawh khawm hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ciangin Kumpi David a khe-in ding to in, “Ka
+        sanggam leh ka mite aw, ka thugen hong za un. Topa’ thuciamna singkuang ading leh i
+        Pasian’ khengak nadingin tawlngakna inn khat lam ding ka lungsim sungah a om hi; tua
+        ciangin a lam nading ka kiging hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Ahih hangin Pasian in kei kiangah, ‘Nangmah in galhang
+        khat hi-in sisan tampi luangsak na hih manin keima min dingin inn na lam kei ding
+        hi,’ hong ci hi.
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Ahi zongin Israel Topa’ Pasian in Israel tungah kumpi
+        ahi tawntung dingin ka pa’ innkuan khempeuh panin kei hong teel hi; bang hang hiam
+        cih leh amah in makai-in Judah teel a, tua ciangin Judah innkuan panin ka pa innkuan
+        teel a, tua ciangin ka pa’ tapate lak panin Israel khempeuh tungah kumpi-in kei hong
+        bawl ding kei tungah amah lungkim hi.
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>Tua ciangin ka tapate khempeuh lak panin (bang hang
+        hiam cih leh Topa in kei tungah tapa tampi hong pia hi) Israel tungah Topa’ kumpi
+        tokhom tungah a tu dingin amah in ka tapa Solomon teel khin hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Amah in kei kiangah, ‘Ka inn leh ka inntualte a bawl
+        dingpa in na tapa Solomon ahi hi; bang hang hiam cih leh ka tapa dingin amah ka teel
+        khin a, keimah in ama pa ka hi ding hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Amah in ka thupiaknate leh ka biakna ngeina kipte tu
+        ni-a mah bangin zuih ding a ngaihsut paisuak nak leh ama kumpi gam ka kipsak
+        tawntung ding hi,’ hong ci hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Tua ciangin tu-in note in hih leitang hoih nei-in note
+        khit na tate uh tungah gamh-in na nusiat tawntung theih nadingun Topa’ mai-ah
+        kikhopna ahi Israel khempeuh’ muhna, leh i Pasian’ zakna ah Topa na Pasian uh’
+        thupiaknate khempeuh zui-in zong un.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>“Tu-in nang, ka tapa Solomon aw, na pa’ Pasian thei in
+        la, na lungsim khempeuh leh utna lungsim tawh ama na sem in; bang hang hiam cih leh
+        Topa in lungsim khempeuh zong a, ngimna leh ngaihsutna khempeuh thei hi. Nangmah in
+        amah na zon’ leh nangmah in amah na mu ding hi; ahih hangin amah na nusiat leh amah
+        in nang hong paaikhia paisuak ding hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Biakinn dingin inn khat a lam dingin Topa in nang
+        hong teel khin ahih manin tu-in kingaihsun in; thahat in la, sem in,” a ci hi.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Tua ciangin David in a tapa Solomon tungah biakinn
+        innlim, leh a innte, a van manpha koihnate, a dawl tungnungte, leh a dei sungnungte,
+        leh hehpihna tokhom’ adingin inndei a geelna;
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>leh Topa’ inn a tualte adingin a lungsimah a
+        ngaihsut khempeuh, a kimkot a, inndeite khempeuh, Pasian’ inn van manpha koihnate,
+        leh a ki-ap letsongte ading van manpha koihnate;
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>siampite leh Levi mi a khente, leh Topa’ inn sungah
+        nasepna khempeuh ading; Topa’ inn sungah nasep nading um-le-beel khempeuh ading,
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>nasepna ah zat ding kham tawh kibawl um-le-beel
+        khempeuh a gihna, nasepna ah zat dingin ngun tawh kibawl um-le-beelte a gihna,
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>nasepna ah meivak khuam a kizat ciatna bangin kham
+        meivak khuamte leh a meivakte a gihna, a meivak khuam leh a meivakte a gihna zah
+        ciat, meivakkhuam khat leh a meivakte ngun a gihna,
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Ompihna Anlum adingin sabuai kham a gihna ciat, ngun
+        sabuaite adingin ngun a gihna,
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>leh sikkeukate, kuangte, leh haite ading kham citak
+        a gihna; kham haipite leh a gihna ciat; ngun haipite leh a gihna ciat;
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>a kisiangsaksa kham tawh kibawl paknamtui biakna tau
+        ding leh a gihna zah ding a geelna; a khate uh zakin Topa’ thuciamna singkuang a
+        khuh kherubte’ kham leeng ding a geelna zong pia hi.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Nasep ding khempeuh geelsa bangin sep dingin hih thu
+        tawh kizui-in Topa’ genna bangin lai-in gelhna tawh amah in hihte khempeuh a siangin
+        hih hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Tua ciangin David in a tapa Solomon kiangah,
+        “Thakhauhin hang in la, sem in. Lau kei in, lungkia kei in; bang hang hiam cih leh
+        Topa Pasian, kei’ Pasian nangawn nang tawh om hi. Topa’ inn sung nasepna khempeuh a
+        nasepna khempeuh a kizawh matengin amah in nang hong tamasak lo, hong nusia lo ding
+        hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Tua ciangin Pasian’ innah nasep khempeuh a sem
+        dingin siampite leh Levi mi a khenkhente om hi; nasepna khatpeuh peuhah siamna a nei
+        mi, nasepna khempeuhah nang tawh hong om ding hi; uliante leh mi khempeuh zong
+        nangma thupiakna bangbangin gamta ding uh hi,” a ci hi.
+  </para>
+  <chapter number="29" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>Tua ciangin kumpi David in a kikhawm khempeuhte
+        kiangah, “Pasian in amah bek a teelsa ka tapa Solomon pen khangno-in pumpi tawh
+        sinna om nai lo a, nasep ding pen lian hi; bang hang hiam cih leh hih inn lianpi in
+        mihing ading hilo a, Topa Pasian’ ading ahi hi.
+  </para>
+  <para style="p">
+    <verse number="2" style="v"/>Tua ahih ciangin ka Pasian’ inn dingin ka hih theih
+        zah ciang, phuh dingin onik suang, suangpak, mel tuamtuam a nei suang, suangkang,
+        leh suangmanpha nam khempeuh tampi takte ban-ah kham zat nading nate ah kham, ngun
+        zat nading nate-ah ngun, leh sumngo zat nading nate ah sumngo, sik zat nading nate
+        ah sik, leh sing zat nading nate ah sing ka koih khin zo hi.
+  </para>
+  <para style="p">
+    <verse number="3" style="v"/>Tua tham loin, a siangtho inn adingin ka koihte
+        khempeuh banah, ngun leh kham keima aa mahmah zong om a, ka pa Pasian’ inn ka
+        ngaihsutna hangin ka Pasian’ innah ka piakte in:
+  </para>
+  <para style="p">
+    <verse number="4" style="v"/>Kawm zut nadingin Ofir gam kham ahi kham talen
+        tulthum, leh a kisiangsaksa ngun talen tulsagih,
+  </para>
+  <para style="p">
+    <verse number="5" style="v"/>leh siamneelte in a hih ding nasepna khempeuh adingin
+        kham zat nading nate ah kham leh ngun zat nading nate ah ngun ahi hi. Kua in utna
+        lungsim tawh Topa tungah tu ni-in amahmah kipia-in ki-ap ding na hi uh hiam?” a ci
+        hi.
+  </para>
+  <para style="p">
+    <verse number="6" style="v"/>Tua ciangin beh lutangte in ut thu-a piakna bawl uh a,
+        minam makaite, a tul tul-a a ukte leh a za za-a a ukte, leh kumpipa’ nasepna ah a uk
+        uliante in zong hih uh hi.
+  </para>
+  <para style="p">
+    <verse number="7" style="v"/>Amaute in Pasian’ inn nasep nadingin kham talen tulnga
+        leh kham darik tulsawm, ngun talen tulsawm, sumngo talen tulsawm leh tulgiat, leh
+        sik talen tul zakhat pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="8" style="v"/>Suangmanpha a nei peuhmah in Gershon mi Jehiel’ kepna
+        sung, Topa’ inn van manpha koihna ah pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="9" style="v"/>Tua ciangin hih mite in utna lungsim tawh pia uh ahih
+        manin mite lungdam uh hi; bang hang hiam cih leh amaute in lungsim khempeuh tawh
+        Topa tungah cingtakin pia uh hi; kumpi David zong nakpi takin lungdam hi.
+  </para>
+  <para style="p">
+    <verse number="10" style="v"/>Tua ahih ciangin a kikhawmte khempeuh’ omna ah David
+        in Topa phat hi; tua ciangin David in: “Nang, Topa, ka pu uh Israel Pasian aw, a
+        tawntungin thupha ngah ta in.
+  </para>
+  <para style="p">
+    <verse number="11" style="v"/>Topa aw, liatna, leh vangliatna, leh minthan’na, leh
+        gualzawhna, leh min liatna in nangma’ aa ahi hi; bang hang hiam cih leh vantung leh
+        leitungah a om khempeuh in nangma’ aa ahi hi; Topa aw, kumpigam in nangma’ aa hi a,
+        tuate khempeuh tungah nang a lutangin hong kisangsak hi.
+  </para>
+  <para style="p">
+    <verse number="12" style="v"/>Hauhna leh minphatna nangma kiang pan hong pai a,
+        nangmah in na khempeuh tungah na uk hi. Na khut sungah vangliatna leh thahatna om
+        hi; liatsak nading leh thakhauhsak nading na khut sungah om hi.
+  </para>
+  <para style="p">
+    <verse number="13" style="v"/>Tu-in nangma tungah ka nuam uh hi, kote’ Pasian aw,
+        a minthang na min ka phat uh hi.
+  </para>
+  <para style="p">
+    <verse number="14" style="v"/>“Ahih hangin kote in hih bangin utna tawh ka piak
+        nadingun keimah in kua hi a, ka mite in bang hi lel ahi hiam? Bang hang hiam cih leh
+        na khempeuh nang kiang pan hong pai hi a, nangma’ aa mah nang tungah kong pia uh hi.
+  </para>
+  <para style="p">
+    <verse number="15" style="v"/>Bang hang hiam cih leh ka pu ka pate khempeuh uh mah
+        bangin kote in nangma mai-ah mikhualte leh peemtate ka hi uh hi; ka hunte uh
+        leitungah nilim bang hi a, a kip om lo hi.
+  </para>
+  <para style="p">
+    <verse number="16" style="v"/>Topa kote’ Pasian aw, na min siangtho pahtawi
+        nadingin nang ading inn lam nadingin ka piaksa uh hih a tampite in nangma khut sung
+        panin hong pai hi a, a vekpi-in nangma aa mah ahi hi.
+  </para>
+  <para style="p">
+    <verse number="17" style="v"/>Nangmah in lungsim entelin thumanna ah na lungkimna
+        ka thei hi, ka Pasian aw; lungsim thumanna tawh hih nate khempeuh citna tawh kong
+        pia khin a, tu-in nang tungah citna leh lungdamna tawh a hong pia, hih lai-ah a om
+        na mite ka mu zo hi.
+  </para>
+  <para style="p">
+    <verse number="18" style="v"/>Ka pute uh Abraham, Isaak, leh Israel Pasian, Topa
+        aw, na mite’ lungsim sungah tua bang ngimnate leh ngaihsutnate omsak tawntung in la,
+        amaute’ lungsim nangma lamah kai in.
+  </para>
+  <para style="p">
+    <verse number="19" style="v"/>Amah in a lungsim khempeuh tawh na thupiaknate, na
+        tecipannate, leh na thukhamte kemin a vekpi-in sem a, keimah in ka vaihawmsa inn
+        lianpi amah in lam theih nading ka tapa Solomon tungah utna lungsim guan in,” a ci
+        hi.
+  </para>
+  <para style="p">
+    <verse number="20" style="v"/>Tua ciangin David in a kikhawmte khempeuh tungah,
+        “Topa na Pasian uh phat un,” a ci hi. Tua ciangin a kikhawmte khempeuh in a pute a
+        pate uh Pasian Topa phat in, a lu uh kun uh a, Topa bia-in kumpipa tungah zahtakna
+        bawl uh hi.
+  </para>
+  <para style="p">
+    <verse number="21" style="v"/>Tua ciangin amaute in Topa tungah biakpiakna bawl uh
+        a, a zing ciangin Topa tungah meihal biakna bawngtal tulkhat, tuutal tulkhat, leh
+        tuuno tulkhat, a leenggahzu tawh a biakna teng tawh, leh Israel khempeuh adingin
+        biak piakna tampi pia uh hi;
+  </para>
+  <para style="p">
+    <verse number="22" style="v"/>tua ciangin amaute in tua ni-in lungdamna lianpi
+        tawh Topa mai-ah pawi khamin om uh hi.Tua ciangin amaute in David’ tapa Solomon
+        kumpi-in a nihveina bawl uh a, amaute in Topa adingin amah kumpi-in sathau nilhin,
+        siampi dingin Zadok sathau nilh uh hi.
+  </para>
+  <para style="p">
+    <verse number="23" style="v"/>Tua ciangin a pa David tangin Topa’ kumpi tokhom
+        tungah kumpi-in Solomon tu hi; tua ciangin amah a dau pai a, Israel khempeuh in ama
+        thu mang uh hi.
+  </para>
+  <para style="p">
+    <verse number="24" style="v"/>Makaite khempeuh leh a thahat mite, leh Kumpi David’
+        tapate khempeuhte in zong Kumpi Solomon tungah a thuman ding uh thu ciam uh hi.
+  </para>
+  <para style="p">
+    <verse number="25" style="v"/>Tua ciangin Topa in Israel khempeuh muhna ah Solomon
+        tungah minthan’na lianpi pia a, Israel sungah ama ma-in kumpi khatpeuh peuh tungah a
+        kipia ngei nai lo kumpi min liatna guan hi.
+  </para>
+  <para style="p">
+    <verse number="26" style="v"/>Tua bangin Jessi’ tapa David in Israel khempeuh
+        tungah kumpi ahi hi.
+  </para>
+  <para style="p">
+    <verse number="27" style="v"/>Israel tungah ama uk hun in kum sawmli sung ahi hi;
+        amah in Hebron ah kum sagih sung, Jerusalem ah kum sawmthum-le-thum sung uk hi.
+  </para>
+  <para style="p">
+    <verse number="28" style="v"/>Tua ciangin a khangham, a ni cing, hauhna leh
+        minphatna tawh si hi; tua ciangin a tapa Solomon in ama tangin uk hi.
+  </para>
+  <para style="p">
+    <verse number="29" style="v"/>Tu-in Kumpi David’ gamtatnate a patna pan a tawpna
+        dongin, thu-mupa Samuel’ Khang Tangthu sung, leh kamsang Nathan’ Khang Tangthu sung,
+        leh thu-mupa Gad’ Khang Tangthu sungah,
+  </para>
+  <para style="p">
+    <verse number="30" style="v"/>ama ukna leh ama vangliatnate khempeuh leh ama tung
+        leh Israel tung, leh gamsung kumpi gamte khempeuh tungah a tung thute a kiciamtehna
+        tawh kigelh khawm hi.
+  </para>
+</usx>
