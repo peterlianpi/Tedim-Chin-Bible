@@ -1,7 +1,7 @@
 <h1>Tedim (Chin) Bible Translation: 2010 and 1977 Versions for Use with ProPresenter 7</h1>
 
 <p><strong>Disclaimer:</strong><br>
-The following translations, including the Chin 1977 (Tedim Bible) (TB77), Tedim (Chin) Bible (TDB), Falam Common Language Bible (FCL), and Lai (Hakha) Common Language Bible 2006 (HCL06), are copyrighted by the Myanmar Bible Society and other respective copyright holders. You are advised to contact the <a href="[http://www.myanmarbiblesociety.org](https://www.myanmarbs.org/)" target="_blank">Myanmar Bible Society</a> for permission to reproduce or distribute these works.</p>
+The following translations, including the Chin 1977 (Tedim Bible) (TB77), Tedim (Chin) Bible (TDB), Falam Common Language Bible (FCL), and Lai (Hakha) Common Language Bible 2006 (HCL06), are copyrighted by the Myanmar Bible Society and other respective copyright holders. You are advised to contact the <a href="https://www.myanmarbs.org/" target="_blank">Myanmar Bible Society</a> for permission to reproduce or distribute these works.</p>
 
 <p><strong>Included Bibles:</strong><br>
 The Reina-Valera Antigua (RVA) code has been repurposed for the Tedim (Chin) Bible (TDB), and therefore, the original RVA version is no longer available.  
