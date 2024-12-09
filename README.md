@@ -16,6 +16,10 @@ To restore the original RVA or YLT versions, remove and re-add them from the Pro
 </ul>
 
 </p>
+
+<p>The TB77, TDB, FCL, and HCL06 Bibles are copyrighted by the Myanmar Bible Society and other respective copyright holders. Please contact the Myanmar Bible Society for permission to reproduce or distribute these works.</p>
+
+
 <p>
 Setup:
 For Windows...
