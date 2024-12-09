@@ -11,8 +11,9 @@ To restore the original RVA or YLT versions, remove and re-add them from the Pro
   <li><strong>KJV</strong> - King James Version</li>
   <li><strong>BJB</strong> - Judson Bible</li>
   <li><strong>TDB</strong> - Tedim (Chin) Bible</li>
+  <li><strong>FCL</strong> - Falam Common Language Bible</li>
+  <li><strong>HCL06</strong> - Lai (Hakha) Common Language Bible 2006</li>
 </ul>
-
 
 </p>
 <p>
